@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b3a25275798c4c129dc863b7e619f41c)](https://www.codacy.com/app/soumendrak/MTEnglish2Odia?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=soumendrak/MTEnglish2Odia&amp;utm_campaign=Badge_Grade)
 # MTEnglish2Odia
 ## Machine Translation from English to Odia language
 This is a healthy start to building Automated machine translation for `English` to `Odia` language.
