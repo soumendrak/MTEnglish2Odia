@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 This file contains all the odia character corrresponding to their ordinals
 Author: Soumendra Kumar Sahoo (proud_odia@outlook.com)
