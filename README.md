@@ -6,19 +6,9 @@ This is a healthy start to building Automated machine translation for `English` 
 This has been built mainly to help increase quality odia wikipedia articles by translating for English Wikipedia.
 The approach is to start building a parallel corpus between English and Odia language which can later be used in SMT(Statistical Machine Translation) or NMT (Neural Machine Translation) in future by interested people.
 
-## Current status
-- Parallel corpus of more than 11706 English-Odia words/sentences corpus prepared by parsing the Wikipedia translation dump data.
-
-## Future Road map
-- Utilizing Wikidata for more word corpus
-- Using Transliteration between `Hindi` and `Odia` language to prepare corpus for unknown words/phrases.
-- Around *July 2019* it has been planned to prepare the first release of English-Odia translation API for Public for free
-- The details on the plan and progress will be updated.
-- Any types of contribution to build the corpus and later on SMT or NMT approach is always welcome.
-
 For more details visit the website of this repository : [MTEnglish2Odia](https://soumendrak.github.io/MTEnglish2Odia/)
-## Contributors
-- Soumendra Kumar Sahoo
 
 ## License
 GPL v3.0
+
+---

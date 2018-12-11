@@ -9,6 +9,37 @@ Machine translation from [English](https://en.wikipedia.org/wiki/English_languag
 The NMT is giving best score (BLEU score) followed by SMT and RBMT.
 Based on the reading and analysis from some existing papers, as the corpus is low, for the time-being we will go ahead with SMT ([Statistical Machine Translation](https://en.wikipedia.org/wiki/Statistical_machine_translation)) first. As the corpus grows, we will start testing our luck in NMT ([Neural Machine Translation](https://en.wikipedia.org/wiki/Neural_machine_translation))
 
+
+## High level Roadmap
+
+This roadmap is prepared based on my extra time and availability to work. If I will get more help we can deliver early.
+
+Month | Year | Milestone | Status
+:---------|:----------:|:---------|:---------
+ [December](#december2018) | 2018 | Analyze and study the existing resources available on Internet | In-progress
+ January  | 2019 | Study the reference papers and experts in NMT and analyze their opinions
+ February | 2019 | Do same as January, concentrate more on the state-of-the-art practices
+ March    | 2019 | Plan the code structure, prepare CI/CD and Unit test cases and start coding
+ April    | 2019 | First Alpha version should be released on first week of April ([Utkala Divasa](https://en.wikipedia.org/wiki/Odisha_Day))
+ May      | 2019 | Analyze the codebase and do refactoring
+ June     | 2019 | Second Alpha version release. Use best practices and concentrate on scalability
+ July     | 2019 | First Beta version release
+ August   | 2019 | Break
+ September| 2019 | Break
+ October  | 2019 | Analyze over internet again and do necessary changes
+ November | 2019 | Second Beta release. Bug fixes and improvements on Alpha/Beta release feedback
+ December | 2019 | Testing and Testing
+ January  | 2020 | Production release
+
+
+### Detailed works completed/ongoing in December 2018 <a name="december2018"></a>
+- Found corpuses worth around [27,000 English-Odia tab separated translation pairs][1]  
+ This needs work on the followings:
+  - Some preprocessing need to be done.
+  - All translation not so accurate based on few manual review
+  - Spelling mistakes are there
+
+
 ## Referred articles/websites:
 * [Apertium Wiki for Odia language](http://wiki.apertium.org/wiki/Odia)
 * [Indic Languages Multilingual Parallel Corpus](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html)
@@ -23,3 +54,5 @@ Based on the reading and analysis from some existing papers, as the corpus is lo
 
 ## Contributors
 - Soumendra Kumar Sahoo
+<!-- Refrences -->
+[1]: https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879
