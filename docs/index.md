@@ -6,7 +6,7 @@ Machine translation from [English](https://en.wikipedia.org/wiki/English_languag
 - Statistical MT (SMT) and 
 - Neural MT (NMT)
 
-The NMT is giving best score (BLEU score) followed by SMT and RBMT.
+The NMT is giving best score (BLEU score) followed by SMT and RBMT. As explained in [this paper](https://arxiv.org/ftp/arxiv/papers/1708/1708.04559.pdf) for Indic languages SMT is performing better (at least 10% higher) than RBMT.
 Based on the reading and analysis from some existing papers, as the corpus is low, for the time-being we will go ahead with SMT ([Statistical Machine Translation](https://en.wikipedia.org/wiki/Statistical_machine_translation)) first. As the corpus grows, we will start testing our luck in NMT ([Neural Machine Translation](https://en.wikipedia.org/wiki/Neural_machine_translation))
 
 
@@ -33,7 +33,7 @@ Month | Year | Milestone | Status
 
 
 ### Detailed works completed/ongoing in December 2018 <a name="december2018"></a>
-- Found corpuses worth around [27,000 English-Odia tab separated translation pairs][1]  
+- Found corpuses worth around [27,000 English-Odia tab separated translation pairs](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879)
  This needs work on the followings:
   - Some preprocessing need to be done.
   - All translation not so accurate based on few manual review
@@ -46,6 +46,7 @@ Month | Year | Milestone | Status
 * [The RGNLP Machine Translation Systems for WAT 2018](https://arxiv.org/ftp/arxiv/papers/1812/1812.00798.pdf)
 * [Anuvadaksh- An online existing English-Odia translator](https://www.cdac.in/index.aspx?id=mc_mat_anuvadakshInfo)
 * [Wordnet for Odia](http://www.cfilt.iitb.ac.in/indowordnet/)
+* [RBMT vs SMT](https://arxiv.org/ftp/arxiv/papers/1708/1708.04559.pdf)
 
 ## Data collected from:
 * [Wikipedia Data dump](https://www.mediawiki.org/wiki/Content_translation/Published_translations)
@@ -54,5 +55,3 @@ Month | Year | Milestone | Status
 
 ## Contributors
 - Soumendra Kumar Sahoo
-<!-- Refrences -->
-[1]: https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879
