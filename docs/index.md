@@ -38,6 +38,13 @@ Month | Year | Milestone | Status
   - Some preprocessing need to be done.
   - All translation not so accurate based on few manual review
   - Spelling mistakes are there
+- After reading [one article](http://www.scielo.org.mx/scielo.php?pid=S1405-55462017000400725&script=sci_arttext) on preprocessing English-Hindi corpus for SMT, I got insight on the following preproceessing tasks need to be done at first:
+  - Punctuations should NOT be removed
+  - English text should be lower cased as Odia does not have any upper case or lower case
+  - Spell normalization (Which is like [Lemmatization](https://en.wikipedia.org/wiki/Lemmatization)) will have a greater impact
+  - The impact of mapping numbers with unique class labels is not very effective and can be left out.
+  - We need [NER](https://en.wikipedia.org/wiki/Named-entity_recognition) (Named Entity Recognition) words for which [Transliteration](https://en.wikipedia.org/wiki/Transliteration) is enough
+  - We need POS tag data to improve the accuracy also.
 
 
 ## Referred articles/websites:
@@ -54,4 +61,7 @@ Month | Year | Milestone | Status
 * [OdiEnCorp 1.0](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879)
 
 ## Contributors
-- Soumendra Kumar Sahoo
+- Soumendra Kumar Sahoo  
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This Website's documentation work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
