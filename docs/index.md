@@ -18,8 +18,8 @@ This road map is prepared based on my extra time and availability to work. If I 
 
 Month | Year | Milestone | Status
 :---------|:----------:|:---------|:---------
- [December](#december2018) | 2018 | Analyze and study the existing resources available on Internet | In-progress
- January  | 2019 | Study the reference papers and experts in NMT and analyze their opinions
+ [December](#december2018) | 2018 | Analyze and study the existing resources available on Internet | Completed
+ [January](#january2019)  | 2019 | Study the reference papers and experts in NMT and analyze their opinions | Yet to start
  February | 2019 | Do same as January, concentrate more on the state-of-the-art practices
  March    | 2019 | Plan the code structure, prepare CI/CD and Unit test cases and start coding
  April    | 2019 | First Alpha version should be released on first week of April ([Utkala Divas](https://en.wikipedia.org/wiki/Odisha_Day))
@@ -34,7 +34,7 @@ Month | Year | Milestone | Status
  January  | 2020 | Production release
 
 
-### Detailed works completed/ongoing in December 2018 <a name="december2018"></a>
+### <a name="december2018"></a> Detailed works completed in December 2018
 - Found corpus worth around [27,000 English-Odia tab separated translation pairs](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879)
  This needs work on the followings:
   - Some preprocessing need to be done.
@@ -42,7 +42,7 @@ Month | Year | Milestone | Status
   - Spelling mistakes are there
 - After reading [one article](http://www.scielo.org.mx/scielo.php?pid=S1405-55462017000400725&script=sci_arttext) on preprocessing English-Hindi corpus for SMT, I got insight on the following preprocessing tasks need to be done at first:
   - Punctuation should NOT be removed
-  - English text should be lower cased as Odia does not have any upper case or lower case
+  - **English** text should be lower cased as Odia does not have any upper case or lower case
   - Spell normalization (Which is like [Lemmatization](https://en.wikipedia.org/wiki/Lemmatization)) will have a greater impact
   - The impact of mapping numbers with unique class labels is not very effective and can be left out.
   - We need [NER](https://en.wikipedia.org/wiki/Named-entity_recognition) (Named Entity Recognition) words for which [Transliteration](https://en.wikipedia.org/wiki/Transliteration) is enough
@@ -62,6 +62,14 @@ Month | Year | Milestone | Status
   - Transliterate those words to Odia
   - Using some other existing translation system, convert those words to Hindi/Sanskrit then transliterate those words to Odia. Because most of the words in between Hindi/Sanskrit and Odia are same and people can understand.
 
+### <a name="january2019"></a> Detailed works completed/ongoing in January 2019
+
+
+## Impediments
+- [x] Get at least 10,000 parallel open corpus for Odia language to begin with.
+- [ ] Verification of the existing corpus badly needed.
+- [ ] Moses does not run on Windows. Need an Ubuntu OS to test that.
+- [ ] Need a cloud system to host manual translation API server and in future for online translation.
 
 ## Referred articles/websites:
 * [Apertium Wiki for Odia language](http://wiki.apertium.org/wiki/Odia)
