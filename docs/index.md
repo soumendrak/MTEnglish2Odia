@@ -83,6 +83,7 @@ Month | Year | Milestone | Status
 * [Wikipedia Data dump](https://www.mediawiki.org/wiki/Content_translation/Published_translations)
 * [Open Parallel Corpus](http://opus.nlpl.eu)
 * [OdiEnCorp 1.0](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879)
+* [TDIL](http://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1070&lang=en) - Technical strings 52,000 pairs-Data needs to be cleaned
 
 ## Contributors
 - Soumendra Kumar Sahoo  
