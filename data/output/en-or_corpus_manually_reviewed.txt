@@ -1,86 +1,106 @@
-we don't care|||ଆମେ ଖାତିର କରୁନା|||ଆମର କିଛି ଯାଏ ଆସେ ନାହିଁ 
-shining star|||ଚମକୁଥିବା ତାରା|||ଉଜ୍ଜ୍ୱଳ ନକ୍ଷତ୍ର
-recent posts|||ପାଖାପାଖି ପୋଷ୍ଟଗୁଡିକ 
-you are tired|||ଆପଣ ଥକି ଯାଇଛନ୍ତି 
-a row|||ଗୋଟିଏ ଧାଡ଼ି 
-to pull|||ଭିଡ଼ିବା ପାଇଁ|||ଟାଣିବା ପାଇଁ|||ଟାଣିବାକୁ
-to keep fit|||ସୁସ୍ଥସବଳ ରହିବାକୁ 
-go jogging|||ଦୌଡିବାକୁ ଯାଆନ୍ତୁ 
-get money|||ଟଙ୍କା ଆଣନ୍ତୁ|||ଅର୍ଥ ଆଣନ୍ତୁ 
-new arrival|||ନୂଆକରି ଆସିଥିବା 
-figure it out|||ଆକଳନ କରନ୍ତୁ 
-my back hurts|||ମୋର ପିଠି କାଟୁଛି 
-dug up|||ଖୋଳିଦିଅନ୍ତୁ 
-razor blades|||ରେଜର ବ୍ଲେଡ 
-family member|||ପରିବାର ଲୋକ|||ପରିବାର ସଦସ୍ୟ
-access point|||ଆକ୍ସେସ ପଏଣ୍ଟ 
-at will|||ଇଛା ଅନୁସାରେ 
-laundry detergent|||ଲୁଗା ସଫାକରିବା ଡିଟରଜେଣ୍ଟ 
-he loves|||ସେ ଭଲପାଏ 
-the ocean|||ମହାସାଗରଟି 
-kiss and tell|||ଚୁମ ଏବଂ କୁହ 
-block of flats|||କିଛିଗୁଡ଼ିଏ ଫ୍ଲାଟ 
-dedicated to|||ପାଇଁ ଉତ୍ସର୍ଗୀକୃତ 
-in this moment|||ଏହି କ୍ଷଣରେ 
-facial expressions|||ମୁଖର ଭାବ 
-carbon footprint|||କାର୍ବନ ଫୁଟପ୍ରିଣ୍ଟ 
-skin deep|||ଚମ ଗହୀର 
-more specifically|||ଅଧିକ ନିର୍ଦ୍ଧିଷ୍ଟରୂପେ 
-no more sorrow|||ଆଉ ଦୁଃଖ ନାହିଁ 
-far more|||ବହୁତ ଅଧିକା 
-no excuses|||କିଛି ବାହାନା ନାହିଁ 
-stubborn love|||ଜିଦିଆ ପ୍ରେମ 
-number of dependents|||ନିର୍ଭରକାରୀ ସଂଖ୍ୟା 
-you take care|||ଆପଣ ନିଜର ଯତ୍ନ ନିଅନ୍ତୁ 
-can not run game with current graphic card|||ବର୍ତ୍ତମାନର ଗ୍ରାଫିକ୍ସ କାର୍ଡ଼ଦ୍ୱାରା ଏହି ଖେଳଟିକୁ ଚଲେଇପାରି ହବନି 
-whipped cream|||ଫେଣ୍ଟାଯାଇଥିବା କ୍ରିମ 
-i will be back soon|||ମୁଁ ଶୀଘ୍ର ଫେରିଆସିବି 
-i will wait you|||ମୁଁ ତମକୁ ଅପେକ୍ଷା କରିବି 
-a haunted house|||ଗୋଟିଏ ଭୁତ ଘର
-internal medicine|||ଆଭ୍ୟନ୍ତରୀଣ ଔଷଧ 
-default browser|||ପୂର୍ବନିର୍ଦ୍ଧାରିତ ବ୍ରାଉଜର 
-asking for it|||ଏହାପାଇଁ ମାଗୁଛି 
-happy new year to you|||ଆପଣଙ୍କୁ ନବବର୍ଷର ଅଭିନନ୍ଦନ 
-i am sorry to hear that|||ତାହା ଶୁଣି ବହୁତ ଦୁଃଖ ଲାଗିଲା|||ତାହା ଶୁଣି ମୋତେ ବହୁତ ଦୁଃଖ ଲାଗିଲା |||ତାହା ଶୁଣି ମୁଁ ଦୁଃଖିତ 
-odd pages|||ଅଯୁଗ୍ମ ପୃଷ୍ଠାଗୁଡ଼ିକ 
-i am legend|||ମୁଁ ଦିବ୍ୟ ବ୍ୟକ୍ତି|||ମୁଁ ଜଣେ କିମ୍ବଦନ୍ତୀ ମନୁଷ୍ୟ 
-advertising campaign|||ବିଜ୍ଞାପନ ଅଭିଯାନ 
-license key|||ଲାଇସେନ୍ସ କୁଂଜୀ 
-that is cool|||ତାହା ଥଣ୍ଡା ଅଟେ|||ତାହା ଖୁସିଯୁକ୍ତ ଅଟେ|||ତାହା ଆମୋଦପ୍ରଦ ଅଟେ 
-use 3 hoverboards without crashing|||ଦୁର୍ଘଟଣାଗ୍ରସ୍ତ ନହୋଇ ତିନୋଟି ହୋଭରବୋର୍ଡ଼ ଉପଯୋଗ କରନ୍ତୁ 
-governing law|||ଶାସକୀୟ ନିୟମ 
-you do not understand|||ଆପଣ ବୁଝୁନାହାନ୍ତି 
-i love you just the way you are|||ଆପଣ ଯେଭଳିବି ହୁଅନ୍ତୁ ନା କାହିଁକି ମୁଁ ଆପଣଙ୍କୁ ଭଲ ପାଉଛି 
-she is gone|||ସେ ଚାଲିଗଲେ 
-make a wish|||ଗୋଟିଏ ଇଚ୍ଛାପ୍ରକାଶ କରନ୍ତୁ 
-free for all|||ସଭିଙ୍କ ନିମନ୍ତେ ମାଗଣା ଅଟେ|||ସଭିଙ୍କ ନିମନ୍ତେ ଦେୟମୁକ୍ତ ଅଟେ
-sightseeing tour|||ପାଖଆଖ ବୁଲିବା 
-to exercise|||ବ୍ୟାୟାମ କରିବାକୁ 
-out of time|||ସମୟ ନାହିଁ|||ସମୟ ସରିଯାଉଛି|||ସମୟ ବାହାରେ 
-cyber monday|||ସାଇବର ସୋମବାର
-blue collar|||ନୀଳ ଶାର୍ଟ କଲର 
-this can not be undone|||ଏହାକୁ ପଛକୁ ଫେରାଇ ଆଣିହେବନାହିଁ 
-memory card|||ସ୍ମୃତି କାର୍ଡ଼|||ମେମୋରୀ କାର୍ଡ 
-bragging rights|||ବକର ବକର ହେବା ଅଧିକାର|||ଫୁଲେଇ ହେବା ଅଧିକାର|||ଦେଖେଇ ହେବା ଅଧିକାର |||ବାହାସ୍ଫୋଟ ମାରିବା ଅଧିକାର |||ପବନ କରିବା ଅଧିକାର 
-point of sale|||ବିକ୍ରି କରିବାର ସ୍ଥାନ 
-despite the fact|||ସତ୍ୟ ସତ୍ୱେ 
-london eye|||ଲଣ୍ଡନ ଆଖି 
-dark fire|||ଅନ୍ଧାର ନିଆଁ 
-yes exactly|||ହଁ ବିଲକୁଲ|||ହଁ ନିହାତିରୂପେ 
-just go|||ଦୟାକରି ଚାଲିଯାଆନ୍ତୁ|||ଟିକେ ଯାଆନ୍ତୁ|||ଜଷ୍ଟ ଚାଲ 
-i need a doctor|||ମୋତେ ଜଣେ ଡାକ୍ତର ଆବଶ୍ୟକ 
-write back soon|||ଶୀଘ୍ର ଉତ୍ତର ଲେଖନ୍ତୁ 
-what is your address|||ଆପଣଙ୍କର ଠିକଣା କଣ |||ଆପଣ କେଉଁଠାରେ ରୁହନ୍ତି 
-straw hat|||ନଡ଼ାରେ ତିଆରି ଟୋପି 
-my phone number is|||ମୋ ଫୋନ ନମ୍ବର ହେଲା 
-no music no life|||ସଙ୍ଗୀତବିନା ଜୀବନ ଅସାର 
-about you|||ଆପଣଙ୍କ ବିଷୟରେ 
-physical therapist|||ଫିଜିକାଲ ଥେରାପିସ୍ତ 
-place an order|||ଗୋଟିଏ ଅର୍ଡର ଦିଅନ୍ତୁ 
-party animal|||ପାର୍ଟି ପ୍ରିୟ|||ନାଚଗୀତ ପ୍ରିୟ 
-entry level|||ପ୍ରବେଶ ସ୍ତର 
-gross income|||ମୋଟ ଆୟ 
-play store|||ଖେଳିବା ଷ୍ଟୋର 
-where did you stay|||ଆପଣ କେଉଁଠାରେ ରହୁଥିଲେ 
-you speak french|||ଆପଣ ଫ୍ରେଞ୍ଚ କୁହନ୍ତି 
-
+GG|we don't care||ଆମେ ଖାତିର କରୁନା||ଆମର କିଛି ଯାଏ ଆସେ ନାହିଁ 
+GG|shining star||ଚମକୁଥିବା ତାରା||ଉଜ୍ଜ୍ୱଳ ନକ୍ଷତ୍ର
+GG|recent posts||ପାଖାପାଖି ପୋଷ୍ଟଗୁଡିକ 
+GG|you are tired||ଆପଣ ଥକି ଯାଇଛନ୍ତି 
+GG|a row||ଗୋଟିଏ ଧାଡ଼ି 
+GG|to pull||ଭିଡ଼ିବା ପାଇଁ||ଟାଣିବା ପାଇଁ||ଟାଣିବାକୁ
+GG|to keep fit||ସୁସ୍ଥସବଳ ରହିବାକୁ 
+GG|go jogging||ଦୌଡିବାକୁ ଯାଆନ୍ତୁ 
+GG|get money||ଟଙ୍କା ଆଣନ୍ତୁ||ଅର୍ଥ ଆଣନ୍ତୁ 
+GG|new arrival||ନୂଆକରି ଆସିଥିବା 
+GG|figure it out||ଆକଳନ କରନ୍ତୁ 
+GG|my back hurts||ମୋର ପିଠି କାଟୁଛି 
+GG|dug up||ଖୋଳିଦିଅନ୍ତୁ 
+GG|razor blades||ରେଜର ବ୍ଲେଡ 
+GG|family member||ପରିବାର ଲୋକ||ପରିବାର ସଦସ୍ୟ
+GG|access point||ଆକ୍ସେସ ପଏଣ୍ଟ 
+GG|at will||ଇଛା ଅନୁସାରେ 
+GG|laundry detergent||ଲୁଗା ସଫାକରିବା ଡିଟରଜେଣ୍ଟ 
+GG|he loves||ସେ ଭଲପାଏ 
+GG|the ocean||ମହାସାଗରଟି 
+GG|kiss and tell||ଚୁମ ଏବଂ କୁହ 
+GG|block of flats||କିଛିଗୁଡ଼ିଏ ଫ୍ଲାଟ 
+GG|dedicated to||ପାଇଁ ଉତ୍ସର୍ଗୀକୃତ 
+GG|in this moment||ଏହି କ୍ଷଣରେ 
+GG|facial expressions||ମୁଖର ଭାବ 
+GG|carbon footprint||କାର୍ବନ ଫୁଟପ୍ରିଣ୍ଟ 
+GG|skin deep||ଚମ ଗହୀର 
+GG|more specifically||ଅଧିକ ନିର୍ଦ୍ଧିଷ୍ଟରୂପେ 
+GG|no more sorrow||ଆଉ ଦୁଃଖ ନାହିଁ 
+GG|far more||ବହୁତ ଅଧିକା 
+GG|no excuses||କିଛି ବାହାନା ନାହିଁ 
+GG|stubborn love||ଜିଦିଆ ପ୍ରେମ 
+GG|number of dependents||ନିର୍ଭରକାରୀ ସଂଖ୍ୟା 
+GG|you take care||ଆପଣ ନିଜର ଯତ୍ନ ନିଅନ୍ତୁ 
+GG|can not run game with current graphic card||ବର୍ତ୍ତମାନର ଗ୍ରାଫିକ୍ସ କାର୍ଡ଼ଦ୍ୱାରା ଏହି ଖେଳଟିକୁ ଚଲେଇପାରି ହବନି 
+GG|whipped cream||ଫେଣ୍ଟାଯାଇଥିବା କ୍ରିମ 
+GG|i will be back soon||ମୁଁ ଶୀଘ୍ର ଫେରିଆସିବି 
+GG|i will wait you||ମୁଁ ତମକୁ ଅପେକ୍ଷା କରିବି 
+GG|a haunted house||ଗୋଟିଏ ଭୁତ ଘର
+GG|internal medicine||ଆଭ୍ୟନ୍ତରୀଣ ଔଷଧ 
+GG|default browser||ପୂର୍ବନିର୍ଦ୍ଧାରିତ ବ୍ରାଉଜର 
+GG|asking for it||ଏହାପାଇଁ ମାଗୁଛି 
+GG|happy new year to you||ଆପଣଙ୍କୁ ନବବର୍ଷର ଅଭିନନ୍ଦନ 
+GG|i am sorry to hear that||ତାହା ଶୁଣି ବହୁତ ଦୁଃଖ ଲାଗିଲା||ତାହା ଶୁଣି ମୋତେ ବହୁତ ଦୁଃଖ ଲାଗିଲା ||ତାହା ଶୁଣି ମୁଁ ଦୁଃଖିତ 
+GG|odd pages||ଅଯୁଗ୍ମ ପୃଷ୍ଠାଗୁଡ଼ିକ 
+GG|i am legend||ମୁଁ ଦିବ୍ୟ ବ୍ୟକ୍ତି||ମୁଁ ଜଣେ କିମ୍ବଦନ୍ତୀ ମନୁଷ୍ୟ 
+GG|advertising campaign||ବିଜ୍ଞାପନ ଅଭିଯାନ 
+GG|license key||ଲାଇସେନ୍ସ କୁଂଜୀ 
+GG|that is cool||ତାହା ଥଣ୍ଡା ଅଟେ||ତାହା ଖୁସିଯୁକ୍ତ ଅଟେ||ତାହା ଆମୋଦପ୍ରଦ ଅଟେ 
+GG|use 3 hoverboards without crashing||ଦୁର୍ଘଟଣାଗ୍ରସ୍ତ ନହୋଇ ତିନୋଟି ହୋଭରବୋର୍ଡ଼ ଉପଯୋଗ କରନ୍ତୁ 
+GG|governing law||ଶାସକୀୟ ନିୟମ 
+GG|you do not understand||ଆପଣ ବୁଝୁନାହାନ୍ତି 
+GG|i love you just the way you are||ଆପଣ ଯେଭଳିବି ହୁଅନ୍ତୁ ନା କାହିଁକି ମୁଁ ଆପଣଙ୍କୁ ଭଲ ପାଉଛି 
+GG|she is gone||ସେ ଚାଲିଗଲେ 
+GG|make a wish||ଗୋଟିଏ ଇଚ୍ଛାପ୍ରକାଶ କରନ୍ତୁ 
+GG|free for all||ସଭିଙ୍କ ନିମନ୍ତେ ମାଗଣା ଅଟେ||ସଭିଙ୍କ ନିମନ୍ତେ ଦେୟମୁକ୍ତ ଅଟେ
+GG|sightseeing tour||ପାଖଆଖ ବୁଲିବା 
+GG|to exercise||ବ୍ୟାୟାମ କରିବାକୁ 
+GG|out of time||ସମୟ ନାହିଁ||ସମୟ ସରିଯାଉଛି||ସମୟ ବାହାରେ 
+GG|cyber monday||ସାଇବର ସୋମବାର
+GG|blue collar||ନୀଳ ଶାର୍ଟ କଲର 
+GG|this can not be undone||ଏହାକୁ ପଛକୁ ଫେରାଇ ଆଣିହେବନାହିଁ 
+GG|memory card||ସ୍ମୃତି କାର୍ଡ଼||ମେମୋରୀ କାର୍ଡ 
+GG|bragging rights||ବକର ବକର ହେବା ଅଧିକାର||ଫୁଲେଇ ହେବା ଅଧିକାର||ଦେଖେଇ ହେବା ଅଧିକାର ||ବାହାସ୍ଫୋଟ ମାରିବା ଅଧିକାର ||ପବନ କରିବା ଅଧିକାର 
+GG|point of sale||ବିକ୍ରି କରିବାର ସ୍ଥାନ 
+GG|despite the fact||ସତ୍ୟ ସତ୍ୱେ 
+GG|london eye||ଲଣ୍ଡନ ଆଖି 
+GG|dark fire||ଅନ୍ଧାର ନିଆଁ 
+GG|yes exactly||ହଁ ବିଲକୁଲ||ହଁ ନିହାତିରୂପେ 
+GG|just go||ଦୟାକରି ଚାଲିଯାଆନ୍ତୁ||ଟିକେ ଯାଆନ୍ତୁ||ଜଷ୍ଟ ଚାଲ 
+GG|i need a doctor||ମୋତେ ଜଣେ ଡାକ୍ତର ଆବଶ୍ୟକ 
+GG|write back soon||ଶୀଘ୍ର ଉତ୍ତର ଲେଖନ୍ତୁ 
+GG|what is your address||ଆପଣଙ୍କର ଠିକଣା କଣ ||ଆପଣ କେଉଁଠାରେ ରୁହନ୍ତି 
+GG|straw hat||ନଡ଼ାରେ ତିଆରି ଟୋପି 
+GG|my phone number is||ମୋ ଫୋନ ନମ୍ବର ହେଲା 
+GG|no music no life||ସଙ୍ଗୀତବିନା ଜୀବନ ଅସାର 
+GG|about you||ଆପଣଙ୍କ ବିଷୟରେ 
+GG|physical therapist||ଫିଜିକାଲ ଥେରାପିସ୍ତ 
+GG|place an order||ଗୋଟିଏ ଅର୍ଡର ଦିଅନ୍ତୁ 
+GG|party animal||ପାର୍ଟି ପ୍ରିୟ||ନାଚଗୀତ ପ୍ରିୟ 
+GG|entry level||ପ୍ରବେଶ ସ୍ତର 
+GG|gross income||ମୋଟ ଆୟ 
+GG|play store||ଖେଳିବା ଷ୍ଟୋର 
+GG|where did you stay||ଆପଣ କେଉଁଠାରେ ରହୁଥିଲେ 
+GG|you speak french||ଆପଣ ଫ୍ରେଞ୍ଚ କୁହନ୍ତି 
+FB|Join Translator Community||ଅନୁବାଦ ଗୋଷ୍ଠୀରେ ସାମିଲ ହୁଅନ୍ତୁ 
+FB|You'll use this to log into your account. ||ଆପଣ ଏହାକୁ ନିଜ ଖାତାରେ ଲଗ-ଇନ କରିବାକୁ ଉପଯୋଗ କରିବେ |
+FB|It will also help you reset your password if you ever need to.|| ଯଦି କେବେ ଦରକାରପଡ଼େ ଏହା ଆପଣଙ୍କର ପାସୱାର୍ଡ଼ ବଦଳାଇବାରେ ମଧ୍ୟ ସାହାର୍ଯ୍ୟ କରିବ |
+FB|To help keep your account secure, please don't forward this email.||ନିଜ ଖାତାକୁ ସୁରକ୍ଷିତ ରଖିବାକୁ, ଏହି ଇମେଲକୁ ଆଉ କାହାକୁ ପଠାନ୍ତୁ ନାହିଁ ।
+FB|This conversation is muted||ଏହି କଥାବାର୍ତ୍ତାଟିକୁ ଚୁପ କରାଯାଇଛି |
+FB|Chat tabs will not pop up for it and push notifications are off.||ଚାଟ ଟ୍ୟାବ ଏହାପାଇଁ ଉଠି ଆସିବନି ଏବଂ ପ୍ରେରିତ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକୁ ମଧ୍ୟ ବନ୍ଦ କରାଯାଇଛି |
+GG|Are you English||ଆପଣ ଇଂରେଜ କି 
+GG|very nice picture||ବହୁତ ସୁନ୍ଦର ଛବି 
+GG|mark as read||ପଢ଼ିସାରିଛନ୍ତି ବୋଲି ଚିନ୍ହିତ କରନ୍ତୁ 
+GG|sound the horn||ଶବ୍ଦ ଦିଅନ୍ତୁ ||ଗାଡ଼ି ଶବ୍ଦ ଦିଅନ୍ତୁ ||ଶବ୍ଦ ଦିଅନ୍ତୁ 
+GG|uncountable nouns||ଅସୀମ ବିଶେଷ୍ୟଗୁଡ଼ିକ 
+GG|to expect||ଆଶା କରିବାକୁ 
+GG|girl gone wild||ଝିଅଟି ପାଗେଳୀ ହେଇଯାଇଛି 
+GG|human race||ମନୁଷ୍ୟ ଦୌଡ଼ 
+GG|hire date||ଭଡ଼ାନେବା ଦିନ 
+GG|skimmed milk||ସ୍କିମଡ କ୍ଷୀର 
+GG|stock exchange||ଶେୟାର ବଜାର 
+GG|pocket money||ହାତ ଖର୍ଚ୍ଚ||ପକେଟ ମନି 
+GG|this is temporary. I'll be back||ଏହା କ୍ଷଣସ୍ଥାୟୀ | ମୁଁ ଫେରିବି |
+GG|even pages only||କେବଳ ଯୁଗ୍ମ ପୃଷ୍ଠାଗୁଡ଼ିକ 
+GG|no guts no glory||ସାହସ  ନାହିଁ ତ ସମ୍ମାନ ନାହିଁ 
