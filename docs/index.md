@@ -19,7 +19,7 @@ This road map is prepared based on my extra time and availability to work. If I 
 Month | Year | Milestone | Status
 :---------|:----------:|:---------|:---------
  [December](#december2018) | 2018 | Analyze and study the existing resources available on Internet | Completed
- [January](#january2019)  | 2019 | Study the reference papers and experts in NMT and analyze their opinions | Yet to start
+ [January](#january2019)  | 2019 | Study the reference papers and experts in NMT and analyze their opinions | In-progress
  February | 2019 | Do same as January, concentrate more on the state-of-the-art practices
  March    | 2019 | Plan the code structure, prepare CI/CD and Unit test cases and start coding
  April    | 2019 | First Alpha version should be released on first week of April ([Utkala Divas](https://en.wikipedia.org/wiki/Odisha_Day))
@@ -63,13 +63,20 @@ Month | Year | Milestone | Status
   - Using some other existing translation system, convert those words to Hindi/Sanskrit then transliterate those words to Odia. Because most of the words in between Hindi/Sanskrit and Odia are same and people can understand.
 
 ### <a name="january2019"></a> Detailed works completed/ongoing in January 2019
-
+- Last year has been pretty exciting to prepare this plan. Hope this year we will be able to deliver something useful for the community.
+- Quality of data is highly needed. Therefore started preparing phrase parallel corpus and contributing simultaneously to both Google and Facebook. How ? Google translation community and Facebook Translate are recommending phrases to translate. The same phrases I am keeping a copy to myself.
+- Microsoft has given [an exciting resource](https://hub.microsofttranslator.com) to public to train their own Parallel Translation model that is also **FREE**. Details: 
+  - It needs more than 10,000 pairs of parallel sentence pairs
+  - It seems to be working on SMT
+  - Train, Testing, Deployment all pipeline have been there
+- First attempt I have tried this tool with GNOME translation pair I got. However, It got failed may be due to only 60 parallel sentences.
+- In the meantime there seems to be many work going on with frequent papers in [Unsupervised NMT](http://arxiv.org/abs/1901.04112v1) for low resources languages, there has not been any significant usable work yet. However, I am keeping an eye on that too.
 
 ## Impediments
 - [x] Get at least 10,000 parallel open corpus for Odia language to begin with.
 - [ ] Verification of the existing corpus badly needed.
 - [ ] Moses does not run on Windows. Need an Ubuntu OS to test that.
-- [ ] Need a cloud system to host manual translation API server and in future for online translation.
+- [ ] Need a cloud system to host manual translation API server and in future for online translation. Is it Microsoft ?
 
 ## Referred articles/websites:
 * [Apertium Wiki for Odia language](http://wiki.apertium.org/wiki/Odia)

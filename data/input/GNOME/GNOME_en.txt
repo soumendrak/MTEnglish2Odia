@@ -1,0 +1,149 @@
+Give your application an accessibility workout
+Accerciser Accessibility Explorer
+The default plugin layout for the bottom panel
+The default plugin layout for the top panel
+A list of plugins that are disabled by default
+Highlight duration
+The duration of the highlight box when selecting accessible nodes
+Highlight border color
+The color and opacity of the highlight border.
+Highlight fill color
+The color and opacity of the highlight fill.
+API Browser
+Browse the various methods of the current accessible
+Hide private attributes
+Method
+Property
+Value
+IPython Console
+Interactive console for manipulating currently selected accessible
+Event monitor
+_Monitor Events
+C_lear Selection
+Everything
+Selected application
+Selected accessible
+Source
+Event Monitor
+Shows events as they occur from selected types and sources
+Highlight last event entry
+Start/stop event recording
+Clear event log
+Child count
+(no description)
+Description
+States
+Show
+Relations
+Attributes
+_Accessible
+Perform action
+Acti_on
+ID
+Toolkit
+Version
+Ap_plication
+Col_lection
+0, 0
+Relative position
+Size
+WIDGET
+Layer
+MDI-Z-order
+Alpha
+Absolute position
+Co_mponent
+Des_ktop
+Locale:
+_Document
+Hyperlink
+H_ypertext
+Position
+Description
+Locale
+_Image
+Lo_gin Helper
+Select All
+_Selection
+St_reamable Content
+Caption:
+Summary:
+Selected columns
+Selected rows
+Columns
+Rows
+Table Information
+name (x,y)
+Header:
+Extents:
+Row
+Column
+Selected Cell
+_Table
+Text
+Offset
+Include defaults
+Start: 0
+End: 0
+Te_xt
+Current value
+Minimum increment
+Maximum value
+Minimum value
+Val_ue
+unknown
+Interface Viewer
+Allows viewing of various interface properties
+(not implemented)
+Name
+URI
+Start
+End
+Too many selectable children
+(Editable)
+Quick Select
+Plugin with various methods of selecting accessibles quickly.
+Inspect last focused accessible
+Inspect accessible under mouse
+Native
+Dogtail
+LDTP
+Script Type
+Script Recorder
+Creates dogtail style scripts
+The current script will be lost.
+Confirm clear
+Sche_ma:
+V_alidate
+Idle
+No description
+AT-SPI Validator
+Validates application accessibility
+Level
+Role
+Saving
+Validating
+EXCEPT
+ERROR
+WARN
+INFO
+DEBUG
+Basic
+Tests fundamental GUI application accessibility
+actionable %s is not focusable or selectable
+interactive %s is not actionable
+more than one focused widget
+%s has no text interface
+%s index in parent does not match child index
+Missing reciprocal for %s relation
+%s missing name or label
+focusable %s has table interface, no selection interface
+%s has %s state without %s state
+%s does not belong to a set
+%(rolename)s index %(num)d does not match row and column
+%(rolename)s parent index %(num1)d does not match row and column index %(num2)d
+%s has no name or description
+_Preferences...
+_Contents
+Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?
+Note: Changes only take effect after logout.
