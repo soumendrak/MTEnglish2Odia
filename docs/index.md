@@ -86,11 +86,17 @@ Month | Year | Milestone | Status
 * [Wordnet for Odia](http://www.cfilt.iitb.ac.in/indowordnet/)
 * [RBMT vs SMT](https://arxiv.org/ftp/arxiv/papers/1708/1708.04559.pdf)
 * [Detail MT system analysis of Indic languages](http://airccse.org/journal/ijnlc/papers/4215ijnlc05.pdf)
+* [English-Punjabi parallel corpus creation](http://ijesm.co.in/uploads/68/4983_pdf.pdf)
 ## Data collected from:
 * [Wikipedia Data dump](https://www.mediawiki.org/wiki/Content_translation/Published_translations)
 * [Open Parallel Corpus](http://opus.nlpl.eu)
 * [OdiEnCorp 1.0](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879)
 * [TDIL](http://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1070&lang=en) - Technical strings 52,000 pairs-Data needs to be cleaned
+## Prospective data corpus
+These are few places where relevant data may be present, however getting the data is not straight forward.
+* [EMILLE Project](http://catalog.elra.info/en-us/repository/browse/ELRA-W0037/) :
+  The Oriya written corpus consists of data incorporated from the CIIL Corpus, originally gathered by the Institute of Applied Language Sciences, Bhubaneshwar (approximately 2,730,000 words).
+* [Gyan Nidhi-TDIL](https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=281&lang=en) : Million pages’ multilingual parallel text corpus in English and 11  Indian  languages  (Assamese,  Bengali,  Gujarati,  Hindi, Kannada,   Marathi,   Malayalam,   Oriya,   Punjabi,   Tamil   & Telugu)  based  on  Unicode  encoding.  The  Gyan  Nidhi  corpus contains  the  text  in  the  form  of  books. In  these  books  there were  number of diagrams,  figures,  charts  and  other  special symbols. These are removed from the text by using automated and  manual  tools.  The  text  in  gyan  nidhi  is  in  the  form of paragraphs, that are converted into short sentences. 
 
 ## Contributors
 - Soumendra Kumar Sahoo  

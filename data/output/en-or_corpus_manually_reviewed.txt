@@ -104,3 +104,18 @@ GG|pocket money||ହାତ ଖର୍ଚ୍ଚ||ପକେଟ ମନି
 GG|this is temporary. I'll be back||ଏହା କ୍ଷଣସ୍ଥାୟୀ | ମୁଁ ଫେରିବି |
 GG|even pages only||କେବଳ ଯୁଗ୍ମ ପୃଷ୍ଠାଗୁଡ଼ିକ 
 GG|no guts no glory||ସାହସ  ନାହିଁ ତ ସମ୍ମାନ ନାହିଁ 
+PP|hi||ହଇରେ
+PP|what are you doing||ଆପଣ କଣ କରୁଛନ୍ତି 
+PP|i am fine||ମୁଁ ଭଲ ଅଛି 
+PP|what is your name||ଆପଣଙ୍କର ନାମ କଣ||ତମର ନାମ କଣ||ତୋ ନାଁ କଣ 
+PP|where do you stay||ଆପଣ କେଉଁଠି ରୁହନ୍ତି 
+PP|who is your father||ଆପଣଙ୍କର ବାପା କିଏ 
+PP|do you know who is my father||ମୋ ବାପା କିଏ ଜାଣିଛନ୍ତି 
+PP|i love you||ମୁଁ ତମକୁ ଭଲପାଏ||ମୁଁ ଆପଣଙ୍କୁ ଭଲପାଏ 
+PP|do you love me||ତମେ ମତେ ଭଲ ପାଅ କି ||ଆପଣ ମତେ ଭଲ ପାଆନ୍ତି କି 
+PP|who is he||କିଏ ସେ 
+PP|who is she||କିଏ ସେ 
+PP|what is his name||ତାଙ୍କର ନାଁ କଣ 
+PP|what is her name||ତାଙ୍କର ନାଁ କଣ 
+PP|what is the meaning of love||ପ୍ରେମର ଅର୍ଥ କଣ 
+PP|leave me||ମୋତେ ଛାଡ଼ିଦିଅନ୍ତୁ 
