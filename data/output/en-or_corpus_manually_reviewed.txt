@@ -119,3 +119,68 @@ PP|what is his name||ତାଙ୍କର ନାଁ କଣ
 PP|what is her name||ତାଙ୍କର ନାଁ କଣ 
 PP|what is the meaning of love||ପ୍ରେମର ଅର୍ଥ କଣ 
 PP|leave me||ମୋତେ ଛାଡ଼ିଦିଅନ୍ତୁ 
+GG|you can count on me||ଆପଣ ମୋ ଉପରେ ଭରସା କରିପାରିବେ 
+GG|start craft||ଷ୍ଟାର କ୍ରାଫ୍ଟ 
+GG|does she||କଣ ସେ 
+GG|my little||ମୋର ଛୋଟ||ମୋ କୁନି 
+GG|take what you need||ଆପଣଙ୍କର ଯାହା ଦରକାର ନେଇଯାଆନ୍ତୁ 
+GG|i am ill||ମୁଁ ଅସୁସ୍ଥ 
+GG|canned food||ଡବା ଖାଦ୍ୟ 
+GG|wear glasses||ଚଷମା ପିନ୍ଧନ୍ତୁ ||ପରଚୁକ ମାଡ଼ନ୍ତୁ
+GG|call on me||ମୋତେ ଡାକନ୍ତୁ||ମୋତେ ମୋବାଇଲରେ କଲ କରନ୍ତୁ 
+GG|brothers in arms||କାନ୍ଧରେ ଭାଇମାନେ 
+GG|performance bond||ପ୍ରଦର୍ଶନ ଚୁକ୍ତି 
+GG|beautiful disaster||ସୁନ୍ଦର ବିପତ୍ତି 
+GG|evaporated milk||ଉଡ଼ିଯାଇଥିବା ଦୁଗ୍ଧ 
+GG|pocket knife||ପକେଟ ଛୁରୀ 
+GG|stand by you||ପାଖରେ ଛିଡ଼ା ହେବା 
+GG|black and yellow||କଳା ଏବଂ ହଳଦିଆ 
+GG|given by||ଦ୍ୱାରା ଦିଆଯାଇଛି 
+GG|in favour||ସପକ୍ଷରେ 
+GG|copy that||କପି କଲି 
+GG|i am kidding||ମୁଁ ମଜା କରୁଛି 
+GG|cake boss||କେକ ସାର 
+GG|no time||ସମୟ ନାହିଁ 
+GG|hello handsome||ହେ ସୁନ୍ଦର 
+GG|in place||ଠିକ ସ୍ଥାନରେ 
+GG|good sleep||ଭଲ ନିଦ 
+GG|do you use skype?||ଆପଣ ସ୍କାଇପ ବ୍ୟବହାର କରନ୍ତି କି?
+GG|stick it||ଏହାକୁ ଲଗାନ୍ତୁ 
+GG|my birthday is||ମୋର ଜନ୍ମଦିନ ଅଟେ 
+GG|the task||କାମଟି 
+GG|from where you are|ଆପଣ କେଉଁଠାରୁ 
+GG|have you skype||ଆପଣ କଣ ସ୍କାଇପ କରନ୍ତି 
+GG|yield stress||ଚାପ କାଢିଦିଅନ୍ତୁ 
+GG|invalid username||ଅବୈଧ ୟୁଜରନାମ 
+GG|love what you do||ଆପଣ ଯାହା କରୁଛନ୍ତି ଭଲ ପାଆନ୍ତୁ 
+GG|on and off||ଅନ ଏବଂ ଅଫ 
+GG|Find your best friend (Link in Comments)||ନିଜର ସବୁଠାରୁ ପ୍ରିୟ ସାଙ୍ଗକୁ ଖୋଜନ୍ତୁ (କଡ଼ିଟି କମେଣ୍ଟଗୁଡିକରେ ଅଛି)
+GG|no it is not||ନା ଏହା ନୁହେଁ 
+GG|just bent||କେବଳ ବଙ୍କିଗଲେ 
+GG|your wife||ଆପଣଙ୍କର ସ୍ତ୍ରୀ ||ଆପଣଙ୍କର ଭାରିଯା ||ଆପଣଙ୍କର ପତ୍ନୀ ||ଆପଣଙ୍କର ସହଧର୍ମିଣୀ ||ଆପଣଙ୍କର ଧର୍ମପତ୍ନୀ 
+GG|turned out||ବାହାରିଲା 
+GG|household appliances||ଘରୋଇ ସରଞ୍ଜାମଗୁଡ଼ିକ 
+GG|butcher shop||କଂସେଇ ଶାଳ 
+GG|chasing cars||ପିଛାକରୁଥିବା କାରଗୁଡ଼ିକ 
+GG|lining up||ଧାଡ଼ିରେ ଲାଗିବା 
+GG|i drive||ମୁଁ ଚଲାଏ 
+GG|easy peasy||ବହୁତ ସହଜ 
+GG|corporate finance||ବ୍ୟବସାୟିକ ଅର୍ଥନୀତି 
+GG|revert back||ଫେରାନ୍ତୁ 
+GG|hair salon||ବାଳ ସେଲୁନ 
+GG|what have you done today?||ଆପଣ ଆଜି କଣ କଲେ?
+GG|oh man||ହେ ମଣିଷ 
+GG|resorvoir dogs||ଗଚ୍ଛିତ କୁକୁରଗୁଡ଼ିକ ||ଡ୍ୟାମର କୁକୁରଗୁଡ଼ିକ 
+GG|right of way||ରାସ୍ତାର ଡାହାଣପଟେ 
+GG|an apple a day keeps the doctor away||ଦୈନିକ ଗୋଟିଏ ସେଓ ଡାକ୍ତରଙ୍କୁ ଦୂରରେ ରଖିଥାଏ 
+GG|racial discrimination||ବର୍ଣ୍ଣଗତ ବୈଷମ 
+GG|smell like teen spirit||ଯୁବା ଶକ୍ତି ଭଳି ଲାଗୁଛି 
+GG|bean sprouts||ଗଜା ବିନ 
+GG|thank you my love||ଧନ୍ୟବାଦ ମୋ ପ୍ରିୟେ 
+GG|we broke up||ଆମେ ଅଲଗା ହୋଇଗଲୁ 
+GG|door lock||ଦ୍ୱାର ତାଲା
+GG|walking away||ଛାଡ଼ି ଚାଲିଯାଉଛି
+GG|stay back||ଦୂରେଇ ରୁହ
+GG|the punisher||ଦଣ୍ଡ ପ୍ରଦାନକାରୀ
+FB|posts you might like||ପୋଷ୍ଟଗୁଡ଼ିକ ଯାହା ଆପଣଙ୍କୁ ଭଲ ଲାଗିପାରେ
+FB|local alert||ସ୍ଥାନୀୟ ଚେତାବନୀ 
