@@ -73,6 +73,8 @@ Month | Year | Milestone | Status
 - In the meantime there seems to be many work going on with frequent papers in [Unsupervised NMT](http://arxiv.org/abs/1901.04112v1) for low resources languages, there has not been any significant usable work yet. However, I am keeping an eye on that too.
 
 ### <a name="february2019"></a> Detailed works completed/ongoing in February 2019
+- Data review and preparation started. 
+- Around 550 pairs reviewed till now. We need at least 10,000 pairs by end of this month. Finding ways to automate.
 
 ## Impediments
 - [x] Get at least 10,000 parallel open corpus for Odia language to begin with.
