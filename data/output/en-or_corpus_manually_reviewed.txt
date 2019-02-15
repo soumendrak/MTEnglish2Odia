@@ -184,3 +184,7 @@ GG|stay back||ଦୂରେଇ ରୁହ
 GG|the punisher||ଦଣ୍ଡ ପ୍ରଦାନକାରୀ
 FB|posts you might like||ପୋଷ୍ଟଗୁଡ଼ିକ ଯାହା ଆପଣଙ୍କୁ ଭଲ ଲାଗିପାରେ
 FB|local alert||ସ୍ଥାନୀୟ ଚେତାବନୀ 
+GG|it's so cute||ଏଇଟା ଏତେ ଗୁଲୁଗୁଲିଆ
+GG|in some cases||କେତେକ କ୍ଷେତ୍ରରେ
+GG|to hang out||ବୁଲିବାକୁ
+GG|Your message was sent successfully||ଆପଣଙ୍କ ସନ୍ଦେଶ ସଫଳତା ପୂର୍ବକ ପଠେଇ ଦିଆ ହୋଇଛି
