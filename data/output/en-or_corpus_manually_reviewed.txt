@@ -188,3 +188,25 @@ GG|it's so cute||ଏଇଟା ଏତେ ଗୁଲୁଗୁଲିଆ
 GG|in some cases||କେତେକ କ୍ଷେତ୍ରରେ
 GG|to hang out||ବୁଲିବାକୁ
 GG|Your message was sent successfully||ଆପଣଙ୍କ ସନ୍ଦେଶ ସଫଳତା ପୂର୍ବକ ପଠେଇ ଦିଆ ହୋଇଛି
+WP|our changing earth||ଆମର ବଦଳୁଥିବା ପୃଥିବୀ
+WP|recreating interest in basic science||ମୌଳିକ ବିଜ୍ଞାନରେ ପୁନଃ-ଆଗ୍ରହ
+WP|information technology for science education||ବିଜ୍ଞାନ ଶିକ୍ଷାରେ ସୂଚନା ଏବଂ ପ୍ରଯୁକ୍ତି ବିଦ୍ୟା
+WP|wealth from waste||ବର୍ଜ୍ୟବସ୍ତୁରୁ ଧନ
+WP|50 years of DNA & 25 years of IVF||୫୦ ବର୍ଷର ଡିଏନଏ ଏବଂ ୨୫ ବର୍ଷର କୁତ୍ରିମ ପ୍ରଜନନ
+WP|The Blue print of Life||ଜୀବନର ଛାଞ୍ଚ
+WP|encouraging scientific awareness in community||ସମାଜରେ ବିଜ୍ଞାନ ଭିତ୍ତିକ ହେତୁଜ୍ଞାନର ପ୍ରଚାର
+WP|celebrating physics||ପଦାର୍ଥ ବିଜ୍ଞାନର ଉତ୍ସବ
+WP|Nurture Nature for our future||ଭବିଷ୍ୟତ ପାଇଁ ପ୍ରକୃତିର ପୋଷଣ
+WP|More Crop Per Drop||ମୁନ୍ଦାଏ ପାଣିକୁ ଅଧିକ ଫସଲ
+WP|Understanding the Planet Earth||ପୃଥିବୀକୁ ବୁଝିବା
+WP|Expanding Horizons of Science||ବିଜ୍ଞାନର କାୟା କ୍ଷମତା ବୃଦ୍ଧି କରିବା
+WP|Gender Equity, Science & Technology for Sustainable Development||ସତତ ବିକାଶ ପାଇଁ ଲିଙ୍ଗ ସମାନତା , ବିଜ୍ଞାନ ଏବଂ ପ୍ରଯୁକ୍ତି ବିଦ୍ୟା
+WP|Chemistry in Daily Life||ଦୈନନ୍ଦିନ ଜୀବନରେ ରସାୟନ ବିଜ୍ଞାନ
+WP|Clean Energy Options and Nuclear Safety||ସ୍ୱଚ୍ଛ ଶକ୍ତି ବିକଳ୍ପ ଏବଂ ଆଣବିକ ଶକ୍ତି
+WP|Genetically Modified Crops and Food Security||ଜିନ ଦ୍ୱାରା ପରିବର୍ତ୍ତିତ ଫସଲ ଏବଂ ଖାଦ୍ୟ ସୁରକ୍ଷା
+WP|Fostering Scientific Temper||ବିଜ୍ଞାନକୁ ବଢ଼ିବାକୁ ଦେବା
+WP|Science for Nation Building||ବିଜ୍ଞାନ ଏବଂ ଜାତୀୟ ବିକାଶ
+WP|Scientific Issues for Development of the Nation||ଦେଶର ବିକାଶରେ ବିଜ୍ଞାନଭିତ୍ତିକ ସମସ୍ୟା
+WP|Science and Technology for Specially Abled Persons||ବିକଳାଙ୍ଗଙ୍କ ପାଇଁ ବିଜ୍ଞାନ ଏବଂ ପ୍ରଯୁକ୍ତି ବିଦ୍ୟା
+WP|Science and Technology for a sustainable future||ସତତ ଭବିଷ୍ୟତ ପାଇଁ ବିଜ୍ଞାନ ଏବଂ ପ୍ରଯୁକ୍ତି ବିଦ୍ୟା
+WP|Science for the People, and People for the Science||ଲୋକଙ୍କ ପାଇଁ ବିଜ୍ଞାନ ଏବଂ ବିଜ୍ଞାନ ପାଇଁ ଲୋକ
