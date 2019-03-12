@@ -210,3 +210,43 @@ WP|Scientific Issues for Development of the Nation||ଦେଶର ବିକାଶ
 WP|Science and Technology for Specially Abled Persons||ବିକଳାଙ୍ଗଙ୍କ ପାଇଁ ବିଜ୍ଞାନ ଏବଂ ପ୍ରଯୁକ୍ତି ବିଦ୍ୟା
 WP|Science and Technology for a sustainable future||ସତତ ଭବିଷ୍ୟତ ପାଇଁ ବିଜ୍ଞାନ ଏବଂ ପ୍ରଯୁକ୍ତି ବିଦ୍ୟା
 WP|Science for the People, and People for the Science||ଲୋକଙ୍କ ପାଇଁ ବିଜ୍ଞାନ ଏବଂ ବିଜ୍ଞାନ ପାଇଁ ଲୋକ
+GG|some college||କେଉଁ ମହାବିଦ୍ୟାଳୟ ଗୋଟେ 
+GG|the requested URL could not be retrieved||ନିବେଦିତ ୟୁଆରଏଲ ମିଳିପାରିନାହିଁ 
+GG|to dress||ପିନ୍ଧିବାକୁ 
+GG|with you it is different||ଆପଣଙ୍କ ସହ ଏହା ଭିନ୍ନ ଅଟେ 
+GG|onion rings||ପିଆଜ ଚୋପା 
+GG|to trade||ବ୍ୟବସାୟ କରିବାକୁ 
+GG|i am 15 years old||ମୁଁ ୧୫ ବର୍ଷ ବୟସ୍କ ଅଟେ 
+GG|the account you specified could not be found||ଆପଣ ଯେଉଁ ଖାତଟିକୁ ଚାହୁଁଥିଲେ ତାହା ମିଳିପାରିନାହିଁ 
+GG|how reasonable are the shipping and handling charges||କଣ ପରିବହନ ଏବଂ ଉଠା-ପକା ଦର ଠିକ ଠାକ ଥିଲା 
+GG|capacity building||କ୍ଷମତା ନିର୍ମାଣ 
+GG|industrial revolution||ଶିଳ୍ପ ବିପ୍ଳବ 
+GG|indicates a required field||ଏକ ଦରକାରୀ ସ୍ଥାନ ସୂଚାଏ 
+GG|business center||ବ୍ୟବସାୟ କେନ୍ଦ୍ର 
+GG|lay on||ପ୍ରବନ୍ଧ କରିବା 
+GG|best before||ପୂର୍ବରୁ ଭଲ ରହିବ 
+GG|crave you||ମୁଁ ତମ ଉପରେ ଈର୍ଷାନ୍ୱିତ 
+GG|ride a bike||ଗୋଟିଏ ବାଇକ ଚଢନ୍ତୁ 
+GG|stuck on you||ଆପଣଙ୍କ ପାଖରେ ଲାଖିଯାଇଛି 
+GG|the money||ସେ ଟଙ୍କା 
+GG|clearance delay||ସଫାଇରେ ବିଳମ୍ବ 
+GG|unless otherwise specified||ଯେପର୍ଯ୍ୟନ୍ତ ନିର୍ଦ୍ଧିଷ୍ଟ ରୂପେ ନକୁହାହେଇଛି 
+GG|a tie||ଗୋଟିଏ ଟାଏ ||ଗୋଟିଏ ଗଣ୍ଠି 
+GG|project charter||ପରିଯୋଜନା ଚାର୍ଟ 
+GG|to address||ସମ୍ବୋଧିତ କରିବାକୁ 
+GG|swine flu||ସ୍ୱାଇନ ଫ୍ଲୁ 
+GG|what does it say||ଏହା କଣ କହେ 
+GG|hope you||ଆଶାକରେ ଆପଣ 
+GG|could not open socket||ସକେଟଟି ଖୋଲିପାରୁ ନାହିଁ 
+GG|paternity leave||ପୈତ୍ରୁତ୍ୟ ଅବକାଶ 
+GG|factory unclocked||କମ୍ପାନୀଟି ଖୋଲାହୋଇଗଲା 
+GG|eagle eye||ଚିଲ ଆଖି 
+GG|in due time||ଠିକ ସମୟରେ 
+GG|hello sweetheart||ହେ ପ୍ରିୟେ 
+GG|we could not find any faces to tag||ଆମେ ଯୋଡ଼ିବାକୁ କୌଣସି ମୁହଁ ପାଇଲୁ ନାହିଁ 
+GG|that is pity||ଏହା ଦୁଃଖଦାୟକ 
+GG|progress report||ପ୍ରଗତି ପତ୍ର 
+GG|you give love a bad name||ଆପଣ ପ୍ରେମକୁ ବଦନାମ କରୁଛନ୍ତି 
+GG|torn up||ଚିରିଗଲା 
+GG|personality traits||ବ୍ୟକ୍ତିଗତ ଆବଭାବ 
+GG|long jump||ଲମ୍ବ ଡିଆଁ 
