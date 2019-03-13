@@ -498,273 +498,213 @@ Wealth||| ସମ୍ପଦ
 Nanda Empire|||ନନ୍ଦ ସାମ୍ଭ୍ରାଜ୍ୟ
 Description|||ବର୍ଣନା
 Decorative features|||ସାଜସଜ୍ୟା 
+Astasambhu Siva Temples|||ଅଷ୍ଟଶମ୍ଭୁ ଶିବ ମନ୍ଦିର ସମୂହ 
+legends|||କିମ୍ବଦନ୍ତୀ 
+Ownership|||ମାଲିକାନା 
+Significance|||ତାପ୍ତର୍ଜ୍ୟ
+Historic significance|||ଇତିହାସିକ ତାପ୍ତର୍ଜ୍ୟ 
+The Temple|||ମନ୍ଦିର 
+Byamokesvara Temple|||ବ୍ୟୋମକେଶ୍ଵର ମନ୍ଦିର
+Route length in states|||ଭିନ୍ନ ରାଜ୍ୟ ରେ ଏହାର ଦୈର୍ଘ୍ୟ 
+List of National Highways|||ଜାତୀୟ ରାଜପଥ ସମୂହ ର ତାଲିକା 
+Current system|||ବର୍ତମାନ ପ୍ରଣାଳୀ 
+Recent developments|||ନୂତନ ଉନ୍ନୟନ ସବୁ 
+Indian road network|||ଭାରତୀୟ ରାସ୍ତା ର ଜାଲତନ୍ତ୍ର
+Current status|||ବର୍ତମାନ ସ୍ଥିତି 
+Length in each state|||ପ୍ରତ୍ୟେକ ରାଜ୍ୟରେ ଦୈର୍ଘ୍ୟ 
+Economic benefits|||ଅର୍ଥନୈତିକ ଉପଲଭ୍ଧି
+Fast Attack Craft|||କ୍ଷିପ୍ର ଆକ୍ରମଣ କରି ଜାହାଜ 
+Current ships|||ବର୍ତମାନ ର ଜାହାଜ ସବୁ 
+Historical ships|||ଏଇତିହାସିକ ଜାହାଜ ସବୁ 
+Aircraft carriers|||ଉଡାଜାହାଜବାହୀ ଜାହାଜ 
+Submarines|||ବୁଡାଜହାଜ ସମୂହ 
+Cruisers|||ଯୁଦ୍ଧ ଜାହାଜ
+Products|||ଉତ୍ପାଦ ସବୁ 
+Traction Motors|||ଟ୍ରାକସନ  ମୋଟର 
+Chittaranjan Locomotive Works|||ଚିତ୍ତରଞ୍ଜନ ରେଳ ଇଞ୍ଜିନ କାରଖାନା
+Mission|||ମିଶନ
+Academics|||ପାଠ୍ୟକ୍ରମ 
+Annapurna|||ଅନ୍ନପୂର୍ଣା 
+Cadet Dormitories|||କାଡେଟ ରହଣିସ୍ଥଳ 
+Odisha|||ଓଡିଶା 
+Daringbadi Koraput Phulabani|||ଦରିଙ୍ଗିବାଡି କୋରାପୁଟ ଫୁଲବାଣୀ
+Andhra Pradesh|||ଆନ୍ଧ୍ର ପ୍ରଦେଶ 
+List of hill stations in India|||ଭାରତ ରେ ଶୈଳ ନିବାସ   ସ୍ଥଳ ସବୁର ତାଲିକା
+Mini Switzerland|||ମିନି ସ୍ଵିଜରର୍ଲାଣ୍ଡ
+Accommodation|||ରହଣି ସୁବିଧା 
+Khajjiar during August|||ଅଗଷ୍ଟ ମାସ ରେ ଖଜ୍ଜିଆର ର ଦୃଶ୍ୟ 
+Travel|||ଯାତାୟାତ 
+Grasslands of Khajjiar|||ଖଜ୍ଜିଆର ର ତୃଣଭୂମି 
+Trekking|||ଟ୍ରେକିଙ୍ଗ 
+Khajjiar|||ଖଜ୍ଜିଆର
+Iraq|||ଇରାକ 
+Malaysia|||ମାଲେସିଆ 
+Punjab|||ପଞ୍ଜାବ 
+Sindh|||ସିନ୍ଧ 
+Balochistan|||ବେଲୁଚିସ୍ଥାନ 
+Philippines|||ଫିଲିପାଇନ 
+Sri Lanka|||ଶ୍ରୀଲଙ୍କା 
+Syria|||ସିରିୟା
+Europe|||ଇଉରୋପ 
+Cyprus|||ସାଇପ୍ରସ 
+Vietnam|||ଭିଏତନାମ 
+Oceania|||ଅକାନିଆ 
+Australia|||ଅଷ୍ଟ୍ରେଲିଆ 
+Africa|||ଆଫ୍ରିକା 
+Madagascar|||ମଦଗାସକାର 
+Morocco|||ମରକୋ 
+Nigeria|||ନାଇଜେରିଆ 
+Asia|||ଏସିଆ 
+Cambodia|||କମ୍ବୋଡିଆ 
+China|||ଚୀନ 
+Hong Kong|||ହଙ୍ଗ କଙ୍ଗ 
+Khonsa|||ଖୋନସା
+Flora|||ପୁଷ୍ପ 
+Fauna|||ଜୀବଜଗତ 
+Birds|||ପକ୍ଷୀ 
+Butterflies and moths|||ପ୍ରଜାପତି ଓ ମଥ
+Ethnography|||ଜନପ୍ରଜାତି 
+Transport|||ଯାତାୟାତ ବ୍ୟବସ୍ଥା 
+Lambasingi|||ଲାମ୍ମାଶିଙ୍ଗୀ
+Ancestor worship Place|||ପୂର୍ବ ପୁରୁଷ ଆରାଧନା ସ୍ଥଳୀ 
+Kotagiri|||କୋଟାଗିରି 
+Weather|||ପାଗ 
+Media|||ମିଡିଆ 
+Champhai|||ଚମ୍ଫାଈ
+Nohkalikai Falls|||ନୋହକାଲିକାଇ ଜଳପ୍ରପାତ 
+Educational Institutions|||ଶିକ୍ଷ୍ୟାନୁଷ୍ଠାନ 
+T20I captains|||T20I ଅଧିନାୟକଗଣ 
+Players|||ଖେଳାଳି ସମୂହ 
+Railways Reorganization|||ରେଳ ବ୍ୟବସ୍ଥା ର ପୁନର୍ଗଠନ 
+Nearby stations|||ନିକଟସ୍ଥ  ଷ୍ଟେସନ ସବୁ 
+New Bhubaneswar|||ନିଉ ଭୁବନେଶ୍ବର 
+Bhubaneswar railway station|||ଭୁବନେଶ୍ବର ରେଳ ଷ୍ଟେସନ
+List of Swaminarayan temples|||ସ୍ଵାମନାରାୟଣ ମନ୍ଦିର ସମୂହ
+Expansion|||ବିସ୍ତାରିକରଣ 
+Airlines and destinations|||ଉଡାଜାହାଜ ସବୁ ଓ ଗନ୍ତବ୍ୟପଥ 
+Nuagaon Airport|||ନୂଆଗାଁ ଏୟାରପୋର୍ଟ
+Morni Hill Fort|||ମୋରଣୀ ହିଲ ଦୁର୍ଗ 
+Tikkar Taal|||ଟିକକର ତାଳ 
+Snowline|||ସ୍ନୋ ଲାଇନ 
+Narkanda town today.|||ବର୍ତମାନ ର ନରକନ୍ଦା ସହର .
+Mashobra|||ମାଶୋବ୍ରା
+Tea plantations in Munnar|||ମୁନ୍ନାର ଠାରେ ଚା ଚାଷ 
+Other coalfields|||ଅନ୍ୟ କୋଇଲାଖଣି ସମୂହ 
+Places of Interest|||ଦର୍ଶନୀୟ ସ୍ଥାନ ସବୁ 
+Layout|||ଅବସ୍ଥିତି 
+Overa-Aru Biosphere Reserve|||ଓଭେରା-ଆରୁ ସଂରକ୍ଷିତ ଜୈବମଣ୍ଡଳ 
+Patnitop bypass road tunnel|||ପଟନୀଟପ୍ ପତନିତପ ବାଇପାସ ଟନେଲ ରାସ୍ତା 
+Gira falls|||ଗିରା ପ୍ରପାତ 
+Travel Facility|||ଯାତାୟାତ ସୁବିଧା 
+Saputara|||ସପୁତରା
+Baptist Church|||ବାପତିଷ୍ଟ ଚର୍ଚ 
+Christ Church|||ଖ୍ରୀଷ୍ଟ ଚର୍ଚ 
+Kasauli|||କସୌଲି
+Attractions|||ଆକର୍ଷଣ ସବୁ 
+Valley in Budgam district|||ବୁଡଗାମ ଜିଲ୍ଲା ର ଉପତ୍ୟକା 
+Ambanad Hills|||ଆମ୍ବନାଦ ହିଲ
+Towns|||ସହର ସବୁ 
+Distribution|||ବିସ୍ତାର 
+Lifespan|||ଜୀବନ କାଳ 
+Relationship with humans|||ମଣିଷ ସହ ସମ୍ପର୍କ 
+Greater flamingo|||ବୃହତ୍ ଫ୍ଲେମିଙ୍ଗୋ
+Table|||ସାରଣୀ 
+Parihar|||ପରିହାର
+Mail|||ଡାକ 
+Newspapers and magazines|||ସଂବାଦପତ୍ର ଓ ମାଗାଜିନ 
+Organizations and companies|||ସଂଗଠନ ଓ କମ୍ପାନୀ ସମୂହ 
+Places|||ସ୍ଥାନ ସମୂହ 
+Technology|||କାରିଗରୀ 
+Other|||ଅନ୍ୟସବୁ 
+Current classification|||ବର୍ତମାନ ର ଶ୍ରେଣୀବିଭାଗ 
+Historical Classification|||ଏଇତିହାସିକ ଶ୍ରେଣୀବିଭାଗ
+Urban areas|||ସହରାଞ୍ଚଳ ସମୂହ 
+Bowling style|||ବୋଲିଂ ଷ୍ଟାଇଲ
+Oman|||ଓମାନ 
+Russia|||ରୁଷିଆ
+Qatar|||କାଟାର 
+Denmark|||ଡେନମାର୍କ 
+Egypt|||ଇଜିପଟ୍
+Gambia|||ଗାମ୍ବିଆ
+Germany|||ଜର୍ମାନୀ 
+South Africa|||ଦକ୍ଷିଣ ଆଫ୍ରିକା 
+Sweden|||ସ୍ଵିଡେନ
+Hungary|||ହଙ୍ଗେରୀ
+Israel|||ଇସ୍ରାଏଲ
+Japan|||ଜାପାନ 
+Kuwait|||କୁଏଟ୍
+Malaysia|||ମାଲୟେସିଆ
+Mexico|||ମେକ୍ସିକୋ
+New Zealand|||ନିଉଜିଲାଣ୍ଡ 
+North Korea|||ଉତ୍ତର କୋରିଆ 
+Thailand|||ଥାଇଲାଣ୍ଡ 
+Turkey|||ତୁର୍କୀ 
+Ukraine|||ଉକ୍ରେନ
+Venezuela|||ଭେଞ୍ଜୁଏଲା
+Argentina|||ଅର୍ଜେଣ୍ଟିନା 
+Australia|||ଅଷ୍ଟ୍ରେଲିଆ 
+Bahrain|||ବାହାରିନ
+Bulgaria|||ବୁଲଗାରିଆ
+Chile|||ଚିଲି 
+Cyprus|||ସାଇପ୍ରସ
+Additional performance records|||ଅନ୍ୟ ଉପଲବ୍ଧ ରେକର୍ଡ 
+Disabled or diseased summiters|||ଭିନ୍ନକ୍ଷ୍ୟମ ଆରୋହଣକାରୀ 
+Oldest summiters|||ସର୍ବୋଜେଷ୍ଠ ଅରୋହଣକାରୀ 
+Mount Everest from Gokyo Ri|||ଗୋକ୍ୟୋ ରି ଅଞ୍ଚଳ ରୁ ମାଉଣ୍ଟ  ଏଭେରେଷ୍ଟ ର ଦୃଶ୍ୟ 
+Youngest Summiters|||ସର୍ବକନିଷ୍ଠ ଆରୋହଙ୍କାରୀ 
+Youngest female|||ସର୍ବକନିଷ୍ଠ ମହିଳା 
+examples only|||ଉଦାହରଣ ମାତ୍ର 
+First|||ପ୍ରଥମ 
+Nepali records|||ନେପାଲୀ ରେକର୍ଡ 
+Everest base camp records|||ଏଭେରେଷ୍ଟ ବେସ କେମ୍ପ ରେକର୍ଡ 
+Death statistics|||ମୃତ୍ୟୁ ପରିସଙ୍ଖ୍ୟାନ 
+Non-Nepali or Tibetan|||ଅଣ ନେପାଲୀ ଓ ତିବତୀୟ 
+List of Mount Everest records|||ମାଉଣ୍ଟ ଏଭେରେଷ୍ଟ ର ରେକର୍ଡ ସମୂହ ର ତାଲିକା
+Wikipedia edition codes|||ୱିକିପିଡିଆ ସମ୍ପାଦନ କୋଡ ସମୂହ 
+List of Wikipedias|||ୱିକିପିଡିଆ ସମୂହ ର ତାଲିକା
+Grand total|||ସର୍ବ ମୋଟ 
+In art|||କଳାକୃତି ରେ 
+In music|||ସଂଗୀତ ରେ 
+In postal items|||ପୋଷ୍ଟାଲ ଜିନିଷ ରେ 
+In television episodes|||ଟିଭି ସିରିୟାଲ ରେ ଵିକି 
+In web comics|||ଇଣ୍ଟର୍ନେଟ କମିକ ସିରିୟାଲ ରେ 
+Cases|||ନିମ୍ମ  ରେ କିଛି ଉଦାହରଣ ଦିଆଗଲା 
+KABYA|||କାବ୍ୟ ସଂକଳନ
+GATHA|||ଗାଥା
+Gathayani|||ଗାଥାୟନୀ
+NIBANDHA|||ନିବନ୍ଧ
+Gadya sanchayani|||ଗଦ୍ୟ ସଞ୍ଚୟନୀ
+Kabita sanchayani|||କବିତା ସଞ୍ଚାୟନୀ
+NATAKA AND LOKANATYA|||ନାଟକ ଓ ଲୋକନାଟ୍ୟ
+UCHANGA SAHITYA|||ଉଚ୍ଚାଙ୍ଗ ସାହିତ୍ୟ
+AMAR CHARITA|||ଅମର ଚରିତ
+SERIES OF KUHUKA RAIJA|||କୁହୁକ ରାଇଜ ସିରିଜ
+SERIES OF PARIMAHALA|||ପରୀମହଲ ସିରିଜ
+SADHABA GHARA KATHA|||ସାଧବ ଘର କଥା ସିରିଜ
+Train names|||ଟ୍ରେନ ର ନାମ ସବୁ 
+Vaishnodevi Temple|||ବୈଷ୍ନୋଦେବୀ ମନ୍ଦିର
+Sadni Falls|||ସାଦନୀ ପ୍ରପାତ 
+Somnath Temple|||ସୋମନାଥ ମନ୍ଦିର 
+Attractions around Bemetara|||ନିକଟସ୍ଥ ଆକର୍ଷଣୀୟ ସ୍ଥଳ ସବୁ 
+Laxman Temple at Sirpur|||ସିରପୁର ଠାରେ ଥିବା ଲକ୍ଷ୍ମଣ ମନ୍ଦିର 
+Development and history|||ଉନ୍ନୟନ ଓ ନିର୍ମାଣ ଇତିହାସ 
+Childhood and education|||ବାଲ୍ୟଜୀବନ ଓ ଶିକ୍ଷା
+Coaches|||କୋଚ ବ୍ୟବସ୍ଥା 
+Service|||ସେବା 
+Routeing|||ଗତିପଥ 
+Connections|||ଯୋଗାଯୋଗ 
+12534 Pushpak Express|||୧୨୫୩୪ପୁଷ୍ପକ ଏକ୍ସପ୍ରେସ
+Schedule and Service|||ସମୟ ସାରଣୀ ଓ ସେବା 
+Rake and Coach|||ରେକ ଓ କୋଚ 
+Test career|||ଟେଷ୍ଟ ଜୀବନ 
+ODI career|||ଏକଦିବସୀୟ ଜୀବନୀ 
+International T20 |||T୨୦ ଆନ୍ତର୍ଜାତିକ 
+International awards|||ଅନ୍ତର୍ଜାତିକ ପୁରସ୍କାର 
+ODI centuries|||ଏକଦିବସୀୟ ଶତକ 
+International Awards|||ଅନ୍ତର୍ଜାତିକ୍ ପୁରସ୍କାର 
+
 
 Not reviewd below:
-Uttaresvara Siva Temple,"ଭୁବନେଶ୍ବର ର ଉତ୍ତରେଶ୍ଵର ଶିବ ମନ୍ଦିର ପ୍ରାଙ୍ଗଣ ରେ ଆଠ ଟି  ସମତୁଲ ଆକୃତି ବିଶିଷ୍ଟ  ମନ୍ଦିର ରହିଛି ଯାହା କୁ ଅସ୍ତଶମ୍ଭୁ ମନ୍ଦିର କୁହାଯାଏ। ଏହି ସବୁ ମନ୍ଦିର ଶମ୍ଭୁ ବା ଶିବ ଙ୍କ ଆରାଧନା ପାଇଁ ଉଦ୍ଧିଷ୍ଟ । ଏହି ଆଠ ଟି ମନ୍ଦିର ମଧ୍ୟ ରୁ ପାଞ୍ଚ ଟି ଏକ ଧାଡି ରେ ଥାଏ ଏବଂ ତାକୁ ପଞ୍ଚୁ ପାଣ୍ଡବ କୁହା ଯାଏ । ଏହି ମନ୍ଦିର ସବୁ ବେସରକାରୀ ମାଲିକାନା ରେ ରତ୍ନାକର ଗର୍ବବଟୁ ଓ ତାଙ୍କ ଙ୍କ ପରିବାର ଙ୍କ ରକ୍ଷଣ  ରେ ରହିଛି ।  ମନ୍ଦିର ର ପୂର୍ବ ଦିଗରେ ବିନ୍ଦୁସାଗର ପୁଷ୍କରିଣୀ , ପଶ୍ଚିମ ରେ ଉତ୍ତରେଶ୍ଵର ଶିବ ମନ୍ଦିର ରହିଛି । ପୂର୍ବ ଦିଗ କୁ ସାମ୍ନା କରି ମନ୍ଦିର ର ମୁଖ ରହିଛି ।   ନିର୍ମାଣ କାଳ  ନିର୍ମାଣ ଶୈଳୀ ରୁ ଏହା ୧୦ମ ଶତାବ୍ଦୀ ରେ ନିର୍ମିତ ହେଇଥିବାର ଜଣାପଡେ । ପ୍ରସ୍ତର ନିର୍ମିତ ଏହି ମନ୍ଦିର ରେଖା ଦେଉଳ ନାମରେ ପରିଚିତ । "
-Astasambhu Siva Temples,ଅଷ୍ଟଶମ୍ଭୁ ଶିବ ମନ୍ଦିର ସମୂହ 
-Tradition and legends,କିମ୍ବଦନ୍ତୀ 
-Ownership,ମାଲିକାନା 
-Architectural features,ସ୍ଥପତ୍ୟ 
-Reference notes,ଆଧାର ନୋଟ 
-Bharati Matha Temple,"ଭାରତୀ ମଠ ମନ୍ଦିର, ଭୁବନେଶ୍ବର"
-Names,ପୂର୍ବ ନାମ 
-Past Name Bhairangesvara,ଏହି ମନ୍ଦିର କୁ ପୂର୍ବରୁ ଭାଇରଙ୍ଗେଶ୍ଵର ବୋଲି କୁହାଯାଉଥିଲା । 
-Significance,ତାପ୍ତର୍ଜ୍ୟପୂର୍ଣ ବିଷୟାବଳି 
-i) Historic significance: —,i) ଇତିହାସିକ ତାପ୍ତର୍ଜ୍ୟ : —
-Physical description,ମନ୍ଦିର ର ବର୍ଣନା 
-The Temple,ମନ୍ଦିର 
-Byamokesvara Temple,"ବ୍ୟୋମକେଶ୍ଵର ମନ୍ଦିର , ଭୁବନେଶ୍ବର"
-List,ସମ୍ବଲପୁରୀ ଭାଷା  ରେ ନିର୍ମିତ ଫିଲ୍ମ ମାନଙ୍କର ତାଲିକା 
-Route length in states:[3],ଭିନ୍ନ ରାଜ୍ୟ ରେ ଏହାର ଦୈର୍ଘ୍ୟ :[3]
-List of National Highways,ଜାତୀୟ ରାଜପଥ ସମୂହ ର ତାଲିକା 
-Current system,ବର୍ତମାନ ପ୍ରଣାଳୀ 
-Recent developments,ନୂତନ ଉନ୍ନୟନ ସବୁ 
-Indian road network,ଭାରତୀୟ ରାସ୍ତା ର ଜାଲତନ୍ତ୍ର ( network) 
-Current status,ବର୍ତମାନ ସ୍ଥିତି 
-NHAI - Current status,NHAI - ର ବର୍ତମାନ ସ୍ଥିତି 
-Length in each state,ପ୍ରତ୍ୟେକ ରାଜ୍ୟ ରେ ଦୈର୍ଘ୍ୟ 
-History and costs,ଇତିହାସ ଓ ପ୍ରକଳ୍ପ ଖର୍ଚ 
-Economic benefits,ଅର୍ଥନୈତିକ ଉପଲଭ୍ଧି
-Frigates,ଫ୍ରିଗେଟ ଶ୍ରେଣୀ ର ଜାହାଜ 
-Corvette,କରବେଟ ଶ୍ରେଣୀ ଜାହାଜ 
-Minesweepers,ମାଇନ ସଫା କରା ଜାହାଜ 
-Fast Attack Craft,କ୍ଷିପ୍ର ଆକ୍ରମଣ କରି ଜାହାଜ 
-Current ships,ବର୍ତମାନ ର ଜାହାଜ ସବୁ 
-Historical ships,ଏଇତିହାସିକ ଜାହାଜ ସବୁ 
-Aircraft carriers,ଉଡାଜାହାଜବାହୀ ଜାହାଜ 
-Submarines,ବୁଡାଜହାଜ ସମୂହ 
-Cruisers,ଯୁଦ୍ଧ ଜାହାଜ ( କୃଇଜର )
-Destroyers,ଡେଷ୍ଟ୍ରୟର ଜାହାଜ 
-"WAP5 made at CLW, Chittaranjan",WAP5 ଶ୍ରେଣୀ ର ଏକ ରେଳ ଇଞ୍ଜିନ ଚିତ୍ତରଞ୍ଜନ ରେଳ ଇଞ୍ଜିନ କାରଖାନାରେ ନିର୍ମିତ 
-CLW 60years painting on WAP7,WAP 7 ଶ୍ରେଣୀ ର ଏକ ରେଳ ଇଞ୍ଜିନ 
-Products,ଉତ୍ପାଦ ସବୁ 
-Locomotives,ଇଞ୍ଜିନ ସମୂହ 
-Traction Motors,ଟ୍ରାକସନ  ମୋଟର 
-Chittaranjan Locomotive Works,ଚିତ୍ତରଞ୍ଜନ ରେଳ ଇଞ୍ଜିନ କାରଖାନା
-Mission,ମିଶନ
-Academics,ପାଠ୍ୟକ୍ରମ 
-Annapurna,ଅନ୍ନପୂର୍ଣା 
-Cadet Dormitories,କାଡେଟ ରହଣିସ୍ଥଳ 
-Odisha,ଓଡିଶା 
-Daringbadi Koraput Phulabani,ଦରିଙ୍ଗିବାଡି କୋରାପୁଟ ଫୁଲବାଣୀ
-Andhra Pradesh,ଆନ୍ଧ୍ର ପ୍ରଦେଶ 
-List of hill stations in India,ଭାରତ ରେ ଶୈଳ ନିବାସ   ସ୍ଥଳ ସବୁ ର ତାଲିକା ( Hill Stations) 
-Mini Switzerland,ମିନି ସ୍ଵିଜରର୍ଲାଣ୍ଡ
-Accommodation,ରହଣି ସୁବିଧା 
-Khajjiar during August,ଅଗଷ୍ଟ ମାସ ରେ ଖଜ୍ଜିଆର ର ଦୃଶ୍ୟ 
-Travel,ଯାତାୟାତ 
-Grasslands of Khajjiar,ଖଜ୍ଜିଆର ର ତୃଣଭୂମି 
-Trekking,ଟ୍ରେକିଙ୍ଗ 
-Khajjiar,"ଖଜ୍ଜିଆର, ହିମାଚଳପ୍ରଦେଶ "
-Iraq,ଇରାକ 
-Malaysia,ମାଲେସିଆ 
-Punjab,ପଞ୍ଜାବ 
-Sindh,ସିନ୍ଧ 
-Balochistan,ବେଲୁଚିସ୍ଥାନ 
-Philippines,ଫିଲିପାଇନ 
-Sri Lanka,ଶ୍ରୀଲଙ୍କା 
-Syria,ସିରିୟା
-Europe,ଇଉରୋପ 
-Cyprus,ସାଇପ୍ରସ 
-Vietnam,ଭିଏତନାମ 
-Oceania,ଅକାନିଆ 
-Australia,ଅଷ୍ଟ୍ରେଲିଆ 
-Africa,ଆଫ୍ରିକା 
-Madagascar,ମଦଗାସକାର 
-Morocco,ମରକୋ 
-Nigeria,ନାଇଜେରିଆ 
-Asia,ଏସିଆ 
-Cambodia,କମ୍ବୋଡିଆ 
-China,ଚୀନ 
-Hong Kong,ହଙ୍ଗ କଙ୍ଗ 
-Khonsa,"ଖୋନସା ,ଅରୁଣାଚଲ ପ୍ରଦେଶ "
-Flora,ପୁଷ୍ପ 
-Fauna,ଜୀବଜଗତ 
-Mammals,ସରୀସୃପ ଜାତୀୟ ଜୀବ 
-Namdapha National Park,"ନାମଦଫା ଜାତୀୟ ପାର୍କ , ଅରୁଣାଚଳ ପ୍ରଦେଶ "
-Birds,ପକ୍ଷୀ 
-Butterflies and moths,ପ୍ରଜାପତି ଓ ମଥ
-Ethnography,ଜନପ୍ରଜାତି 
-Transport,ଯାତାୟାତ ବ୍ୟବସ୍ଥା 
-Lambasingi,ଲାମ୍ମାଶିଙ୍ଗୀ ଶୈଳ ନିବାସ
-Ancestor worship at Kotagiri,ପୂର୍ବ ପୁରୁଷ ଆରାଧନା ସ୍ଥଳୀ 
-Kotagiri,"କୋଟାଗିରି, ନିଳଗିରି"
-Climate,ପାଗ 
-Media,ମିଡିଆ 
-Champhai,ଚମ୍ଫାଈ
-"Nohkalikai Falls, 1854",ନୋହକାଲିକାଇ ଜଳପ୍ରପାତ ୧୮୫୪ ରେ 
-Nohkalikai Falls,ନୋହକାଲିକାଇ ଜଳପ୍ରପାତ
-Flora and fauna,ବଣ ଜଙ୍ଗଲ ଓ ପଶୁ ପକ୍ଷୀ 
-Educational Institutions,ଶିକ୍ଷ୍ୟାନୁଷ୍ଠାନ 
-T20I captains,T20I ଅଧିନାୟକଗଣ 
-Footnotes,ଫୁଟନୋଟ
-Key,ସଂକ୍ଷିପ୍ତ ଚିହ୍ନ 
-Players,ଖେଳାଳି ସମୂହ 
-Indian Premier League,ଆଇପିଏଲ ରେ ବାଲାଜୀ 
-Railways Reorganization,ରେଳ ବ୍ୟବସ୍ଥା ର ପୁନର୍ଗଠନ 
-Nearby stations,ନିକଟସ୍ଥ  ଷ୍ଟେସନ ସବୁ 
-New Bhubaneswar,ନିଉ ଭୁବନେଶ୍ବର ଷ୍ଟେସନ 
-Bhubaneswar railway station,ଭୁବନେଶ୍ବର ରେଳ ଷ୍ଟେସନ
-Why is Chandikhole Famous?,ପ୍ରଶିଧ୍ହୀ 
-List of Swaminarayan temples,ସ୍ଵାମନାରାୟଣ ମନ୍ଦିର ସମୂହ
-Expansion,ବିସ୍ତାରିକରଣ 
-Airlines and destinations,ଉଡାଜାହାଜ ସବୁ ଓ ଗନ୍ତବ୍ୟପଥ 
-Nuagaon Airport,"ନୂଆଗାଁ ଏୟାରପୋର୍ଟ,ବଲାଙ୍ଗିର "
-Morni Hill Fort,ମୋରଣୀ ହିଲ ଦୁର୍ଗ 
-Tikkar Taal,ଟିକକର ତାଳ 
-Morni,ମୋରଣୀ
-Triund,ତ୍ରିଉଣ୍ଡ 
-Snowline,ସ୍ନୋ ଲାଇନ 
-Narkanda town today.,ବର୍ତମାନ ର ନରକନ୍ଦା ସହର .
-The retreat,ଶୈଳ ନିବାସ 
-Mashobra,ମାଶୋବ୍ରା
-Tourism,ଟୁରିଜମ 
-Tea plantations in Munnar,ମୁନ୍ନାର ଠାରେ ଚା ଚାଷ 
-Other coalfields,ଅନ୍ୟ କୋଇଲାଖଣି ସମୂହ 
-Places of Interest,ଦର୍ଶନୀୟ ସ୍ଥାନ ସବୁ 
-Layout,ଅବସ୍ଥିତି 
-Overa-Aru Biosphere Reserve,ଓଭେରା-ଆରୁ ସଂରକ୍ଷିତ ଜୈବମଣ୍ଡଳ 
-"Aru, Jammu and Kashmir","ଆରୁ, ଜାମ୍ମୁ ଓ କାଶ୍ମୀର "
-Patnitop bypass road tunnel,ପଟନୀଟପ୍ ପତନିତପ ବାଇପାସ ଟନେଲ ରାସ୍ତା 
-About Virajpet Tourism,ପର୍ଯ୍ୟଟନ 
-Places of worship,ତୀର୍ଥ ସ୍ଥଳ 
-Getting there,ଯାତାୟାତ 
-Sight-seeing,ଦର୍ଶନୀୟ ସ୍ଥାନ ସବୁ 
-Valley view from sunset point.,ସନସେଟ ପୋଏଣ୍ଟ ର ଦୃଶ୍ୟ 
-Gira falls,ଗିରା ପ୍ରପାତ 
-Travel information,ଯାତାୟାତ ସୁବିଧା 
-Pictures,ଗେଲେରୀ 
-Saputara,ସପୁତରା 
-Landmarks of Kasauli,ମୁଖ୍ୟ ସ୍ଥାନ ସବୁ 
-Baptist Church,ବାପତିଷ୍ଟ ଚର୍ଚ 
-Christ Church,ଖ୍ରୀଷ୍ଟ ଚର୍ଚ 
-"Christ Church, Kasauli","ଖ୍ରୀଷ୍ଟ ଚର୍ଚ , କସୌଲି "
-Gurudwara Shri Guru Nanak Ji,ଗୁରୁଦ୍ୱାରା 
-Kasauli,କସୌଲି
-Attractions,ଆକର୍ଷଣ ସବୁ 
-Valley in Budgam district,ବୁଡଗାମ ଜିଲ୍ଲା ର ଉପତ୍ୟକା 
-Ambanad Hills,ଆମ୍ବନାଦ ହିଲ
-Towns,ସହର ସବୁ 
-Distribution,ବିସ୍ତାର 
-Lifespan,ଜୀବନ କାଳ 
-Relationship with humans,ମଣିଷ ସହ ସମ୍ପର୍କ 
-Greater flamingo,ବୃହତ୍ ଫ୍ଲେମିଙ୍ଗୋ
-Table,ସାରଣୀ 
-Parihar,ପରିହାର
-Post or POST may refer to:,ନିମ୍ମ ବର୍ଣିତ ବିଷୟ ବସ୍ତୁ ନା କର୍ମ ସବୁକୁ ପୋଷ୍ଟ (Post) ଆଖ୍ୟା ଦିଆ  ଯାଇପାରେ । 
-Mail,ଡାକ 
-Newspapers and magazines,ସଂବାଦପତ୍ର ଓ ମାଗାଜିନ 
-Organizations and companies,ସଂଗଠନ ଓ କମ୍ପାନୀ ସମୂହ 
-Places,ସ୍ଥାନ ସମୂହ 
-Technology,କାରିଗରୀ 
-Other,ଅନ୍ୟସବୁ 
-Current classification,ବର୍ତମାନ ର ଶ୍ରେଣୀବିଭାଗ 
-Historical Classification,ଏଇତିହାସିକ ଶ୍ରେଣୀବିଭାଗ
-Urban areas,ସହରାଞ୍ଚଳ ସମୂହ 
-Map,ମେପ 
-Bowling style,ବୋଲିଂ ଷ୍ଟାଇଲ
-Oman,ଓମାନ 
-Russia,ରୁଷିଆ
-Qatar,କାଟାର 
-Denmark,ଡେନମାର୍କ 
-Egypt,ଇଜିପଟ୍
-Gambia,ଗାମ୍ବିଆ
-Germany,ଜର୍ମାନୀ 
-South Africa,ଦକ୍ଷିଣ ଆଫ୍ରିକା 
-Sweden,ସ୍ଵିଡେନ
-Hungary,ହଙ୍ଗେରୀ
-Israel,ଇସ୍ରାଏଲ
-Japan,ଜାପାନ 
-Kuwait,କୁଏଟ୍
-Malaysia,ମାଲୟେସିଆ
-Mexico,ମେକ୍ସିକୋ
-New Zealand,ନିଉଜିଲାଣ୍ଡ 
-North Korea,ଉତ୍ତର କୋରିଆ 
-Thailand,ଥାଇଲାଣ୍ଡ 
-Turkey,ତୁର୍କୀ 
-Ukraine,ଉକ୍ରେନ
-Venezuela,ଭେଞ୍ଜୁଏଲା
-Argentina,ଅର୍ଜେଣ୍ଟିନା 
-Australia,ଅଷ୍ଟ୍ରେଲିଆ 
-Bahrain,ବାହାରିନ
-Bulgaria,ବୁଲଗାରିଆ
-Chile,ଚିଲି 
-Cyprus,ସାଇପ୍ରସ
-Additional performance records,ଅନ୍ୟ ଉପଲବ୍ଧ ରେକର୍ଡ 
-Disabled or diseased summiters,ଭିନ୍ନକ୍ଷ୍ୟମ ଆରୋହଣକାରୀ 
-Oldest summiters,ସର୍ବୋଜେଷ୍ଠ ଅରୋହଣକାରୀ 
-Mount Everest from Gokyo Ri,ଗୋକ୍ୟୋ ରି ଅଞ୍ଚଳ ରୁ ମାଉଣ୍ଟ  ଏଭେରେଷ୍ଟ ର ଦୃଶ୍ୟ 
-Youngest Summiters,ସର୍ବକନିଷ୍ଠ ଆରୋହଙ୍କାରୀ 
-Youngest female,ମହିଳା 
-examples only,ଉଦାହରଣ ମାତ୍ର 
-First …,ପ୍ରଥମ 
-Nepali records,ନେପାଲୀ ରେକର୍ଡ 
-Everest base camp records,ଏଭେରେଷ୍ଟ ବେସ କେମ୍ପ ରେକର୍ଡ 
-Death statistics,ମୃତ୍ୟୁ ପରିସଙ୍ଖ୍ୟାନ 
-Non-Nepali or Tibetan,ଅଣ ନେପାଲୀ ଓ ତିବତୀୟ 
-List of Mount Everest records,ମାଉଣ୍ଟ ଏଭେରେଷ୍ଟ ର ରେକର୍ଡ ସମୂହ ର ତାଲିକା
-Wikipedia edition codes,ୱିକିପିଡିଆ ସମ୍ପାଦନ କୋଡ ସମୂହ 
-List of Wikipedias,ୱିକିପିଡିଆ ସମୂହ ର ତାଲିକା
-Grand total,ସର୍ବ ମୋଟ 
-In art,କଳାକୃତି ରେ 
-In feature films,ଫିଲ୍ମ ରେ ଵିକି 
-In music,ସଂଗୀତା ରେ 
-In postal items,ପୋଷ୍ଟାଲ ଜିନିଷ ରେ 
-In radio broadcasts,ରେଡିୟୋ ପ୍ରସାରଣ ରେ 
-In television episodes,ଟିଭି ସିରିୟାଲ ରେ ଵିକି 
-In web comics,ଇଣ୍ଟର୍ନେଟ କମିକ ସିରିୟାଲ ରେ 
-References and footnotes,ଆଧାର ଓ ଫୁଟ ନୋଟ 
-Cases,ନିମ୍ମ  ରେ କିଛି ଉଦାହରଣ ଦିଆଗଲା 
-KABYA,କାବ୍ୟ ସଂକଳନ
-GATHA,ଗାଥା
-Gathayani,ଗାଥାୟନୀ
-KABITA (POETRY),କବିତା ସଂକଳନ
-Kabita sanchayani,କବିତା ସଞ୍ଚାୟନୀ
-NIBANDHA,ନିବନ୍ଧ
-Gadya sanchayani,ଗଦ୍ୟ ସଞ୍ଚୟନୀ
-NATAKA AND LOKANATYA (DRAMA),ନାଟକ ଓ ଲୋକନାଟ୍ୟ
-UCHANGA SAHITYA,ଉଚ୍ଚାଙ୍ଗ ସାହିତ୍ୟ
-AMAR CHARITA,ଅମର ଚରିତ
-SERIES OF KUHUKA RAIJA,କୁହୁକ ରାଇଜ ସିରିଜ
-SERIES OF PARIMAHALA,ପରୀମହଲ ସିରିଜ
-SADHABA GHARA KATHA,ସାଧବ ଘର କଥା ସିରିଜ
-Bibliography,ଅନ୍ୟାନ୍ୟ
-Train names,ଟ୍ରେନ ର ନାମ ସବୁ 
-Vaishnodevi Temple,"ବୈଷ୍ନୋଦେବୀ ମନ୍ଦିର , ରାଉରକେଲା , ରାଉରକେଲା"
-Sadni Falls,ସାଦନୀ ପ୍ରପାତ 
-Somnath Temple,ସୋମନାଥ ମନ୍ଦିର 
-Attractions around Bemetara,ନିକଟସ୍ଥ ଆକର୍ଷଣୀୟ ସ୍ଥଳ ସବୁ 
-Laxman Temple at Sirpur,ସିରପୁର ଠାରେ ଥିବା ଲକ୍ଷ୍ମଣ ମନ୍ଦିର 
-Development and history,ଉନ୍ନୟନ ଓ ନିର୍ମାଣ ଇତିହାସ 
-"Old Bombay, 1909",୧୯୦୯ ରେ ମୁମ୍ବାଇ 
-Childhood and education,ବାଲ୍ୟଜୀବନ ଓ ଶିକ୍ଷା
-Coaches,କୋଚ ବ୍ୟବସ୍ଥା 
-Service,ସେବା 
-Routeing,ଗତିପଥ ଓ ରହଣି 
-Connections,ଯୋଗାଯୋଗ 
-List of sovereigns,ଭାଟିକାନ ଶାସନ ମୁଖ୍ୟ ଙ୍କ ତାଲିକା 
-12534 Pushpak Express,୧୨୫୩୪ପୁଷ୍ପକ ଏକ୍ସପ୍ରେସ
-Schedule and Service,ସମୟ ସାରଣୀ ଓ ସେବା 
-Rake and Coach,ରେକ ଓ କୋଚ 
-GT Express near NDLS,GT ଏକ୍ସପ୍ରେସ ନୂଆ ଦିଲ୍ଲୀ ନିକଟ ରେ 
-Location of Chhattisgarh,ଛତିଶଗଦ ରାଜ୍ୟ                     
-Geography of Chhattisgarh,ଭୌଗୋଳିକ ସ୍ଥିତି 
-Man of the Match awards,ମେନ ଅଫ ମେଚ ପୁରସ୍କାର 
-Test career,ଟେଷ୍ଟ ଜୀବନ 
-ODI career,ଏକଦିବସୀୟ ଜୀବନୀ 
-International T20 career,T୨୦ ଆନ୍ତର୍ଜାତିକ 
-IPL career,ଆଇପିଏଲ
-Test cricket,ଟେଷ୍ଟ ରେ 
-ODI cricket,ଏକଦିବସୀୟ ରେ 
-Man of the Series awards,ମେନ ଓଫ ସିରିଜ 
-Domestic career,ଘରେଇ ପ୍ରଦର୍ଶନ 
-International career,ଅନ୍ତର୍ଜାତିକ ପ୍ରଦର୍ଶନ 
-International centuries,ଅନ୍ତର୍ଜାତିକ ଶତକ 
-International awards,ଅନ୍ତର୍ଜାତିକ ପୁରସ୍କାର 
-ODI centuries,ଏକଦିବସୀୟ ଶତକ 
-ODI Man of the Match awards,ଏକଦିବସୀୟ ମେନ ଓଫ ମେଚ 
-T20I Man of the Match awards,t୨୦ ମେନ ଓଫ ମେଚ 
-International Awards,ଅନ୍ତର୍ଜାତିକ୍ ପୁରସ୍କାର 
 Test Cricket,ଟେଷ୍ଟ କ୍ରିକେଟ 
 IPL carrer,ଆଇପିଏଲ ରେ ଯାଦବ 
 Climbing career,ପର୍ବତାରୋହଣ ଜୀବନ 
