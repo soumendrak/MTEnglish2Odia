@@ -20,19 +20,12 @@ Month | Year | Milestone | Status
 :---------|:----------:|:---------|:---------
  [December](#december2018) | 2018 | Analyze and study the existing resources available on Internet | Completed
  [January](#january2019)  | 2019 | Study the reference papers and experts in NMT and analyze their opinions | Completed
- [February](#february2019) | 2019 | Do same as January, concentrate more on the state-of-the-art practices | Not started
- March    | 2019 | Plan the code structure, prepare CI/CD and Unit test cases and start coding
- April    | 2019 | First Alpha version should be released on first week of April ([Utkala Divas](https://en.wikipedia.org/wiki/Odisha_Day))
- May      | 2019 | Analyze the codebase and do refactoring
- June     | 2019 | Second Alpha version release. Use best practices and concentrate on scalability
- July     | 2019 | First Beta version release
- August   | 2019 | Break
- September| 2019 | Break
- October  | 2019 | Analyze over internet again and do necessary changes
- November | 2019 | Second Beta release. Bug fixes and improvements on Alpha/Beta release feedback
- December | 2019 | Testing and Testing
- January  | 2020 | Production release
+ [February](#february2019) | 2019 | Do same as January, concentrate more on the state-of-the-art practices | Completed
+ March    | 2019 | Parallel corpora generation | in-progress
+ April    | 2019 | Parallel corpora generation | 
+ May      | 2019 | Parallel corpora generation & review
 
+*The parallel corpora generation data has been moved to [Odia Wikimedia](https://github.com/OdiaWikimedia/English-Odia).*
 
 ### <a name="december2018"></a> Detailed works completed in December 2018
 - Found corpus worth around [27,000 English-Odia tab separated translation pairs](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879)
