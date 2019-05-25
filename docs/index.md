@@ -21,11 +21,11 @@ Month | Year | Milestone | Status
  [December](#december2018) | 2018 | Analyze and study the existing resources available on Internet | Completed
  [January](#january2019)  | 2019 | Study the reference papers and experts in NMT and analyze their opinions | Completed
  [February](#february2019) | 2019 | Do same as January, concentrate more on the state-of-the-art practices | Completed
- March    | 2019 | Parallel corpora generation | in-progress
+ March    | 2019 | Parallel corpora generation | 
  April    | 2019 | Parallel corpora generation | 
- May      | 2019 | Parallel corpora generation & review
+ May      | 2019 | Parallel corpora generation & review |
 
-*The parallel corpora generation data has been moved to [Odia Wikimedia](https://github.com/OdiaWikimedia/English-Odia).*
+*The parallel corpora generation data has been moved to [Odia Wikimedia](https://github.com/OdiaWikimedia/English-Odia). There will be **no further work** unless we have achieved at least 10k (3.8k/10k achieved) parallel corpus.*
 
 ### <a name="december2018"></a> Detailed works completed in December 2018
 - Found corpus worth around [27,000 English-Odia tab separated translation pairs](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879)
@@ -84,6 +84,10 @@ Month | Year | Milestone | Status
 * [RBMT vs SMT](https://arxiv.org/ftp/arxiv/papers/1708/1708.04559.pdf)
 * [Detail MT system analysis of Indic languages](http://airccse.org/journal/ijnlc/papers/4215ijnlc05.pdf)
 * [English-Punjabi parallel corpus creation](http://ijesm.co.in/uploads/68/4983_pdf.pdf)
+* [Creating more corpus by breaking long sentences](https://arxiv.org/pdf/1905.08945v1)
+
+## Useful Open source libraries
+* [fast_align](https://github.com/clab/fast_align) : Align the words between two parallel corpus 
 
 ## Data collected from:
 * [Wikipedia Data dump](https://www.mediawiki.org/wiki/Content_translation/Published_translations)
