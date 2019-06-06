@@ -6,7 +6,7 @@ This is a healthy start to building Automated machine translation for `English` 
 This has been built mainly to help increase quality odia wikipedia articles by translating for English Wikipedia.
 The approach is to start building a parallel corpus between English and Odia language which can later be used in SMT(Statistical Machine Translation) or NMT (Neural Machine Translation) in future by interested people.
 
-Raw data of 9000 English-Odia un-reviewed parallel pairs dump available in [this file]() as pipe separated phrases or sentences.
+**Around 9000 English-Odia un-reviewed raw parallel pairs dump available in [this file](/data/output/piped_pairs_raw_may_2019.csv) as pipe separated phrases or sentences.**
 
 For more details visit the website of this repository : [MTEnglish2Odia](https://soumendrak.github.io/MTEnglish2Odia/)
 
