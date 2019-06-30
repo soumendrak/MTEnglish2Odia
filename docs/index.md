@@ -21,9 +21,7 @@ Month | Year | Milestone | Status
  [December](#december2018) | 2018 | Analyze and study the existing resources available on Internet | Completed
  [January](#january2019)  | 2019 | Study the reference papers and experts in NMT and analyze their opinions | Completed
  [February](#february2019) | 2019 | Do same as January, concentrate more on the state-of-the-art practices | Completed
- March    | 2019 | Parallel corpora generation | 
- April    | 2019 | Parallel corpora generation | 
- May      | 2019 | Parallel corpora generation & review |
+ Mar-Dec    | 2019 | Parallel corpora generation | 
 
 *The parallel corpora generation data has been moved to [Odia Wikimedia](https://github.com/OdiaWikimedia/English-Odia). There will be **no further work** unless we have achieved at least 10k (3.8k/10k achieved) parallel corpus.*
 
@@ -64,6 +62,7 @@ Month | Year | Milestone | Status
   - Train, Testing, Deployment all pipeline have been there
 - First attempt I have tried this tool with GNOME translation pair I got. However, It got failed may be due to only 60 parallel sentences.
 - In the meantime there seems to be many work going on with frequent papers in [Unsupervised NMT](http://arxiv.org/abs/1901.04112v1) for low resources languages, there has not been any significant usable work yet. However, I am keeping an eye on that too.
+- The Translator Hub has been retired on May 2019. It has been migrated to [Microsoft Custom translator](https://www.microsoft.com/en-us/translator/business/hub/). However, Odia language is unavailable currently. I have requested them to add it.
 
 ### <a name="february2019"></a> Detailed works completed/ongoing in February 2019
 - Data review and preparation started. 
