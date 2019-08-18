@@ -1,4 +1,5 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b3a25275798c4c129dc863b7e619f41c)](https://www.codacy.com/app/soumendrak/MTEnglish2Odia?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=soumendrak/MTEnglish2Odia&amp;utm_campaign=Badge_Grade)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsoumendrak%2FMTEnglish2Odia.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsoumendrak%2FMTEnglish2Odia?ref=badge_shield)
 # MTEnglish2Odia
 ## *We are at quality corpus collecting phase now. All source code written only to clean the data*.
 ## Machine Translation from English to Odia language
@@ -18,3 +19,5 @@ GPL v3.0
 
 ---
 ଇଂରାଜୀରୁ ଓଡ଼ିଆ ଭାଷାକୁ ମେସିନ ଟ୍ରାନ୍ସଲେସନଦ୍ୱାରା ଅନୁବାଦ କରିବାକୁ ଏହି ପ୍ରକଳ୍ପଟି ତିଆରି ହୋଇଛି । ଏହା ମୁଖ୍ୟତଃ ଓଡ଼ିଆ ଉଇକିପିଡ଼ିଆରେ ଗୁଣାତ୍ମକ ପୃଷ୍ଠାଗୁଡ଼ିକର ସଂଖ୍ୟା ବୃଦ୍ଧି କରିବାକୁ ଗଠନ କରାଯାଇଛି । ବର୍ତ୍ତମାନର ଯୋଜନା ହିସାବରେ ପ୍ରଥମେ ଇଂରାଜୀ-ଓଡ଼ିଆ ଅନୁବାଦର ପାରାଲେଲ ତଥ୍ୟ ସଂଗ୍ରହ ହେବ । ଯଥେଷ୍ଟ ପରିମାଣର ତଥ୍ୟ ସଂଗ୍ରହ ପରେ ଏହାକୁ ପ୍ରଥମେ ଷ୍ଟାଟିଷ୍ଟିକାଲ ମେସିନ ଟ୍ରାନ୍ସଲେସନ ଏବଂ ପରେ ନ୍ୟୂରାଲ ମେସିନ ଟ୍ରାନ୍ସଲେସନ ଦ୍ୱାରା ଉପଯୋଗ କରାଯାଇ ଅନୁବାଦର ଶୁଦ୍ଧତ୍ତା ହିସାବ କରାଯିବ । ଚଳନୀୟ ଶୁଦ୍ଧତା ହାସଲ ପରେ ଏହାକୁ ସର୍ବସାଧାରଣଙ୍କ ନିମନ୍ତେ ଉତ୍ସର୍ଗୀକୃତ କରାଯିବ ।
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsoumendrak%2FMTEnglish2Odia.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsoumendrak%2FMTEnglish2Odia?ref=badge_large)
