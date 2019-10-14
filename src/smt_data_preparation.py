@@ -14,9 +14,9 @@ class prepareCorpus:
     Generate Parallel corpus from the combined file
     """
 
-    def __init__(self, filename, delimiter=None):
-        self.filename = filename
-        self.delimiter = delimiter
+    def __init__(self, fname, delim=None):
+        self.filename = fname
+        self.delimiter = delim
 
     def read_file(self):
         """
@@ -25,7 +25,7 @@ class prepareCorpus:
             2. txt
             3. xlsx
         """
-        file, ext = os.path.splitext(self.filename)
+        _, ext = os.path.splitext(self.filename)
         with open(self.filename, 'r') as cf:
             if ext.lower() == '.csv':
                 file_data = csv.reader(cf, delimiter=self.delimiter or '||')
@@ -34,14 +34,14 @@ class prepareCorpus:
             elif ext.lower() == '.txt':
                 pass
             else:
-                msg = 'Invalid file extension passed'
+                raise Exception('Invalid file extension passed')
             
         return file_data
 
-    def prepare_english_senetnces(self, filename):
+    def prepare_english_sentences(self, filename):
         pass
 
-    def prepare_odia_senetnces(self, filename):
+    def prepare_odia_sentences(self, filename):
         pass
 
 

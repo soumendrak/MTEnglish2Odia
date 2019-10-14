@@ -3,7 +3,6 @@ Author: Soumendra Kumar Sahoo
 Usage: 
 >>> python tmx_to_json.py <xml file> <output file>
 """
-import json
 import sys
 import xmltodict
 
