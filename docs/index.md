@@ -72,8 +72,9 @@ Month | Year | Milestone | Status
 - Around 550 pairs reviewed till now. We need at least 10,000 pairs by end of this month. Finding ways to automate.
 
 ### <a name="september2019"></a> Data Ingestion pipeline
-- A [pipeline flow](https://soumendrak.github.io/MTEnglish2Odia/MT_Flow_Pipleine) draft for data ingestion been created.
-### <a name="october2019"></a> Read as much as papers as possible to get a strong grip on MT
+- A [pipeline flow](https://soumendrak.github.io/MTEnglish2Odia/MT_Flow_Pipleine) draft for data ingestion been created.  
+
+### <a name="october2019"></a> Reading papers
 #### Six Challenges for Neural Machine Translation
 - There are [six challenges in NMT](https://arxiv.org/pdf/1706.03872.pdf)
   1. Domain mismatch
