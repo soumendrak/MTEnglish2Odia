@@ -1,28 +1,26 @@
 # Machine Translation Flow Pipeline
 ### Update log
-Date | Version | Author | Change details
-:--------- |:---------- |:--------- |:----------
-22nd Sept'19 | 0.01 | Soumendra Kumar Sahoo| Initial draft created
+- Date | Version | Author | Change details  
+- 22nd Sept'19 | 0.01 | Soumendra Kumar Sahoo | Initial draft created
 
 ## Objective
 This document explains to various pipeline flows for training and querying of English to Odia the translation.
 I have tried to explain the concepts as low level as possible for an amateur technical person.
 
-## Important Terms and their meaning
-Terms               | Meaning
-:-------------------|:------------------------------------------------------------------
-Parallel pairs      | English and Odia text pairs with same meaning.
-Corpus              | A Data set with relevant text data
-Translation         | Converting meaning of a text in one language to another language.
-Transliteration     | Converting pronunciation of a text from one language to another.
-Machine Translation | Automatic Machine learning based translation
-Phrase              | Part of a sentence without any particular meaning.
-Neural Machine Translation | Deep learning based automatic machine translation.
-Agent               | Bot.
-Crawler             | Move from one website to another website like a Spider.
-Domain              | Business level like Healthcare, IT, Tourism, Religious text, etc.
-POS tags            | Part of speech tags like Noun, Verb etc.
-NER                 | Named Entity Recognition like Person, Organization, Place, etc.
+## Important Terms
+- **Parallel pairs**:  English and Odia text pairs with same meaning.
+- **Corpus**: A Data set with relevant text data
+- **Translation**: Converting meaning of a text in one language to another language.
+- **Transliteration**: Converting pronunciation of a text from one language to another.
+- **Machine Translation**: Automatic Machine learning based translation
+- **Phrase**: Part of a sentence without any particular meaning.
+- Neural Machine Translation: Deep learning based automatic machine translation.
+- **Agent**: Bot.
+- **Crawler**: Move from one website to another website like a Spider.
+- **Domain**: Business level like Healthcare, IT, Tourism, Religious text, etc.
+- **POS tags**: Part of speech tags like Noun, Verb etc.
+- **NER**: Named Entity Recognition like Person, Organization, Place, etc.
+- **Parse**: Extracting information
 
 The entire pipeline can be divided into two parts:  
 1. Ingestion &
