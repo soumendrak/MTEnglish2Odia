@@ -22,6 +22,9 @@ Month | Year | Milestone | Status
  [January](#january2019)  | 2019 | Study the reference papers and experts in NMT and analyze their opinions | Completed
  [February](#february2019) | 2019 | Do same as January, concentrate more on the state-of-the-art practices | Completed
  Mar-Dec    | 2019 | Parallel corpora generation | 
+ [September](#september2019) | 2019 | Data ingestion pipeline | Initial draft prepared |
+ [October](#october2019) | 2019 | Read existing papers on MT and write the summary | In-Progress
+
 
 *The parallel corpora generation data has been moved to [Odia Wikimedia](https://github.com/OdiaWikimedia/English-Odia). There will be **no further work** unless we have achieved at least 10k (3.8k/10k achieved) parallel corpus.*
 
@@ -67,6 +70,18 @@ Month | Year | Milestone | Status
 ### <a name="february2019"></a> Detailed works completed/ongoing in February 2019
 - Data review and preparation started. 
 - Around 550 pairs reviewed till now. We need at least 10,000 pairs by end of this month. Finding ways to automate.
+
+### <a name="september2019"></a> Data Ingestion pipeline
+- A [pipeline flow](https://soumendrak.github.io/MTEnglish2Odia/MT_Flow_Pipleine) draft for data ingestion been created.
+### <a name="october2019"></a> Read as much as papers as possible to get a strong grip on MT
+#### Six Challenges for Neural Machine Translation
+- There are [six challenges in NMT](https://arxiv.org/pdf/1706.03872.pdf)
+  1. Domain mismatch
+  2. Amount of Training Data
+  3. Rare Words
+  4. Long sentences
+  5. Word Alignment
+  6. Beam Search
 
 ## Impediments
 - [x] Get at least 10,000 parallel open corpus for Odia language to begin with.

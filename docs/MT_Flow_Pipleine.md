@@ -1,7 +1,7 @@
 # Machine Translation Flow Pipeline
 ### Update log
 Date | Version | Author | Change details
-:---------|:----------|:---------|:----------
+:--------- |:---------- |:--------- |:----------
 22nd Sept'19 | 0.01 | Soumendra Kumar Sahoo| Initial draft created
 
 ## Objective
@@ -10,8 +10,8 @@ I have tried to explain the concepts as low level as possible for an amateur tec
 
 ## Important Terms and their meaning
 Terms               | Meaning
-:-------------------|:--------------------------------
-Parallel pairs      |English and Odia text pairs with same meaning.
+:-------------------|:------------------------------------------------------------------
+Parallel pairs      | English and Odia text pairs with same meaning.
 Corpus              | A Data set with relevant text data
 Translation         | Converting meaning of a text in one language to another language.
 Transliteration     | Converting pronunciation of a text from one language to another.
@@ -159,3 +159,10 @@ We need to classify the pairs into words, phrases and sentences.
 
 #### Raw --> Standard
 Convert the format to standard format and make any changes if needed to the data which will be used further on the training process.
+
+## Query
+Checking:
+- Check the minimum number of letters/words/POS tags
+- Likelihood of finding a translation
+  - Depends on many parameters
+-  
