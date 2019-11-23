@@ -1,23 +1,26 @@
 """
 Author: Soumendra Kumar Sahoo
 Usage: 
->>> python tmx_to_json.py <xml file> <output file>
+>>> python tmx_to_json.py <.xml file> <.txt output file>
 """
 import json
 import re
 import sys
 import xmltodict
 
-cleanr = re.compile('<.*?>')
+from character_mapping import MATRA
+
+cleaner = re.compile('<.*?>')
 
 def remove_html_tags(text):
-  cleantext = re.sub(cleanr, '', text)
+  cleantext = re.sub(cleaner, '', text)
   return cleantext
 
-def check_odia_text_percentage_threshold(en_sentence, or_sentence):
-    # check letter count mismatch
-    # 
-    return True
+def check_odia_text(text):
+    if any(matra in text for matra in MATRA):
+        return True
+    else:
+        return False
 
 def read_xml_file(filename):
     with open(filename, 'r+', encoding='utf-8') as fh:
@@ -30,7 +33,7 @@ def process_file(xml_file):
     for each_par in file_dict.get('tmx').get('body').get('tu'):
         en_sentence = remove_html_tags(each_par.get('tuv')[0]['seg']).strip()
         or_sentence = remove_html_tags(each_par.get('tuv')[1]['seg']).strip()
-        if check_odia_text_percentage_threshold(en_sentence, or_sentence):
+        if check_odia_text(or_sentence):
             write_sentence = en_sentence + '||' + or_sentence
             final_file.add(write_sentence)  # keep only unique pairs
     final_file = '\n'.join(final_file)

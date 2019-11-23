@@ -1,7 +1,11 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b3a25275798c4c129dc863b7e619f41c)](https://www.codacy.com/app/soumendrak/MTEnglish2Odia?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=soumendrak/MTEnglish2Odia&amp;utm_campaign=Badge_Grade)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsoumendrak%2FMTEnglish2Odia.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsoumendrak%2FMTEnglish2Odia?ref=badge_shield)
+
 # MTEnglish2Odia
 ## *We are at quality corpus collecting phase now. All source code written only to clean the data*.
+
+Number of En-Or parallel reviewed pairs: **11,805**
+
 ## Machine Translation from English to Odia language
 This is a healthy start to building Automated machine translation for `English` to `Odia` language.
 This has been built mainly to help increase quality odia wikipedia articles by translating for English Wikipedia.
