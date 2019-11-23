@@ -109,6 +109,11 @@ Month | Year | Milestone | Status
 * [Open Parallel Corpus](http://opus.nlpl.eu)
 * [OdiEnCorp 1.0](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879)
 * [TDIL](http://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1070&lang=en) - Technical strings 52,000 pairs-Data needs to be cleaned
+* [Global Voices](http://casmacat.eu/corpus/global-voices.html) - 328 sentences pairs
+* [Mann ki baat](https://www.narendramodi.in/mann-ki-baat) - 1000+ pairs
+* [Twitter:DoctorBabu](https://twitter.com/drgynaec) - Around 100 Botanical terms En-Or pairs
+* [Rupesh Ranjan Panda](https://github.com/rupeshranjanpanda/odia) - Around 300 generic En-Or pairs
+
 
 ## Prospective data corpus
 These are few places where relevant data may be present, however getting the data is not straight forward.
@@ -116,8 +121,11 @@ These are few places where relevant data may be present, however getting the dat
   The Oriya written corpus consists of data incorporated from the CIIL Corpus, originally gathered by the Institute of Applied Language Sciences, Bhubaneshwar (approximately 2,730,000 words).
 * [Gyan Nidhi-TDIL](https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=281&lang=en) : Million pages’ multilingual parallel text corpus in English and 11  Indian  languages  (Assamese,  Bengali,  Gujarati,  Hindi, Kannada,   Marathi,   Malayalam,   Oriya,   Punjabi,   Tamil   & Telugu)  based  on  Unicode  encoding.  The  Gyan  Nidhi  corpus contains  the  text  in  the  form  of  books. In  these  books  there were  number of diagrams,  figures,  charts  and  other  special symbols. These are removed from the text by using automated and  manual  tools.  The  text  in  gyan  nidhi  is  in  the  form of paragraphs, that are converted into short sentences. 
 
-## Contributors
+## Key Contributors
+- Anjan Kumar Panda
+- Dr. Arun Malik
 - Soumendra Kumar Sahoo  
+- Subhashish Panigrahi
 
 *"In my dream of the 21st century for the State, I would have young men and women who put the interest of the State before them. They will have pride in themselves, confidence in themselves. They will not be at anybody’s mercy, except their own selves. By their brains, intelligence and capacity, they will recapture the history of Kalinga." - [Biju Pattnaik](https://en.wikipedia.org/wiki/Biju_Patnaik)*
 

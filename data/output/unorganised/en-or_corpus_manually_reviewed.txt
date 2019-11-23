@@ -1,0 +1,252 @@
+GG|we don't care||ଆମେ ଖାତିର କରୁନା||ଆମର କିଛି ଯାଏ ଆସେ ନାହିଁ 
+GG|shining star||ଚମକୁଥିବା ତାରା||ଉଜ୍ଜ୍ୱଳ ନକ୍ଷତ୍ର
+GG|recent posts||ପାଖାପାଖି ପୋଷ୍ଟଗୁଡିକ 
+GG|you are tired||ଆପଣ ଥକି ଯାଇଛନ୍ତି 
+GG|a row||ଗୋଟିଏ ଧାଡ଼ି 
+GG|to pull||ଭିଡ଼ିବା ପାଇଁ||ଟାଣିବା ପାଇଁ||ଟାଣିବାକୁ
+GG|to keep fit||ସୁସ୍ଥସବଳ ରହିବାକୁ 
+GG|go jogging||ଦୌଡିବାକୁ ଯାଆନ୍ତୁ 
+GG|get money||ଟଙ୍କା ଆଣନ୍ତୁ||ଅର୍ଥ ଆଣନ୍ତୁ 
+GG|new arrival||ନୂଆକରି ଆସିଥିବା 
+GG|figure it out||ଆକଳନ କରନ୍ତୁ 
+GG|my back hurts||ମୋର ପିଠି କାଟୁଛି 
+GG|dug up||ଖୋଳିଦିଅନ୍ତୁ 
+GG|razor blades||ରେଜର ବ୍ଲେଡ 
+GG|family member||ପରିବାର ଲୋକ||ପରିବାର ସଦସ୍ୟ
+GG|access point||ଆକ୍ସେସ ପଏଣ୍ଟ 
+GG|at will||ଇଛା ଅନୁସାରେ 
+GG|laundry detergent||ଲୁଗା ସଫାକରିବା ଡିଟରଜେଣ୍ଟ 
+GG|he loves||ସେ ଭଲପାଏ 
+GG|the ocean||ମହାସାଗରଟି 
+GG|kiss and tell||ଚୁମ ଏବଂ କୁହ 
+GG|block of flats||କିଛିଗୁଡ଼ିଏ ଫ୍ଲାଟ 
+GG|dedicated to||ପାଇଁ ଉତ୍ସର୍ଗୀକୃତ 
+GG|in this moment||ଏହି କ୍ଷଣରେ 
+GG|facial expressions||ମୁଖର ଭାବ 
+GG|carbon footprint||କାର୍ବନ ଫୁଟପ୍ରିଣ୍ଟ 
+GG|skin deep||ଚମ ଗହୀର 
+GG|more specifically||ଅଧିକ ନିର୍ଦ୍ଧିଷ୍ଟରୂପେ 
+GG|no more sorrow||ଆଉ ଦୁଃଖ ନାହିଁ 
+GG|far more||ବହୁତ ଅଧିକା 
+GG|no excuses||କିଛି ବାହାନା ନାହିଁ 
+GG|stubborn love||ଜିଦିଆ ପ୍ରେମ 
+GG|number of dependents||ନିର୍ଭରକାରୀ ସଂଖ୍ୟା 
+GG|you take care||ଆପଣ ନିଜର ଯତ୍ନ ନିଅନ୍ତୁ 
+GG|can not run game with current graphic card||ବର୍ତ୍ତମାନର ଗ୍ରାଫିକ୍ସ କାର୍ଡ଼ଦ୍ୱାରା ଏହି ଖେଳଟିକୁ ଚଲେଇପାରି ହବନି 
+GG|whipped cream||ଫେଣ୍ଟାଯାଇଥିବା କ୍ରିମ 
+GG|i will be back soon||ମୁଁ ଶୀଘ୍ର ଫେରିଆସିବି 
+GG|i will wait you||ମୁଁ ତମକୁ ଅପେକ୍ଷା କରିବି 
+GG|a haunted house||ଗୋଟିଏ ଭୁତ ଘର
+GG|internal medicine||ଆଭ୍ୟନ୍ତରୀଣ ଔଷଧ 
+GG|default browser||ପୂର୍ବନିର୍ଦ୍ଧାରିତ ବ୍ରାଉଜର 
+GG|asking for it||ଏହାପାଇଁ ମାଗୁଛି 
+GG|happy new year to you||ଆପଣଙ୍କୁ ନବବର୍ଷର ଅଭିନନ୍ଦନ 
+GG|i am sorry to hear that||ତାହା ଶୁଣି ବହୁତ ଦୁଃଖ ଲାଗିଲା||ତାହା ଶୁଣି ମୋତେ ବହୁତ ଦୁଃଖ ଲାଗିଲା ||ତାହା ଶୁଣି ମୁଁ ଦୁଃଖିତ 
+GG|odd pages||ଅଯୁଗ୍ମ ପୃଷ୍ଠାଗୁଡ଼ିକ 
+GG|i am legend||ମୁଁ ଦିବ୍ୟ ବ୍ୟକ୍ତି||ମୁଁ ଜଣେ କିମ୍ବଦନ୍ତୀ ମନୁଷ୍ୟ 
+GG|advertising campaign||ବିଜ୍ଞାପନ ଅଭିଯାନ 
+GG|license key||ଲାଇସେନ୍ସ କୁଂଜୀ 
+GG|that is cool||ତାହା ଥଣ୍ଡା ଅଟେ||ତାହା ଖୁସିଯୁକ୍ତ ଅଟେ||ତାହା ଆମୋଦପ୍ରଦ ଅଟେ 
+GG|use 3 hoverboards without crashing||ଦୁର୍ଘଟଣାଗ୍ରସ୍ତ ନହୋଇ ତିନୋଟି ହୋଭରବୋର୍ଡ଼ ଉପଯୋଗ କରନ୍ତୁ 
+GG|governing law||ଶାସକୀୟ ନିୟମ 
+GG|you do not understand||ଆପଣ ବୁଝୁନାହାନ୍ତି 
+GG|i love you just the way you are||ଆପଣ ଯେଭଳିବି ହୁଅନ୍ତୁ ନା କାହିଁକି ମୁଁ ଆପଣଙ୍କୁ ଭଲ ପାଉଛି 
+GG|she is gone||ସେ ଚାଲିଗଲେ 
+GG|make a wish||ଗୋଟିଏ ଇଚ୍ଛାପ୍ରକାଶ କରନ୍ତୁ 
+GG|free for all||ସଭିଙ୍କ ନିମନ୍ତେ ମାଗଣା ଅଟେ||ସଭିଙ୍କ ନିମନ୍ତେ ଦେୟମୁକ୍ତ ଅଟେ
+GG|sightseeing tour||ପାଖଆଖ ବୁଲିବା 
+GG|to exercise||ବ୍ୟାୟାମ କରିବାକୁ 
+GG|out of time||ସମୟ ନାହିଁ||ସମୟ ସରିଯାଉଛି||ସମୟ ବାହାରେ 
+GG|cyber monday||ସାଇବର ସୋମବାର
+GG|blue collar||ନୀଳ ଶାର୍ଟ କଲର 
+GG|this can not be undone||ଏହାକୁ ପଛକୁ ଫେରାଇ ଆଣିହେବନାହିଁ 
+GG|memory card||ସ୍ମୃତି କାର୍ଡ଼||ମେମୋରୀ କାର୍ଡ 
+GG|bragging rights||ବକର ବକର ହେବା ଅଧିକାର||ଫୁଲେଇ ହେବା ଅଧିକାର||ଦେଖେଇ ହେବା ଅଧିକାର ||ବାହାସ୍ଫୋଟ ମାରିବା ଅଧିକାର ||ପବନ କରିବା ଅଧିକାର 
+GG|point of sale||ବିକ୍ରି କରିବାର ସ୍ଥାନ 
+GG|despite the fact||ସତ୍ୟ ସତ୍ୱେ 
+GG|london eye||ଲଣ୍ଡନ ଆଖି 
+GG|dark fire||ଅନ୍ଧାର ନିଆଁ 
+GG|yes exactly||ହଁ ବିଲକୁଲ||ହଁ ନିହାତିରୂପେ 
+GG|just go||ଦୟାକରି ଚାଲିଯାଆନ୍ତୁ||ଟିକେ ଯାଆନ୍ତୁ||ଜଷ୍ଟ ଚାଲ 
+GG|i need a doctor||ମୋତେ ଜଣେ ଡାକ୍ତର ଆବଶ୍ୟକ 
+GG|write back soon||ଶୀଘ୍ର ଉତ୍ତର ଲେଖନ୍ତୁ 
+GG|what is your address||ଆପଣଙ୍କର ଠିକଣା କଣ ||ଆପଣ କେଉଁଠାରେ ରୁହନ୍ତି 
+GG|straw hat||ନଡ଼ାରେ ତିଆରି ଟୋପି 
+GG|my phone number is||ମୋ ଫୋନ ନମ୍ବର ହେଲା 
+GG|no music no life||ସଙ୍ଗୀତବିନା ଜୀବନ ଅସାର 
+GG|about you||ଆପଣଙ୍କ ବିଷୟରେ 
+GG|physical therapist||ଫିଜିକାଲ ଥେରାପିସ୍ତ 
+GG|place an order||ଗୋଟିଏ ଅର୍ଡର ଦିଅନ୍ତୁ 
+GG|party animal||ପାର୍ଟି ପ୍ରିୟ||ନାଚଗୀତ ପ୍ରିୟ 
+GG|entry level||ପ୍ରବେଶ ସ୍ତର 
+GG|gross income||ମୋଟ ଆୟ 
+GG|play store||ଖେଳିବା ଷ୍ଟୋର 
+GG|where did you stay||ଆପଣ କେଉଁଠାରେ ରହୁଥିଲେ 
+GG|you speak french||ଆପଣ ଫ୍ରେଞ୍ଚ କୁହନ୍ତି 
+FB|Join Translator Community||ଅନୁବାଦ ଗୋଷ୍ଠୀରେ ସାମିଲ ହୁଅନ୍ତୁ 
+FB|You'll use this to log into your account. ||ଆପଣ ଏହାକୁ ନିଜ ଖାତାରେ ଲଗ-ଇନ କରିବାକୁ ଉପଯୋଗ କରିବେ |
+FB|It will also help you reset your password if you ever need to.|| ଯଦି କେବେ ଦରକାରପଡ଼େ ଏହା ଆପଣଙ୍କର ପାସୱାର୍ଡ଼ ବଦଳାଇବାରେ ମଧ୍ୟ ସାହାର୍ଯ୍ୟ କରିବ |
+FB|To help keep your account secure, please don't forward this email.||ନିଜ ଖାତାକୁ ସୁରକ୍ଷିତ ରଖିବାକୁ, ଏହି ଇମେଲକୁ ଆଉ କାହାକୁ ପଠାନ୍ତୁ ନାହିଁ ।
+FB|This conversation is muted||ଏହି କଥାବାର୍ତ୍ତାଟିକୁ ଚୁପ କରାଯାଇଛି |
+FB|Chat tabs will not pop up for it and push notifications are off.||ଚାଟ ଟ୍ୟାବ ଏହାପାଇଁ ଉଠି ଆସିବନି ଏବଂ ପ୍ରେରିତ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକୁ ମଧ୍ୟ ବନ୍ଦ କରାଯାଇଛି |
+GG|Are you English||ଆପଣ ଇଂରେଜ କି 
+GG|very nice picture||ବହୁତ ସୁନ୍ଦର ଛବି 
+GG|mark as read||ପଢ଼ିସାରିଛନ୍ତି ବୋଲି ଚିନ୍ହିତ କରନ୍ତୁ 
+GG|sound the horn||ଶବ୍ଦ ଦିଅନ୍ତୁ ||ଗାଡ଼ି ଶବ୍ଦ ଦିଅନ୍ତୁ ||ଶବ୍ଦ ଦିଅନ୍ତୁ 
+GG|uncountable nouns||ଅସୀମ ବିଶେଷ୍ୟଗୁଡ଼ିକ 
+GG|to expect||ଆଶା କରିବାକୁ 
+GG|girl gone wild||ଝିଅଟି ପାଗେଳୀ ହେଇଯାଇଛି 
+GG|human race||ମନୁଷ୍ୟ ଦୌଡ଼ 
+GG|hire date||ଭଡ଼ାନେବା ଦିନ 
+GG|skimmed milk||ସ୍କିମଡ କ୍ଷୀର 
+GG|stock exchange||ଶେୟାର ବଜାର 
+GG|pocket money||ହାତ ଖର୍ଚ୍ଚ||ପକେଟ ମନି 
+GG|this is temporary. I'll be back||ଏହା କ୍ଷଣସ୍ଥାୟୀ | ମୁଁ ଫେରିବି |
+GG|even pages only||କେବଳ ଯୁଗ୍ମ ପୃଷ୍ଠାଗୁଡ଼ିକ 
+GG|no guts no glory||ସାହସ  ନାହିଁ ତ ସମ୍ମାନ ନାହିଁ 
+PP|hi||ହଇରେ
+PP|what are you doing||ଆପଣ କଣ କରୁଛନ୍ତି 
+PP|i am fine||ମୁଁ ଭଲ ଅଛି 
+PP|what is your name||ଆପଣଙ୍କର ନାମ କଣ||ତମର ନାମ କଣ||ତୋ ନାଁ କଣ 
+PP|where do you stay||ଆପଣ କେଉଁଠି ରୁହନ୍ତି 
+PP|who is your father||ଆପଣଙ୍କର ବାପା କିଏ 
+PP|do you know who is my father||ମୋ ବାପା କିଏ ଜାଣିଛନ୍ତି 
+PP|i love you||ମୁଁ ତମକୁ ଭଲପାଏ||ମୁଁ ଆପଣଙ୍କୁ ଭଲପାଏ 
+PP|do you love me||ତମେ ମତେ ଭଲ ପାଅ କି ||ଆପଣ ମତେ ଭଲ ପାଆନ୍ତି କି 
+PP|who is he||କିଏ ସେ 
+PP|who is she||କିଏ ସେ 
+PP|what is his name||ତାଙ୍କର ନାଁ କଣ 
+PP|what is her name||ତାଙ୍କର ନାଁ କଣ 
+PP|what is the meaning of love||ପ୍ରେମର ଅର୍ଥ କଣ 
+PP|leave me||ମୋତେ ଛାଡ଼ିଦିଅନ୍ତୁ 
+GG|you can count on me||ଆପଣ ମୋ ଉପରେ ଭରସା କରିପାରିବେ 
+GG|start craft||ଷ୍ଟାର କ୍ରାଫ୍ଟ 
+GG|does she||କଣ ସେ 
+GG|my little||ମୋର ଛୋଟ||ମୋ କୁନି 
+GG|take what you need||ଆପଣଙ୍କର ଯାହା ଦରକାର ନେଇଯାଆନ୍ତୁ 
+GG|i am ill||ମୁଁ ଅସୁସ୍ଥ 
+GG|canned food||ଡବା ଖାଦ୍ୟ 
+GG|wear glasses||ଚଷମା ପିନ୍ଧନ୍ତୁ ||ପରଚୁକ ମାଡ଼ନ୍ତୁ
+GG|call on me||ମୋତେ ଡାକନ୍ତୁ||ମୋତେ ମୋବାଇଲରେ କଲ କରନ୍ତୁ 
+GG|brothers in arms||କାନ୍ଧରେ ଭାଇମାନେ 
+GG|performance bond||ପ୍ରଦର୍ଶନ ଚୁକ୍ତି 
+GG|beautiful disaster||ସୁନ୍ଦର ବିପତ୍ତି 
+GG|evaporated milk||ଉଡ଼ିଯାଇଥିବା ଦୁଗ୍ଧ 
+GG|pocket knife||ପକେଟ ଛୁରୀ 
+GG|stand by you||ପାଖରେ ଛିଡ଼ା ହେବା 
+GG|black and yellow||କଳା ଏବଂ ହଳଦିଆ 
+GG|given by||ଦ୍ୱାରା ଦିଆଯାଇଛି 
+GG|in favour||ସପକ୍ଷରେ 
+GG|copy that||କପି କଲି 
+GG|i am kidding||ମୁଁ ମଜା କରୁଛି 
+GG|cake boss||କେକ ସାର 
+GG|no time||ସମୟ ନାହିଁ 
+GG|hello handsome||ହେ ସୁନ୍ଦର 
+GG|in place||ଠିକ ସ୍ଥାନରେ 
+GG|good sleep||ଭଲ ନିଦ 
+GG|do you use skype?||ଆପଣ ସ୍କାଇପ ବ୍ୟବହାର କରନ୍ତି କି?
+GG|stick it||ଏହାକୁ ଲଗାନ୍ତୁ 
+GG|my birthday is||ମୋର ଜନ୍ମଦିନ ଅଟେ 
+GG|the task||କାମଟି 
+GG|from where you are|ଆପଣ କେଉଁଠାରୁ 
+GG|have you skype||ଆପଣ କଣ ସ୍କାଇପ କରନ୍ତି 
+GG|yield stress||ଚାପ କାଢିଦିଅନ୍ତୁ 
+GG|invalid username||ଅବୈଧ ୟୁଜରନାମ 
+GG|love what you do||ଆପଣ ଯାହା କରୁଛନ୍ତି ଭଲ ପାଆନ୍ତୁ 
+GG|on and off||ଅନ ଏବଂ ଅଫ 
+GG|Find your best friend (Link in Comments)||ନିଜର ସବୁଠାରୁ ପ୍ରିୟ ସାଙ୍ଗକୁ ଖୋଜନ୍ତୁ (କଡ଼ିଟି କମେଣ୍ଟଗୁଡିକରେ ଅଛି)
+GG|no it is not||ନା ଏହା ନୁହେଁ 
+GG|just bent||କେବଳ ବଙ୍କିଗଲେ 
+GG|your wife||ଆପଣଙ୍କର ସ୍ତ୍ରୀ ||ଆପଣଙ୍କର ଭାରିଯା ||ଆପଣଙ୍କର ପତ୍ନୀ ||ଆପଣଙ୍କର ସହଧର୍ମିଣୀ ||ଆପଣଙ୍କର ଧର୍ମପତ୍ନୀ 
+GG|turned out||ବାହାରିଲା 
+GG|household appliances||ଘରୋଇ ସରଞ୍ଜାମଗୁଡ଼ିକ 
+GG|butcher shop||କଂସେଇ ଶାଳ 
+GG|chasing cars||ପିଛାକରୁଥିବା କାରଗୁଡ଼ିକ 
+GG|lining up||ଧାଡ଼ିରେ ଲାଗିବା 
+GG|i drive||ମୁଁ ଚଲାଏ 
+GG|easy peasy||ବହୁତ ସହଜ 
+GG|corporate finance||ବ୍ୟବସାୟିକ ଅର୍ଥନୀତି 
+GG|revert back||ଫେରାନ୍ତୁ 
+GG|hair salon||ବାଳ ସେଲୁନ 
+GG|what have you done today?||ଆପଣ ଆଜି କଣ କଲେ?
+GG|oh man||ହେ ମଣିଷ 
+GG|resorvoir dogs||ଗଚ୍ଛିତ କୁକୁରଗୁଡ଼ିକ ||ଡ୍ୟାମର କୁକୁରଗୁଡ଼ିକ 
+GG|right of way||ରାସ୍ତାର ଡାହାଣପଟେ 
+GG|an apple a day keeps the doctor away||ଦୈନିକ ଗୋଟିଏ ସେଓ ଡାକ୍ତରଙ୍କୁ ଦୂରରେ ରଖିଥାଏ 
+GG|racial discrimination||ବର୍ଣ୍ଣଗତ ବୈଷମ 
+GG|smell like teen spirit||ଯୁବା ଶକ୍ତି ଭଳି ଲାଗୁଛି 
+GG|bean sprouts||ଗଜା ବିନ 
+GG|thank you my love||ଧନ୍ୟବାଦ ମୋ ପ୍ରିୟେ 
+GG|we broke up||ଆମେ ଅଲଗା ହୋଇଗଲୁ 
+GG|door lock||ଦ୍ୱାର ତାଲା
+GG|walking away||ଛାଡ଼ି ଚାଲିଯାଉଛି
+GG|stay back||ଦୂରେଇ ରୁହ
+GG|the punisher||ଦଣ୍ଡ ପ୍ରଦାନକାରୀ
+FB|posts you might like||ପୋଷ୍ଟଗୁଡ଼ିକ ଯାହା ଆପଣଙ୍କୁ ଭଲ ଲାଗିପାରେ
+FB|local alert||ସ୍ଥାନୀୟ ଚେତାବନୀ 
+GG|it's so cute||ଏଇଟା ଏତେ ଗୁଲୁଗୁଲିଆ
+GG|in some cases||କେତେକ କ୍ଷେତ୍ରରେ
+GG|to hang out||ବୁଲିବାକୁ
+GG|Your message was sent successfully||ଆପଣଙ୍କ ସନ୍ଦେଶ ସଫଳତା ପୂର୍ବକ ପଠେଇ ଦିଆ ହୋଇଛି
+WP|our changing earth||ଆମର ବଦଳୁଥିବା ପୃଥିବୀ
+WP|recreating interest in basic science||ମୌଳିକ ବିଜ୍ଞାନରେ ପୁନଃ-ଆଗ୍ରହ
+WP|information technology for science education||ବିଜ୍ଞାନ ଶିକ୍ଷାରେ ସୂଚନା ଏବଂ ପ୍ରଯୁକ୍ତି ବିଦ୍ୟା
+WP|wealth from waste||ବର୍ଜ୍ୟବସ୍ତୁରୁ ଧନ
+WP|50 years of DNA & 25 years of IVF||୫୦ ବର୍ଷର ଡିଏନଏ ଏବଂ ୨୫ ବର୍ଷର କୁତ୍ରିମ ପ୍ରଜନନ
+WP|The Blue print of Life||ଜୀବନର ଛାଞ୍ଚ
+WP|encouraging scientific awareness in community||ସମାଜରେ ବିଜ୍ଞାନ ଭିତ୍ତିକ ହେତୁଜ୍ଞାନର ପ୍ରଚାର
+WP|celebrating physics||ପଦାର୍ଥ ବିଜ୍ଞାନର ଉତ୍ସବ
+WP|Nurture Nature for our future||ଭବିଷ୍ୟତ ପାଇଁ ପ୍ରକୃତିର ପୋଷଣ
+WP|More Crop Per Drop||ମୁନ୍ଦାଏ ପାଣିକୁ ଅଧିକ ଫସଲ
+WP|Understanding the Planet Earth||ପୃଥିବୀକୁ ବୁଝିବା
+WP|Expanding Horizons of Science||ବିଜ୍ଞାନର କାୟା କ୍ଷମତା ବୃଦ୍ଧି କରିବା
+WP|Gender Equity, Science & Technology for Sustainable Development||ସତତ ବିକାଶ ପାଇଁ ଲିଙ୍ଗ ସମାନତା , ବିଜ୍ଞାନ ଏବଂ ପ୍ରଯୁକ୍ତି ବିଦ୍ୟା
+WP|Chemistry in Daily Life||ଦୈନନ୍ଦିନ ଜୀବନରେ ରସାୟନ ବିଜ୍ଞାନ
+WP|Clean Energy Options and Nuclear Safety||ସ୍ୱଚ୍ଛ ଶକ୍ତି ବିକଳ୍ପ ଏବଂ ଆଣବିକ ଶକ୍ତି
+WP|Genetically Modified Crops and Food Security||ଜିନ ଦ୍ୱାରା ପରିବର୍ତ୍ତିତ ଫସଲ ଏବଂ ଖାଦ୍ୟ ସୁରକ୍ଷା
+WP|Fostering Scientific Temper||ବିଜ୍ଞାନକୁ ବଢ଼ିବାକୁ ଦେବା
+WP|Science for Nation Building||ବିଜ୍ଞାନ ଏବଂ ଜାତୀୟ ବିକାଶ
+WP|Scientific Issues for Development of the Nation||ଦେଶର ବିକାଶରେ ବିଜ୍ଞାନଭିତ୍ତିକ ସମସ୍ୟା
+WP|Science and Technology for Specially Abled Persons||ବିକଳାଙ୍ଗଙ୍କ ପାଇଁ ବିଜ୍ଞାନ ଏବଂ ପ୍ରଯୁକ୍ତି ବିଦ୍ୟା
+WP|Science and Technology for a sustainable future||ସତତ ଭବିଷ୍ୟତ ପାଇଁ ବିଜ୍ଞାନ ଏବଂ ପ୍ରଯୁକ୍ତି ବିଦ୍ୟା
+WP|Science for the People, and People for the Science||ଲୋକଙ୍କ ପାଇଁ ବିଜ୍ଞାନ ଏବଂ ବିଜ୍ଞାନ ପାଇଁ ଲୋକ
+GG|some college||କେଉଁ ମହାବିଦ୍ୟାଳୟ ଗୋଟେ 
+GG|the requested URL could not be retrieved||ନିବେଦିତ ୟୁଆରଏଲ ମିଳିପାରିନାହିଁ 
+GG|to dress||ପିନ୍ଧିବାକୁ 
+GG|with you it is different||ଆପଣଙ୍କ ସହ ଏହା ଭିନ୍ନ ଅଟେ 
+GG|onion rings||ପିଆଜ ଚୋପା 
+GG|to trade||ବ୍ୟବସାୟ କରିବାକୁ 
+GG|i am 15 years old||ମୁଁ ୧୫ ବର୍ଷ ବୟସ୍କ ଅଟେ 
+GG|the account you specified could not be found||ଆପଣ ଯେଉଁ ଖାତଟିକୁ ଚାହୁଁଥିଲେ ତାହା ମିଳିପାରିନାହିଁ 
+GG|how reasonable are the shipping and handling charges||କଣ ପରିବହନ ଏବଂ ଉଠା-ପକା ଦର ଠିକ ଠାକ ଥିଲା 
+GG|capacity building||କ୍ଷମତା ନିର୍ମାଣ 
+GG|industrial revolution||ଶିଳ୍ପ ବିପ୍ଳବ 
+GG|indicates a required field||ଏକ ଦରକାରୀ ସ୍ଥାନ ସୂଚାଏ 
+GG|business center||ବ୍ୟବସାୟ କେନ୍ଦ୍ର 
+GG|lay on||ପ୍ରବନ୍ଧ କରିବା 
+GG|best before||ପୂର୍ବରୁ ଭଲ ରହିବ 
+GG|crave you||ମୁଁ ତମ ଉପରେ ଈର୍ଷାନ୍ୱିତ 
+GG|ride a bike||ଗୋଟିଏ ବାଇକ ଚଢନ୍ତୁ 
+GG|stuck on you||ଆପଣଙ୍କ ପାଖରେ ଲାଖିଯାଇଛି 
+GG|the money||ସେ ଟଙ୍କା 
+GG|clearance delay||ସଫାଇରେ ବିଳମ୍ବ 
+GG|unless otherwise specified||ଯେପର୍ଯ୍ୟନ୍ତ ନିର୍ଦ୍ଧିଷ୍ଟ ରୂପେ ନକୁହାହେଇଛି 
+GG|a tie||ଗୋଟିଏ ଟାଏ ||ଗୋଟିଏ ଗଣ୍ଠି 
+GG|project charter||ପରିଯୋଜନା ଚାର୍ଟ 
+GG|to address||ସମ୍ବୋଧିତ କରିବାକୁ 
+GG|swine flu||ସ୍ୱାଇନ ଫ୍ଲୁ 
+GG|what does it say||ଏହା କଣ କହେ 
+GG|hope you||ଆଶାକରେ ଆପଣ 
+GG|could not open socket||ସକେଟଟି ଖୋଲିପାରୁ ନାହିଁ 
+GG|paternity leave||ପୈତ୍ରୁତ୍ୟ ଅବକାଶ 
+GG|factory unclocked||କମ୍ପାନୀଟି ଖୋଲାହୋଇଗଲା 
+GG|eagle eye||ଚିଲ ଆଖି 
+GG|in due time||ଠିକ ସମୟରେ 
+GG|hello sweetheart||ହେ ପ୍ରିୟେ 
+GG|we could not find any faces to tag||ଆମେ ଯୋଡ଼ିବାକୁ କୌଣସି ମୁହଁ ପାଇଲୁ ନାହିଁ 
+GG|that is pity||ଏହା ଦୁଃଖଦାୟକ 
+GG|progress report||ପ୍ରଗତି ପତ୍ର 
+GG|you give love a bad name||ଆପଣ ପ୍ରେମକୁ ବଦନାମ କରୁଛନ୍ତି 
+GG|torn up||ଚିରିଗଲା 
+GG|personality traits||ବ୍ୟକ୍ତିଗତ ଆବଭାବ 
+GG|long jump||ଲମ୍ବ ଡିଆଁ 

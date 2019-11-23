@@ -1,0 +1,314 @@
+/*
+Author: Rupesh Ranjan Panda
+Date of addition:4th November 2019
+Review needed: Yes
+*/
+Hi||ପ୍ରନାମ
+Hi|| ନମସ୍କାର! 
+Run!||  ଦୌଦ
+Wow!||ଚତ୍ମକାର ! 
+Fire!||ନିଆ! 
+Help!||ସାହାଜ୍ଯ! 
+Stop!||ବନ୍ଦ କର! 
+Wait!||ଅପେଖ୍ଯ! 
+Go on||ଆଗକୁ ବଢ
+Hello!||ପ୍ରାନାମ! 
+I ran||ମୁ ଦୌଡୁଥିଲି.
+I see||ମୁ ଦେଖୁଛି 
+I see||ଆଛା
+I try||ମୁ  ଚେସ୍ଥ୍ହ  କରେ 
+I won!||ମୁ ଜିତି ଗଲି ! 
+Smile||ହସ! 
+Cheers!||ଉସ୍ସହ! 
+Freeze!||ଜମି ଜାଅ! 
+Freeze!||ଆଟକି ଜାଅ! 
+Got it?||ଜାଣି  ଗଲି ? 
+He ran||ସେ  ଦୌଡିଗଲା
+Hop in||ଭରସା ଅଛି! 
+Hug me||ଆଲିଂଗନ କର! 
+I fell||ମତେ ଲଗୁଚି 
+I know||ମୁ ଜାଣିଛି
+I lied||ମୁ  ମିଛ କହିଥିଲି 
+I lied||ମୁ  ମିଛ କହିଲି 
+I lost||ମୁ ହଜିଗଲି
+I paid||ମୁ  ଦୈଦେଲି
+I paid||ମୁ  ଦାନ କରିଦେଲି
+I sang||ମୁ ଗିତଗାଇଥିଲି 
+I swim||ମୁ ପହରିପାରେ 
+I don't speak French || ମୁଁ ଫ୍ରେଞ୍ଚ୍ କହିପାରେ ନାହିଁ
+I don't understand || ମୁଁ ବୁଝି ପାରିଲି ନାହିଁ 
+I don't understand you || ମୁଁ ତୁମକୁ ବୁଝିପାରୁ ନାହଁ
+I have a reservation || ମୋର  ହୋଟେଲ ରେ ଗୋଟେ ରିଜର୍ଭେସନ୍ ଅଛି
+I have a reservation || ମୋର ଗୋଟେ ରିଜର୍ଭେସନ୍ ଅଛି 
+ost are those days when I was drawing on the dust-canvas of the cars . Did you ever do that ? || କୁଆଡେ ହଜିଗଲା ସେଦିନ ଯେବେ ଗାଡି ଉପରେ ବସିଥିବା ଧୁଳି ଉପରେ  ଚିତ୍ର ଆଙ୍କୁଥିଲି। ଆପଣ କେବେ ଏପରି କରିଛନ୍ତି କି?
+Water colour on paper || କାଗଜରେ ପାଣିରଙ୍ଗ
+What the heck is this ? || ୟେ କଣ କିଓ?
+I will learn Odia grammar || ମୁଁ ଓଡ଼ିଆ ବ୍ୟାକରଣ ଶିଖିବି 
+Can someone please send me a link to a Odia grammar page ? || ମୋତେ ଦୟାକରି କେହି ଅନଲାଇନ୍ ଓଡ଼ିଆ ବ୍ୟାକରଣର ଲିଙ୍କ ପଠାଇପାରିବେକି ?
+Homage to Pt. Gopabandhu Das on his birth anniversary || ପଣ୍ଡିତ ଗୋପବନ୍ଧୁ ଦାସଙ୍କ ଜୟନ୍ତୀରେ ଶ୍ରଦ୍ଧାଞ୍ଜଳି। 
+Greetings of Kumar Purnima || କୁମାର ପୂର୍ଣ୍ଣିମା ଶୁଭେଚ୍ଛା
+I am yours, Odia Community || ମୁଁ ଆପଣଙ୍କର, ଓଡ଼ିଆ ସମାଜ 
+Bilingual Parallel indicator || ଦ୍ୱିଭାଷୀ ସମାନ୍ତର ସୁଚକ
+Love removes fear. Just love ! || ଭଲପାଇବା ଡର ଦୂର କରେ । କେବଳ ଭଲ ପାଅ!
+Story of my childhood in a single TV household || ଗୋଟିଏ TV ଥିବା ପରିବାରରେ  ମୋ ପିଲାଦିନର କାହାଣୀ ।
+Where is the most complete Odia English or English Odia dictionary till now ? ||ଏପର୍ଯ୍ୟନ୍ତ ସବୁଠୁ ସମ୍ପୁର୍ଣ ଓଡ଼ିଆ ଇଂରାଜି ବା ଇଂରାଜି ଓଡ଼ିଆ ଅଭିଧାନ କେଉଁଠି ?
+Do we have a cycling group or cycling club  in Bhubaneswar? || ଭୁବନେଶ୍ବର ରେ ସାଇକେଲିଂ  କ୍ଲବ କିଛି ଅଛି କି?
+Do we have a cycling group or cycling club  in Bhubaneswar? || ଭୁବନେଶ୍ବର ରେ ସାଇକେଲିଂ ଗ୍ରୁପ୍ କିଛି ଅଛି କି?
+The district of Mayurbhanj is transformed into the first child labor free district of our country || ମୟୁରଭଞ୍ଜ ଜିଲ୍ଲା ଆମ ଦେଶର ପ୍ରଥମ ବାଳଶ୍ରମିକମୁକ୍ତ ଜିଲ୍ଲା ରେ ପରିଣତ ହୋଇଛି।
+An old pic of Sun Temple at Konark before the Jagamohana was sealed with sand. || ଜଗମୋହନ ବାଲିରେ ବନ୍ଦହେବା ଆଗରୁ କୋଣାର୍କ ସୂର୍ଯ୍ୟମନ୍ଦିରର ଏକ ପୁରାତନ ଚିତ୍ର
+, || ।
+, || ।
+My ||  ମୋର 
+my || ମୋର 
+My Account || ମୋ ଏକାଉଣ୍ଟ୍
+My Computer || ମୋ କମ୍ପ୍ୟୁଟର
+My Documents || ମୋ ଡ଼କ୍ୟୁମେଣ୍ଟ ସମୂହ
+My Music || ମୋ ସଙ୍ଗୀତ
+My Notes || ମୋ ନୋଟ୍‌ଗୁଡିକ
+My Office || ମୋ Office
+This is my house || ଏଇଟା ମୋ ଘର
+I ||  ମୁଁ
+I am sick || ମୋ ଦେହ ଭଲ ନାହିଁ 
+I don't know || ମୁଁ ଜାଣି ନାହିଁ
+I don't speak French || ମୁଁ ଫ୍ରେଞ୍ଚ୍ କହିପାରେ ନାହିଁ
+I don't understand || ମୁଁ ବୁଝି ପାରିଲି ନାହିଁ 
+I don't understand you || ମୁଁ ତୁମକୁ ବୁଝିପାରୁ ନାହଁ 
+Can I help you? || ମୁଁ ତୁମକୁ ସାହାଯ୍ୟ କରିପାରେ କି?
+Can I practice with you? || ମୁଁ ଆପଣଙ୍କ ସହିତ ଅଭ୍ୟାସ କରିପାରେ କି? 
+How do I || ମୁଁ କିପରି କରେ
+you || ତୁମେ 
+Are you okay? || ଆପଣ ଠିକ୍ ଅଛନ୍ତି ତ? 
+Can you help me? || ତୁମେ ମୋତେ ସାହାଯ୍ୟ କରିପାରିବ କି? 
+Your ||  ତୁମର 
+refresh your PC || ଆପଣଙ୍କର PC ସତେଜ କରିବା
+reset your PC || ଆପଣଙ୍କର PC ପୁନଃସେଟ୍ କରନ୍ତୁ
+What is your name? || ଆପଣଙ୍କର ନାମ କ’ଣ ?
+We ||  ଆମେ
+we speak Arabic || ଆମେ ଆରାବିକ୍ କହୁ
+I am very glad to see you || ତୁମ୍ଭଙ୍କୁ ଦେଖି ମୁଁ ବଡ଼ ଆନନ୍ଦିତ ହେଲି।
+I am not jesting with you || ମୁଁ ତୁମ୍ଭ ସଙ୍ଗରେ ପରିହାସ କରୁନାହିଁ।
+I took liberty of telling you this || ମୁଁ ଆପଣଙ୍କୁ ଏହା କହିବାର ସୁଯୋଗ ପାଇଥିଲି।
+I cannot ascertain the motive for the murder || ଏ ହତ୍ୟାର ଅଭିସନ୍ଧି ମୁଁ ଅବଧାରଣ କରିପାରୁ ନାହିଁ।
+I had good sleep last night || ଗତ ରାତ୍ରିରେ ମୋହର ସୁନିଦ୍ରା ହୋଇଥିଲା।
+I took that gentleman for the doctor || ମୁଁ ସେ ଭଦ୍ରବ୍ୟକ୍ତିଙ୍କୁ ଡାକ୍ତର ବୋଲି ବିଚାରିଥିଲି।
+I have been suffering from fever for the last three days || ଗତ ନିତିଦିନ ହେଲା ମୁଁ ଜ୍ୱର ଭୋଗକରି ଆସୁଛି।
+I must get money today || ମୁଁ ଆଜି ଟଙ୍କା ନେବି ।
+I can suffer no more || ମୁଁ ଆଉ ସହିପାରିବି ନାହିଁ।
+I must go whether you go or not || ତୁମ୍ଭେ ଯାଅ ଅବା ନ ଯାଅ ମୁଁ ତ ଯିବି।
+I shall be highly obliged if you come to my house || ଆପଣ ମୋ ଘରଠାକୁ ଗଲେ ମୁଁ ବଡ଼ ବାଧିତ ହେବି।
+I think you had better go || ମୋ ବିଚାରରେ ତୁମ୍ଭର ଚାଲିଯିବା ଭଲ।
+He is for female educations || ସେ ସ୍ତ୍ରୀଶିକ୍ଷାର ପକ୍ଷପାତୀ।
+He is not equal to the task || ଏ କାର୍ଯ୍ୟ କରିବାକୁ ସେ ସମର୍ଥ ନୁହନ୍ତି।
+He has reached the fag end of his life || ସେ ଜୀବନରେ ଶେଷ ଦଶାରେ ଉପନୀତ ହୋଇଛନ୍ତି।
+He studies by fits and starts || ସେ ବେଳେବେଳେ (କେବେ କେବେ ଅବା) ପଢ଼େ।
+He was crowned with success || ସେ କୃତିତ୍ୱଲାଭ କରିଥିଲେ।
+He passes for a very learned man in the village || ଗ୍ରାମ ମଧ୍ୟରେ ସେ ମହାପଣ୍ଡିତ ବୋଲି ପରିଚିତ।
+He is upto anything for money || ଅର୍ଥ ଲାଗି ସେ ସବୁ କରିପାରେ।
+He is above suspicion || ତାହାକୁ ସନ୍ଦେହ କରାଯାଇ ନ ପାରେ ବା ତାହାଙ୍କ କାର୍ଯ୍ୟରେ ସନ୍ଦେହ କରିବାର କୌଣସି କାରଣ ନାହିଁ।
+He has caught a Tater this time || ଏଥର ସେ ଆଚ୍ଛା ଲୋକ ହାବୁଡ଼ରେ ପଡ଼ିଛନ୍ତି।
+He has been blessed with three children || ଈଶ୍ୱର ତାହାକୁ ତିନୋଟି ସନ୍ତାନ ଦେଇଛନ୍ତି।
+He was averse to changes || ସେ ପରିବର୍ତ୍ତନର ବଡ଼ ପକ୍ଷପାତୀ ନ ଥିଲେ।
+He is working with a penny wise and pound foolish policy || ତାଙ୍କ ନୀତିରେ ହାତୀ ଗଳିଯିବ ମାତ୍ର ମଶା ବାଟ ପାଇବ ନାହିଁ।
+He has left us forever || ସେ ଆମ୍ଭମାନଙ୍କୁ ଚିରଦିନକୁ ଛାଡ଼ି ଯାଇଛନ୍ତି।
+He keeps a constants eye on his son || ସେ ଆପଣା ପୁତ୍ର ଉପରେ ସର୍ବଦା ଦୃଷ୍ଟି ରଖିଥାନ୍ତି।
+It did me a world of good || ଏଥିରେ ମୋହର ବହୁତ ଉପକାର ହୋଇଥିଲା।
+It is very wrong not to rever our superiors || ଗୁରୁଜନଙ୍କୁ ଭକ୍ତି ନ କରିବା ବଡ଼ ଦୋଷ।
+It was so ruled by the then king || ତଦାନୀନ୍ତନ ନୃପତିଙ୍କଦ୍ୱାରା ଏହା ବିଧିବଦ୍ଧ ହୋଇଥିଲା।
+It rained yesterday || କାଲି ବର୍ଷା ହୋଇଥିଲା।
+It was raining cats and dogs || ମୂଷକ ଧାରାରେ ବର୍ଷା ହୋଇଥିଲା।
+There is no other shop in this village || ଏ ଗ୍ରାମରେ ଆଉ ଦୋକାନ ନାହିଁ।
+There is no need of advancing further || ଆଉ ଅଧିକ ଅଗ୍ରସର ହେବାର ପ୍ରୟୋଜନ ନାହିଁ।
+There was a hue and cry for the boy || ପିଲାଟି ପାଇଁ ହୁରି ପଡ଼ି ଯାଇଥିଲା।
+There is a rumbling (rolling) sound in the sky || ଆକାଶରେ ଘଡ଼ଘଡ଼ି ଶବ୍ଦ ହେଉଛି।
+There is no hard and fast rule regarding this matter || ଏ ବିଷୟରେ ସେପରି କିଛି କଠୋର ନିୟମ ନାହିଁ।
+There is a rise in price of rice || ଚାଉଳ ଭାଉ ଟିକିଏ ଚଢ଼ା ହୋଇଅଛି।
+Let me speak something on this subject || ମୁଁ ଏ ବିଷୟରେ କିଛି କହେଁ।
+Let him read the letter || ସେ ପତ୍ର ଖଣ୍ଡି ପାଠ କରନ୍ତୁ।
+Let the amount be credited to me || ମୋହର ନାମରେ ଏତକ ଜମା ଦିଆଯାଉ।
+Let me know || ମୋତେ ଜଣାଅ।
+May you live long || ତୁମ୍ଭେ ଦୀର୍ଘଜୀବୀ ହୁଅ।
+God bless you || ଈଶ୍ୱର ତୁମର ମଙ୍ଗଳ କରନ୍ତୁ।
+May God make you happy || ଈଶ୍ୱର ତୁମ୍ଭଙ୍କୁ ସୁଖରେ ରଖନ୍ତୁ (ସୁଖୀ କରନ୍ତୁ)।
+I saw some boys who were running || ମୁଁ କେତେକ ବାଳକଙ୍କୁ ଦୌଡ଼ୁଥିବାର ଦେଖିଥିଲି।
+The astrologer of our village, who was a pious man, died the other day || ଆମ୍ଭ ଗ୍ରାମର ସେହି ଧାର୍ମିକ ଜ୍ୟୋତିଷଟି ସେ ଦିନ ପ୍ରାଣତ୍ୟାଗ କଲେ।
+My uncle, whom I was expecting long, came to my house on Monday last || ମୋହର ପିତୃବ୍ୟ ଗତ ସୋମବାର ଦିନ ଆସିଲେ: ବହୁଦିନରୁ ମୁଁ ତାହାଙ୍କ ପ୍ରତୀକ୍ଷା କରୁଥିଲି।
+This is the same story that I have heard several times || ଯାହାକୁ ମୁଁ ବହୁଥର ଶୁଣିଥିଲି, ଏ ସେହି କଥା।
+He who works in never in want || ଯେ ପରିଶ୍ରମ  କରେ, ତାହାର କେବେ ଅଭାବ ହୁଏ ନାହିଁ।
+No sooner had I reached there than he stood up from his seat || ମୁଁ ସେଠାରେ ନ ପହଞ୍ଚୁଣୁ ସେ ଆସନରୁ ଉଠି ପଡ଼ିଥିଲେ।
+No sooner had he taken up pen than the writing was done || କଲମ ଧରୁ ନ ଧରୁ ତାଙ୍କର ଲେଖା ଶେଷ ହୋଇଗଲା ବା କଲମ ଧରିବାକୁ ତାଙ୍କ ଲେଖା ଶେଷ ହୋଇଗଲା।
+No person other than a friend can help in the danger || ମିତ୍ର ବିନା ଅନ୍ୟ କେହି ବିପଦରେ ସାହାଯ୍ୟ କରି ନ ପାରେ।
+As soon as the teacher came, the boys ceased speaking || ଶିକ୍ଷକ ଆସିଲାକ୍ଷଣି ପିଲାମାନେ ଚୂପ୍ ହୋଇଗଲେ।
+Finding me not at home he went away || ମୋତେ ଘରେ ନ ଦେଖି ସେ ଚାଲି ଯାଇଥିଲେ।
+He said this when distributing the prize || ପୃରସ୍କାର ବିତରଣ ସମୟରେ ସେ ଏହା କହିଲେ।
+He insisted on my marrying || ସେ ମୋତେ ବିବାହ କରିବାକୁ ପ୍ରବର୍ତ୍ତାଇଥିଲେ।
+On receiving this letter, he was much pained || ପତ୍ର ପାଇ ସେ ଅତ୍ୟନ୍ତ ବ୍ୟଥିତ ହୋଇଥିଲେ।
+He was hearing the story with a gaping mouth || ସେ ମୁଖ ବ୍ୟାଦାନ କରି କଥା ଶ୍ରବଣ କରୁଥିଲେ।
+He has come to work without taking his meal || ସେ ଭାତ ନ ଖାଇ କାମକୁ ଆସିଛି।
+I cannot do without having a short sleep after meals || ଭୋଜନ ଉତ୍ତାରେ ଟିକିଏ ନ ଶୋଇଲେ ମୁଁ ରହିପାରେ ନାହିଁ।
+The school being closed, I could not do this || ସ୍କୁଲ ବନ୍ଦ ଥିବାରୁ ମୁଁ ଏହା କରି ପାରି ନାହିଁ।
+He is playing ducks with his money || ସେ ଅର୍ଥର ଯଥେଷ୍ଟ ବ୍ୟବହାର କରୁଛନ୍ତି।
+By doing so he was out of the frying pan into the fire || ଏ କାର୍ଯ୍ୟ କରି ସେ ମହର୍ଗରୁ ଯାଇ କାନ୍ତାରରେ ପଡ଼ିଗଲେ।
+He applied himself heart and soul to this || ସେ ଏଥିରେ ମନପ୍ରାଣ ଢାଳି ଦେଇଥିଲେ।
+My visits to my friends are few and far between || ମୁଁ କେତେବେଳେ କେମିତି ବନ୍ଧୁମାନଙ୍କୁ ଦେଖା ଦେଇଥାଏ।
+Flesh and blood cannot endure it || ରକ୍ତମାଂସ ଦେହ ଏହା ସହି ପାରିବ ନାହିଁ।
+The charge however against him is a serious one || ସେ କିନ୍ତୁ ଗୁରୁତର ଅଭିଯୋଗରେ ଅଭିଯୁକ୍ତ ହୋଇଅଛନ୍ତି।
+He will start on a pilgrimage to Puri || ସେ ତୀର୍ଥଯାତ୍ରା ଉପଲକ୍ଷରେ ପୁରୀକୁ ଗମନ କରିବେ।
+I am obliged to punish you for the sake of justice || ନ୍ୟାୟ ଅନୁରୋଧରେ ତୁମ୍ଭଙ୍କୁ ଦଣ୍ଡିତ କରିବାକୁ ହେଉଛି।
+He is getting thinner every day ||ସେ ଦିନକୁ ଦିନ ଶୁଖି ଯାଉଛି।
+Nobody likes him, on contrary everybody hates him || କେହି ତାଙ୍କୁ ଭଲ ପାନ୍ତି ନାହିଁ, ପ୍ରତ୍ୟୁତ ତାହାଙ୍କୁ ଘୃଣା କରନ୍ତି।
+The boy have got huddled up together || ପିଲାମାନେ ଖୁନ୍ଦା ଖୁନ୍ଦି ହୋଇ ବସିଅଛନ୍ତି।
+Mr. Mishra is over head and ears in debt || ମିଶ୍ର ଆପଣେ ଋଣରେ ବୁଡ଼ିଗଲେଣି।
+All our kith and kin will do to the wedding || ଆମ୍ଭର ସମସ୍ତ ପିଲା କୁଟୁମ୍ବ ସେ ବିବାହକୁ ଯିବେ।
+A friend in need is a friend indeed ||  ିପଦେ ଯେହୁ ଦିଏ ଦେଖା, ବାନ୍ଧବ ପଣେ ସେହୁ ଲେଖା।
+No rose without a thorn || ଦୁଃଖ ନ ଥାଇଁ ସୁଖ କାହିଁ।
+His pockets are full of holes || ପାଣି ନଉତିରେ ସହସ୍ର କଣା।
+Barking dog seldom bites || ଭୁକିଲା କୁକୁର କାମୁଡ଼େ ନାହିଁ।
+Empty vessel sounds much || ଗର୍ଜିଲା ମେଘ ବର୍ଷେ ନାହିଁ।
+God helps those who help themselves || ପରୋପକାରୀ ଈଶ୍ୱର ସହାୟ।
+God tempers the wind to the shorn lamp || ଅରକ୍ଷିତକୁ ଦଇବ ସାହା।
+Look before you leap || ହାତେ ମାପି ଚାଖଣ୍ଡେ ଚାଲ।
+Half a loaf is better than no bread, better late than never || ନାହିଁ ମାମୁଁଠାରୁ କଣା ମାମୁଁ ଭଲ।
+Many a slip is between the cup and lip || ପୃଥିବୀ କ୍ଷଣ କ୍ଷଣକେ ଆନ। ଏ ଘଡ଼ିକି କଥା ସେ ଘଡ଼ିକି ନାହିଁ।
+One bad example spoils many good precepts || କୁସଙ୍ଗେ ସର୍ବଜ୍ଞାନ ଧ୍ୱଂସ।
+A contented mind is a continual feast || ସନ୍ତୁଷ୍ଟ ଲୋକେ ସଦା ସୁଖୀ।
+Friends are plenty when the purse is full || ସମ୍ପଦ କାଳେ ସର୍ବେ ସଖା, ବିପଦେ ନ ଦିଅନ୍ତି ଦେଖା।
+Credit lost is broken glass || ମହତ ଗଲେ ନ ଆସେ ଆଉ।
+Two of a trade can never agree || ସ୍ୱଜାତି ପରହିଂସ୍ରକ।
+Constant dropping wears the stone || ଧୀରେ ପାଣି ପଥର କାଟେ।
+A rolling stone gathers no moss || ଛେଳି ଗୋଡ଼ରେ ପାଳ ମଳି ହୁଏ ନାହିଁ।
+There is no royal road to learning || ସ୍ୱର୍ଗକୁ ନିଶୁଣି ନାହିଁ।
+Necessity has no law || ଆତୁରେ ନିୟମ ନାସ୍ତି।
+A long life hath long miseries || ବହୁତ ଦିନ ବଞ୍ଚିଲେ ବହୁତ ସହିବାକୁ ହୁଏ।
+Set a thief to catch a thief || କଣ୍ଟାକୁ କଣ୍ଟା କାଢ଼େ।
+Spare the rod and spoil the child || ଲାଳନେ ବହବୋ ଦୋଷାଃ; ଗେଲ କଲେ ପିଲାକୁ ଶେଲ।
+He is a wolf in sheep’s clothing || ସେ ଗୋଟିଏ ବିରାଡ଼ି ବୈଷ୍ଣବ।
+Everybody’s business is nobody's business || କୋଠା କାମ କି କାମରେ ଲେଖା ? ସବୁରି କାମ ଯେ କାମ ନୁହେଁ।
+Childhood shows the man || ଗଛ ଦି ପତ୍ରରୁ ଚିହ୍ନାଯାଏ।
+Let bygones be bygones || ଗତସ୍ୟ ଶୋଚନା ନାସ୍ତି, ଗତ କଥାରେ ଶୋଚନା ନାହିଁ।
+Out of sight out of mind || ପାଖରୁ ଅନ୍ତର ହେଲେ ସବୁ ପାସୋର।
+Don’ wake sleeping dogs || ଚାଲିଲା ଶଗଡ଼ରେ ହାତ ଦେବ ନାହିଁ।
+Doctors differ || ନାନା ମୁନିଙ୍କର ନାନା ମତ।
+The great Homer himself sometimes nods || ମୁନିଙ୍କର ବି ମତିଭ୍ରମ।
+Much ado about nothing || ବହାରମ୍ଭେ ଲଘୁକ୍ରିୟା।
+Put no faith in tail bearers || ବାହାପିଆଙ୍କୁ ବିଶ୍ୱାସ ନାହିଁ।
+Sell not virtue to purchase wealth || ଧନ ନିମନ୍ତେ ଧର୍ମପଥ, ନ ହୁଡ଼ ହୋଇ ଅସଞ୍ଜତ।
+Temperance is the best physic || ଦେହକୁ ନ ଜଗିଲେ ବୈଦ କଣ କରିବ ?
+Fools rush in where angels fear to tread || ଶିଳ ଶିଳପତା ଗଗନେ ଉଡ଼ନ୍ତି, ଶିମିଳିତୂଳା ବୋଲେ ମତେ ରଖ।
+This eminent individual, who was destined to establish the truth of the discoveries of his illustrious predecessors Copernicus and Galilio, was born on the 25th December, 1642 at Woolsthrope in Lincolnshire, where his father cultivated his own moderate paternal property || ହି ପ୍ରଖ୍ୟାତନାମା ପୁରୁଷ ଲିଙ୍କନ ସାୟାରର ଅନ୍ତଃପାତୀ ଉଲସଥପ୍ ନାମକ ଗ୍ରାମରେ ୧୬୪୨ ଖ୍ରୀଷ୍ଟାବ୍ଦର ଡିସେମ୍ବର ମାସ ୨୫ ତାରିଖରେ ଜନ୍ମଗ୍ରହଣ କରିଥିଲେ। ସମ୍ଭବତଃ ସେ ତତ୍‌ପୂର୍ବବର୍ତ୍ତୀ ସୁବିଖ୍ୟାତ କୋପର୍ଣ୍ଣିକସ୍ ଓ ଗାଲିଲିଓଙ୍କ ଉଦ୍ଭାବିତ ସତ୍ୟର ପ୍ରତିଷ୍ଠା ନିମନ୍ତେ ପ୍ରେରିତ ହୋଇଥିଲେ। ତାଙ୍କର ପିତା ଯତ୍‌କିଞ୍ଚିତ୍ ପୈତୃକ ଭୂମି କର୍ଷଣଦ୍ୱାରା ଜୀବିକାନିର୍ବାହ କରୁଥିଲେ।
+While yet a boy, he seems to have been fond of rambling about the fields, perusing the great book of nature than the folios of the schools, for so little satisfaction does he seem to have given his first teachers that his father dissatisfied with the report of his progress contemplated binding him to the trade of a shoe-maker || ବୋଧହୁଏ ବାଲ୍ୟକାଳରେ କ୍ଷୁଦ୍ର ପୁସ୍ତିକାପାଠ ଅପେକ୍ଷା କ୍ଷେତ୍ରରେ ପରିଭ୍ରମଣ ଏବଂ ପ୍ରକୃତିରୂପ ମହାଗ୍ରନ୍ଥ ଅଧ୍ୟୟନ ଅଧିକ ପ୍ରିୟ ଥିଲେ। ତେଣୁ ସେ ପ୍ରାଥମିକ ଶିକ୍ଷକମାନଙ୍କୁ ଅତ୍ୟଳ୍ପ ସନ୍ତୋଷ ପ୍ରଦାନ କରିଥିବାର ପ୍ରତୀତ ହୁଏ। ତାଙ୍କର ପିତା ସେମାନଙ୍କ ମୁଖରୁ ପାଠର ଗତି ଶ୍ରବଣରେ ଅସନ୍ତୁଷ୍ଟ ହୋଇ ତାହାଙ୍କୁ ଉପାନତ୍କାର ବ୍ୟବସାୟରେ ବ୍ୟାପୃତ ରଖିବାକୁ ମନସ୍ଥ କରିଥିଲେ।
+A fox was passing a vine yard, and looking up he saw some lovely bunches of grapes high above his head, He longed to have them. He tried again and again, jumped always higher and higher, but he never succeeded in reaching them. He gave up the efforts at last and went off uttering to himself The grapes are sour, I will just leave them alone. I don’t want them. || ଦିନେ ଗୋଟିଏ ଶୃଗାଳ ଦ୍ରାକ୍ଷାକୁଞ୍ଜ ମଧ୍ୟରେ ଯାଉଁ ଯାଉଁ ଊର୍ଦ୍ଧ୍ୱକୁଚାହିଁ ଦେଖିଲା ଯେ ଠିକ୍ ତାହା ମୁଣ୍ଡ ଉପରକୁ ଉଚ୍ଚରେ କେତେଗୁଡ଼ିଏ ଅତି ସୁନ୍ଦର ଦ୍ରାକ୍ଷାଗୁଚ୍ଛ ଓହଳିଛି। ଏହି ଫଳଗୁଡ଼ିକ ପାଇବାପାଇଁ ସେ ମନ କରି ପୃନଃ ପୃନଃ ଚେଷ୍ଟା କରିଥିଲା। ଅନବରତ ସେ ଉଚ୍ଚରୁ ଉଚ୍ଚତର ଲମ୍ପ ପ୍ରଦାନ କରି ମଧ୍ୟ ସେଗୁଡ଼ିକ ଧରି ପାରିଲା ନାହିଁ। ଅବଶେଷରେ ସେ ଏ ପ୍ରକାର ଉଦ୍ୟମ ପରିତ୍ୟାଗ କରି ମନେ ମନେ ଏହା କହି ଚାଲିଯାଇଥିଲା, ଏହି ଦ୍ରାକ୍ଷାଫଳଗୁଡ଼ାକ ଆମ୍ବିଳା, ଏଗୁଡ଼ାକ ଯେମିତି ଅଛି ସେମିତି ଥାଉ। ମୋହର ଏ ଲୋଡ଼ା ନାହିଁ।
+Two men were travelling together, when a bear suddenly met them on their path. One of them climbed quickly a tree, and concealed himself in the branches. || ଦୁଇଜଣ ପଥିକ ଭ୍ରମଣ କରୁଥିଲେ; ଏମନ୍ତ ସମୟରେ ହଠାତ୍ ଗୋଟିଏ ଭଲ୍ଲୁକ ଆସି ପଥମଧ୍ୟରେ ସେ ଦୁହିଁଙ୍କର ସମ୍ମୁଖୀନ ହେଲା। ତନ୍ମଧ୍ୟରୁ ଜଣେ ବୃକ୍ଷରେ ଆରୋହଣ କରି ଅନ୍ତରାଳରେ ଲୁକ୍‌କାୟିତ ହେଲା।
+The other seeing that he must be attacked, fell flat on the ground and when the bear came up and felt him with snort and smelt him all over, he held his breath and feigned the appearance of death as much as he could. ||  ଅନ୍ୟଟି ଭଲ୍ଲୁକଦ୍ୱାରା ନିଶ୍ଚୟ ଆକ୍ରାନ୍ତ ହେବ, ଏହା ବୁଝିପାରି ଭୂତଳରେ ଚିତ୍‌ହୋଇ ଶୋଇପଡ଼ିଲା। ଭଲ୍ଲୁକଟି ଯେତେବେଳେ ନିକଟକୁ ଆସି ନାସିକାଧ୍ୱନି କରି ତାହାର ସର୍ବାଙ୍ଗ ଆଘ୍ରାଣ କରିବାକୁ ଲାଗିଲା, ତେତେବେଳେ ସେ ନିଶ୍ୱାସ ବନ୍ଦ କରି ଆପଣାକୁ ପାରୁପର୍ଯ୍ୟନ୍ତ ମଲା ପରି ଦେଖାଇଥିଲା। 
+The bear soon left, for it is said he will not touch a dead body. || ଭଲ୍ଲୁକଟି ତାହାକୁ ଶୀଘ୍ର ପରିତ୍ୟାଗ କରିଥିଲା, କାରଣ  କଥିତ ଅଛି ଯେ ସେ ମୃତ ଦେହ କେବେ ସ୍ପର୍ଶ କରେ ନାହିଁ। 
+When he was quite gone, the other traveller descended from the tree, and accosting his friend, jocularly inquired what it was the bear had whispered in his ear ? || ଯେତେବେଳେ ସେ ଏକାବେଳେ ଚାଲିଗଲା, ଅନ୍ୟ ପଥିକଟି ବୃକ୍ଷରୁ ଅବତରଣ କଲା ଏବଂ ବନ୍ଧୁକୁ ସମ୍ବୋଧନପୂର୍ବକ ପରିହାସରେ ଏହା ପଚାରିଲା ଯେ, ଭଲ୍ଲୁକଟି କାନରେ କଣ ଚୁପ୍ ଚୁପ୍ କରି କହିଗଲା ?
+He replied || ସେ ଉତ୍ତର କଲା
+He gave this advice, never travel with a friend who deserts you at the approach of danger. || ଭଲ୍ଲୁକ ମୋତେ ଏହି ଉପଦେଶ ଦେଇଗଲା ଯେ, ବିପଦ ଉପସ୍ଥିତ ଦେଖିଲେ ଯେଉଁ ବନ୍ଧୁ ତୁମ୍ଭଙ୍କୁ ପରିତ୍ୟାଗ କରି ଚାଲିଯାଏ, ତାହା ସହିତ କଦାପି ଭ୍ରମଣ କରିବ ନାହିଁ।
+Misfortune tests the sincerity of friends. || ବିପଦରେ ବନ୍ଧୁତ ସାରତା ପରୀକ୍ଷିତ ହୁଏ।
+Once upon a time there lived a king named Nala || ଏକଦା ନଳ ନାମକ ଜଣେ ରାଜା ଥିଲେ
+One day, as he was walking in the beautiful garden of his palace, he saw a number of golden winged geese feeding near a pond || ଦିନେ ସେ ଆପଣାର ପ୍ରାସାଦସନ୍ନହିତ ମନୋରମ ଉଦ୍ୟାନରେ ଭ୍ରମଣ କରୁଥିବା ସମୟରେ ପୁଷ୍କରିଣୀ ନିକଟରେ ବିଚରଣ କରୁଥିବାବେଳେ ଦଳେ ସ୍ୱର୍ଣ୍ଣପକ୍ଷ ହଂସ ଦେଖିଥିଲେ
+he was so pleased with their appearance that he determined to go out and catch one || ସେ ସେମାନଙ୍କ ରୂପଦର୍ଶନରେ ଏପରି ପ୍ରୀତ ହୋଇଥିଲେ ଯେ, ସେଠାକୁ ଯିବାପାଇଁ ମନ ବଳାଇଥିଲେ ଏବଂ ଗୋଟିକୁ ଧରିଥିଲେ।
+But what was his astonishment when the goose addressed him in human speech, and said, "O king Nala, let me go." || ହଂସ ଯେତେବେଳେ ମନୁଷ୍ୟଭାଷାରେ ତାହାଙ୍କୁ ସମ୍ବୋଧନ କରି  "ରାଜନ, ମୋତେ ଛାଡ଼ିଦିଅନ୍ତୁ" ବୋଲି କହିଥିଲ, ସେତେବେଳେ ତାଙ୍କର ବିସ୍ମୟର ପରିସୀମା ରହିଲା ନାହିଁ।
+the king Said || ରାଜା କହିଲେ
+Why shouldI let you go ? || କାହିଁକି ତୋତେ ଛାଡ଼ିଦେବି ?
+If you will let me go, I will carry news of you to the beautiful princess, Damayanti and persuade her to take you for her husband || ଯଦି ମୋତେ ଛାଡ଼ିଦେବ, ତାହାହେଲେ ମୁଁ ରୂପବତୀ ରାଜକୁମାରୀ ଦମୟନ୍ତୀଙ୍କ ନିକଟକୁ ଆପଣଙ୍କର ସନ୍ଦେଶ ନେଇଯିବି ଏବଂ ଆପଣଙ୍କୁ ପତିପଦରେ ବରଣ କରିବାପାଇଁ ତାହାଙ୍କୁ ପ୍ରାର୍ଥନା କରିବି।
+There lived, in olden times a good and kind man || ପ୍ରାଚୀନ କାଳରେ ଜଣେ ସଦାଶୟ ଦୟାର୍ଦ୍ର ହୃଦୟ ବ୍ୟକ୍ତି ଥିଲେ
+He had world’s goods in abundance and many slaves to serve him and the slaves prided themselves on their master saying,“There is no better lord than ours under the sun" || ସେ ପ୍ରଭୁତ ପାର୍ଥିବ ଐଶ୍ୱର୍ଯ୍ୟର ଅଧିକାରୀ ଥିଲେ ଏବଂ ତାଙ୍କର ସେବା ନିମନ୍ତେ ବହୁସଂଖ୍ୟକ କ୍ରୀତଦାସ ନିଯୁକ୍ତ ଥିଲେ। ସେ କ୍ରୀତଦାସମାନେ ଆପଣା ପ୍ରଭୁଙ୍କ ସମ୍ବନ୍ଧରେ ଏହା କହି ଗର୍ବ କରୁଥିଲେ ଯେ - "ଏ ରବିତଳରେ ଆମ୍ଭ ପ୍ରଭୁଙ୍କୁ ବଳି ବଡ଼ ପ୍ରଭୁ କେହି ନାହାନ୍ତି" 
+There is no better lord than ours under the sun || ଏ ରବିତଳରେ ଆମ୍ଭ ପ୍ରଭୁଙ୍କୁ ବଳି ବଡ଼ ପ୍ରଭୁ କେହି ନାହାନ୍ତି
+He feeds and clothes us well and gives us work suitable to our strength || ସେ ଆମ୍ଭମାନଙ୍କ ଭଲରେ ଖୋରାକପୋଷାକ ଦିଅନ୍ତି ଏବଂ ଆମ୍ଭମାନଙ୍କର ଶକ୍ତିର ଉପଯୋଗୀ କାର୍ଯ୍ୟ ଦିଅନ୍ତି
+He bears no malice and never speaks a harsh word to anyone || କାହାରି ପ୍ରତି ସେ କୁଭାବ ପୋଷନ୍ତି ନାହିଁ କିମ୍ବା କାହାରି ପ୍ରତି କଟୁବାକ୍ୟ ପ୍ରୟୋଗ କରନ୍ତି ନାହିଁ
+He is not like other masters who treat their slaves worse than cattle punishing them whether they deserve it or not and giving them no friendly word || ଅନ୍ୟାନ୍ୟ ଯେଉଁ ପ୍ରଭୁମାନେ ଆପଣା କ୍ରୀତଦାସମାନଙ୍କୁ ପଶୁଠାରୁ ଅଧମ ମନେ କରନ୍ତି, ଅପରାଧରେ ଅବା ବିନା ଅପରାଧରେ ସେମାନଙ୍କୁ ଦଣ୍ଡ ଦିଅନ୍ତି ଏବଂ ସେମାନଙ୍କ ପ୍ରତି କେବେହେଲେ ସ୍ନେହସୂଚକ ବାକ୍ୟ ପ୍ରୟୋଗ କରନ୍ତି ନାହିଁ, ସେମାନଙ୍କ ପରି ଏ ନୁହନ୍ତି
+He wishes us.Well, does good and speaks kindly to us || ଏ ଆମ୍ଭମାନଙ୍କର ଶୁଭାକାଂକ୍ଷୀ  ଏବଂ ହିତକାରୀ, ଆଉ ମଧ୍ୟ ଆମ୍ଭମାନଙ୍କ ସହିତ ସଦୟ ଭାବରେ କଥା କହିଥାନ୍ତି
+We do not wish for a better life || ଆମ୍ଭେମାନେ ଏହା ଅପେକ୍ଷା ଉତ୍କୃଷ୍ଟତର ଜୀବନ କାମନା କରୁନାହିଁ
+After his occupation of the Punjab,Muhammad Ghori found himself at the gates of the kingdom of Prithviraj|| ପଞ୍ଜାବ ଅଧିକାର ପରେ ମହମ୍ମଦ ଘୋରୀ ପୃଥ୍ୱୀରାଜଙ୍କ ରାଜ୍ୟର ପ୍ରବେଶଦ୍ୱାର ନିକଟରେ ଉପସ୍ଥିତ ହୋଇଥିଲେ
+Whose quarrels with Joyachandra encouraged him to push on further|| ଜୟଚନ୍ଦ୍ରଙ୍କ ସହିତ ତାଙ୍କର ବିରୋଧ ହିଁ ଏହାଙ୍କୁ ଏତେଦୁର ଅଗ୍ରସର ହେବାକୁ ଉତ୍ସାହିତ କରିଥିଲା
+His first attempt was however a miserable failure||ଯାହାହେଉ, ତାଙ୍କର ପ୍ରଥମ ଉଦ୍ୟମ ଏକାନ୍ତ ନିଷ୍କଳ ହୋଇଥିଲା
+He was totally defeated near Thaneswar in 1191 by the brave Chouhans and Narrowjy escaped with his life|| ୧୧୯୧ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ଥାନେଶ୍ୱର ନିକଟରେ ସେ ସାହସିକ ଚୌହାନବୀରଗଣଙ୍କ କର୍ତ୍ତୃକ ସମ୍ପୂର୍ଣ୍ଣରୂପେ ପରାଜିତ ହୋଇ କଥଞ୍ଚିତ୍ ଆପଣାର ପ୍ରାଣ ବଞ୍ଚାଇଥିଲେ
+But nothing daunted by his defeat he made preparation on a grander scale to measure his strength again with the Hindu prince|| କିନ୍ତୁ ଏ ପରାଜୟରେ ସେ କିଛିମାତ୍ର ଭୀତ ନ ହୋଇ ଉକ୍ତ ହିନ୍ଦୁ ନୃପତିଙ୍କ ପ୍ରତିକୂଳରେ ଆପଣାର ବଳ କଳିବା ପାଇଁ ବିପୁଳତର ଆୟୋଜନ କରିଥିଲେ
+The two armies met a second time in the vicinity of Thaneswar in 1193||୧୧୯୩ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ଥାନେଶ୍ୱର ନିକଟରେ ଉଭୟପକ୍ଷୀୟ ସେନା  ଦ୍ୱିତୀୟବାର ପରସ୍ପରର ସମ୍ମୁଖୀନ ହୋଇଥିଲେ
+The battle raged the whole day and the Rajputs fought with great valour||ସମରାନଳ ସମସ୍ତ ଦିନ ପ୍ରଜ୍ଜ୍ୱଳିତ ହୋଇଥିଲା ଏବଂ ରାଜପୁତ ବୀରମାନେ ମହା ବିକ୍ରମରେ ଯୁଦ୍ଧ କରିଥିଲେ
+Towards sunset, when the brave Hindu seemed to be on the point of gaining the day, Muhammad charged them at the bead of a large body of fresh horse which at once turned the tide of the battle ||  ସୂର୍ଯ୍ୟସ୍ତ ସମୟରେ ହିନ୍ଦୁମାନେ ଯେତେବେଳେ ସେଦିନ ଜୟର ଅଭିମୁଖୀନ  ହେବାର ପ୍ରତୀୟମାନ ହେଲା, ତେତେବେଳେ ମହମ୍ମଦ ନବୋତ୍ସାହସମ୍ପନ୍ନ ଦଳେ ଅଶ୍ୱାରୋହୀ ସୈନ୍ୟର ଅଧ୍ୟକ୍ଷ ହୋଇ ପ୍ରବଳଭାବରେ ସେମାନଙ୍କୁ ଆକ୍ରମଣ କଲେ
+The flower of the Hindu army soon lay dead on the field and Prithiviraj himself was captured and murdered in cold blood|| ଅଳ୍ପକ୍ଷଣ ମଧ୍ୟରେ ହିନ୍ଦୁବାହିନୀର ମୁଖ୍ୟ ଯୋଦ୍ଧାମାନେ ଧରାଶାୟୀ ହୋଇଥିଲେ ଏବଂ ପୃଥ୍ୱୀରାଜ ମଧ୍ୟ ବନ୍ଦୀ ହୋଇ ନିର୍ବିଚାରରେ ନିହତ ହୋଇଥିଲେ
+The foundation stone of a Mahammedan Empire in India was thus laid||ଏହିରୂପେ ଭାରତବର୍ଷରେ ମୁସଲମାନ ସାମ୍ରାଜ୍ୟର ମୂଳ ଭିତ୍ତି ସ୍ଥାପିତ ହୋଇଥିଲା
+Strive to fulfil the hopes of your parents by growing in knowledge, by shunning bad companions, by avoiding profane and wickedwords, by speaking the exact truth, by being kind and honest, and by loving and serving your Father in Heaven|| ୍ଞାନବୃଦ୍ଧିଦ୍ୱାରା, ଅସତ୍‌ସଙ୍ଗ ବର୍ଜନରେ, ଅପବିତ୍ର ଦୁର୍ବାକ୍ୟ ପ୍ରୟୋଗ ପରିତ୍ୟାଗରେ, ଯଥାର୍ଥ ସତ୍ୟ କଥନରେ, ସତ୍ ଓ ସଦୟ ହେବାଦ୍ୱାରା ଏବଂ ସ୍ୱର୍ଗସ୍ଥ ପରମପିତାଙ୍କ ପ୍ରତି ଶ୍ରଦ୍ଧା ଓ ଭକ୍ତି ପ୍ରଦର୍ଶନ ଦ୍ୱାରା ପିତାମାତାଙ୍କର କାମନା ପୂର୍ଣ୍ଣ କରିବାକୁ ଯତ୍ନ କରିବ
+This is the best way of pleasing your parents and repaying their kindness||ପିତାମାନଙ୍କ ପ୍ରୀତିସମ୍ପାଦନ ଏବଂ ସ୍ନେହ ପ୍ରତିଦାନର ଏହା ହିଁ ଶ୍ରେଷ୍ଠ ଉପାୟ 
+Let them see you in wisdom and in goodness and they will never think that you have been a burden and care to them|| ତୁମ୍ଭର ଉତ୍ତରୋତ୍ତର ଜ୍ଞାନବୃଦ୍ଧି ଏବଂ ସଦାଶୟତା ଦର୍ଶନ କଲେ ସେମାନେ କଦାପି ତୁମ୍ଭଙ୍କୁ ଗଳଗ୍ରହ କିମ୍ବା ଉଦ୍‌ବେଗର କାରଣ ବୋଲି ମନେକରିବେ ନାହିଁ।
+Children ! these are your duties ! O, strive to do them. Love, reverence and obey your parents||ବାଳକଗଣ ! ଏ ସମସ୍ତ ତୁମ୍ଭମାନଙ୍କର କର୍ତ୍ତବ୍ୟ। ତତ୍‌ପ୍ରତି ବିଶେଷ ଯତ୍ନଶୀଳ ହେବ। ପିତାମାତାଙ୍କର ଆଜ୍ଞାନୁବର୍ତ୍ତୀ ହୋଇ ସେମାନଙ୍କ ପ୍ରତି ସ୍ନେହ ଭକ୍ତି ପ୍ରଦର୍ଶନ କରିବ
+Be to them a comfort and an honour|| ସେମାନଙ୍କ ପକ୍ଷରେ ତୁମ୍ଭେମାନେ ସୁଖର କାରଣ ଏବଂ ଗୌରବସ୍ୱରୂପ ହେବ
+Be more than they expect, be if possible, all they desire||ସେମାନେ ଯେପରି ଆଶା କରନ୍ତି, ତତୋଽଧିକ ହେବାକୁ ଏବଂ ସମ୍ଭବ ହେଲେ ସେମାନଙ୍କ ଯାବତୀୟ ଅଭିଳାଷର ଅନୁରୂପ ହେବାକୁ ଯତ୍ନ କରିବ। 
+So live than they may ever look upon you with delight||ତୁମ୍ଭେମାନେ ଚିରକାଳ ଯେପରି ସେମାନଙ୍କର ଆନନ୍ଦବର୍ଦ୍ଧକ ହେବ, ସେହିପରି ସେହିପରି ଜୀବନପଥରେ ଅଗ୍ରସର ହେବ 
+So live that the thought of your virtues may smooth their last hours || ତୁମ୍ଭେମାନେ ସଦ୍‌ଗୃଣାନ୍ୱିତ ହୋଇଛି ଦେଖି ସେମାନେ ଯେପରି ଉତ୍ତରକାଳରେ ଶାନ୍ତି ସୁଖ ଅନୁଭବ କରିପାରନ୍ତି
+Ashoka has left to us a record of administration in his edicts engraved on rocks, pillars and caves throughout his empire|| ଅଶୋକ ତାଙ୍କର ସମଗ୍ର ରାଜ୍ୟ ମଧ୍ୟରେ ଶୈଳ, ସ୍ତମ୍ଭ ଓ ଗୃହ ମଧ୍ୟରେ ଖୋଦିତ ଅନୁଶାସନମାନଙ୍କରେ ସ୍ୱୀୟ ରାଜ୍ୟଶାସନର ଗୋଟିଏ ବିବରଣ ପ୍ରଦାନ କରି ଯାଇଅଛନ୍ତି
+These edicts which were chiefly intended for the moral and religious advancement of the people show how great and good a king Asoka was|| ପ୍ରଜାମାନଙ୍କର ନୈତିକ ଏବଂ ଧର୍ମବିଷୟକ ଉନ୍ନତିକଳ୍ପେ ଅଭିପ୍ରେତ ଏହି ଅନୁଶାସନସମୂହରୁ ଅଶୋକ କିପରି ଉଦାର ଏବଂ ସଦାଶୟ ରାଜା ଥିଲେ, ତାହା ଜଣାଯାଏ
+In them he proclaimed universal religious toleration and moral persuasion as the best means of converting unbelievers and extolled and insisted upon absolute purity of life||ସେଥିରେ ଯେ ସାର୍ବଜନୀନ ଧର୍ମମତର ସମର୍ଥନ ଏବଂ ନୈତିକ ଜୀବନର ପ୍ରବର୍ତ୍ତନକୁ ନାସ୍ତିକ ବା ଅବିଶ୍ୱାସୀମାନଙ୍କୁ ସ୍ୱଧର୍ମରେ ଦୀକ୍ଷିତ କରିବାର ପ୍ରଧାନ ଉପାୟ ସ୍ୱରୂପ ଘୋଷଣା କରି ଯାଇଅଛନ୍ତି ଏବଂ ବିଶୁଦ୍ଧ ନୀତିମୟ ଜୀବନକୁ ଦୃଢନିର୍ବନ୍ଧ ସହକାରେ ପ୍ରଶଂସା କରି ଯାଇଅଛନ୍ତି ଏବଂ ବିଶୁଦ୍ଧ ନୀତିମୟ ଜୀବନକୁ ଦୃଢନିର୍ବନ୍ଧ ସହକାରେ ପ୍ରଶଂସା କରି ଯାଇଅଛନ୍ତ
+What he preached he practiced himself||ସେ ଯାହା ପ୍ରଚାର କରିଥିଲେ, ତାହା ସ୍ୱୟଂ ଅଭ୍ୟାସ କରିଥିଲେ
+He dug Wells and planted trees along the roads, he established hospitals for men and beasts and strictly prohibited the slaughter of animals, he refrained himself from all cruel sports, abolished the royal hunt, discouraged observance of those ceremonies in which animals were sacrificed and forbade prisoners to be tortured||ସେ ରାଜମାର୍ଗ ପାର୍ଶ୍ୱରେ କୂପଖନନ, ବୃକ୍ଷରୋପଣ, ମନୁଷ୍ୟ ଓ ପଶୁମାନଙ୍କ ନିମନ୍ତେ ଚିକିତ୍ସାଳୟ ସ୍ଥାପନ ଓ ଦୃଢ ଭାବରେ ଜୀବବଧ ନିବାରଣ କରିଥିଲେ। ସେ ସ୍ୱୟଂ ମୃଗୟାଦି ସମସ୍ତ ରାଜବ୍ୟସନରୁ ବିରତ ଥିଲେ ଏବଂ ଯେଉଁସବୁ ଉତ୍ସବରେ ଜୀବବଳି ପ୍ରଦତ୍ତ ହେଉଥିଲା,  ସେ ସମସ୍ତ ଅନୁଷ୍ଠାନକୁ ପ୍ରଶ୍ରୟ ଦେଇ ନ ଥିଲେ ଏବଂ ବନ୍ଦୀମାନଙ୍କ ଉପରେ ହେଉଥିବା ଅତ୍ୟାଚାର ନିବାରଣ କରିଥିଲେ
+He looked upon his subjects as his children and declared himself ready to hear their plaints at any hour during the day or night||ସେ ଆପଣାର ପ୍ରଜମାନଙ୍କୁ ପୁତ୍ରନିର୍ବିଶେଷରେ ନିରୀକ୍ଷଣ କରୁଥିଲେ ଏବଂ ଅହୋରାତ୍ର ମଧ୍ୟରେ ଯେ କୌଣସି ସମୟରେ ସେମାନଙ୍କ ଅଭିଯୋଗ ଶ୍ରବଣ କରିବା ପାଇଁ ପ୍ରସ୍ତୁତ ଥିଲେ।
+Be grateful to your parents ||  ପିତାମାତାଙ୍କ ପ୍ରତି କୃତଜ୍ଞ ହେବ
+The time was when you were wholly on their kindness || ଏହିପରି ସମୟ ଥିଲା ଯେତେବେଳେ ତୁମ୍ଭଙ୍କୁ ସେହିମାନଙ୍କ ଦୟା ଉପରେ ସମ୍ପୂର୍ଣ୍ଣରୂପେ ନିର୍ଭର କରିବାକୁ ହେଉଥିଲା
+When you could neither speak nor walk, when you were only a burden and care to them ||ସେତେବେଳେ ତୁମ୍ଭେ କଥା କହି ପାରୁ ନ ଥିଲ କିମ୍ୱା ଚାଲି ପାରୁ ନ ଥିଲ। ସେ ସମୟରେ ତୁମ୍ଭେ କଥା କହି ପାରୁ ନ ଥିଲ କିମ୍ୱା ଚାଲି ପାରୁ ନ ଥିଲ ସେ ସମୟରେ ତୁମ୍ଭେ କେବଳ ସେମାନଙ୍କର ଭାରସ୍ୱରୂପ ଏବଂ ଚିନ୍ତାର ବିଷୟ ଥିଲ
+But did they forsake you? ||କିନ୍ତୁ ତାହା ବୋଲି କଣ ସେମାନେ ତୁମ୍ଭଙ୍କୁ ପରିତ୍ୟାଗ କରିଅଛନ୍ତି ?
+When you were sick how tenderly they handed over you? || ଯେତେବେଳେ ତୁମ୍ଭେ ପୀଡ଼ିତ ହେଉଥିଲ, କିପରି ସସ୍ନେହରେ ସେମାନେ ତୁମ୍ଭ ଉପରେ କୋମଳ ହସ୍ତ ବୁଲାଇ ଦେଉଥାନ୍ତି
+When you were in want of anything, how carefully did they toil to supply your need! || ଯେତେବେଳେ ତୁମ୍ଭର ଏପରି କୌଣସି ଦ୍ରବ୍ୟର ଅଭାବ ହେଉଥିଲା, ସେମାନେ ତେତେବେଳେ ତୁମ୍ଭର ପ୍ରୟୋଜନୀୟ ଦ୍ରବ୍ୟ ସଂଗ୍ରହ କରିବାଲାଗି କିପରି ଆନନ୍ଦ ସହକାରେ ପରିଶ୍ରମ କରୁଥିଲେ
+Surely there cannot be a greater monster than an unthankful child|| ଏହା ନିଶ୍ଚିତ ଯେ ଅକୃତଜ୍ଞ ସନ୍ତାନ ଅପେକ୍ଷା ଅଧିକ ଭୟଙ୍କର ରାକ୍ଷସ ଆଉ କେହି ହୋଇ ନ ପାରେ 
+Place confidence in your parents|| ପିତାମାତାଙ୍କଠାରେ ବିଶ୍ୱାସ ସ୍ଥାପନ କରିବ 
+You should have no secrets which you were unwilling to tell them||ତୁମ୍ଭର ଏପରି କୌଣସି ଗୁପ୍ତ ବିଷୟ ରହିବା ଉଚିତ ନୁହେଁ ଯାହା ସେମାନଙ୍କ ନିକଟରେ ପ୍ରକାଶ କରିବାକୁ ଅନିଚ୍ଛୁକ ହେବ। 
+If you have done wrong, you should confess it and ask their forgiveness||ଯଦି ତୁମ୍ଭେ କୌଣସି ଗର୍ହିତ କାର୍ଯ୍ୟ କରିଥାଅ, ସେମାନଙ୍କ ନିକଟରେ ସରଳ ଭାବରେ ସ୍ୱୀକାର କରିବ ଏବଂ ସେମାନଙ୍କଠାରୁ କ୍ଷମାଭିକ୍ଷା କରିବ
+If you wish to undertake anything ask their consent||ଯଦି ତୁମ୍ଭେ କୌଣସି କାର୍ଯ୍ୟର ଭାର ଗ୍ରହଣ କରିବାକୁ ଇଚ୍ଛୁକ ହୋଇଥାଅ, ତାହାହେଲେ ସେମାନଙ୍କ ଅନୁମତି ପ୍ରାର୍ଥନା କରିବ
+My Dear Gopabandh ||  ପ୍ରିୟ ଭାଇ ଗୋପବନ୍ଧୁ
+I return you the book which you were kind enough to lend me, and with it offer my best thanks for your kindness||ଯେଉଁ ପୁସ୍ତକ ଖଣ୍ଡି ଦୟାବହି ମୋତେ ଧାର ଦେଇଥିଲ, ତାହାକୁ ଆଜି ପ୍ରତ୍ୟର୍ପଣ କରି ତତ୍ସହ ତୁମ୍ଭର ଦୟା ବିନିମୟରେ ମୋହର ଆନ୍ତରିକ କୃତଜ୍ଞତା ଜ୍ଞାପନ କରୁଅଛି
+The Work is both interesting and instructive and I have been gratified by the perusal||ଏହି ଗ୍ରନ୍ଥ ଖଣ୍ଡି ବେଶ୍‌ଚିତ୍ତାକର୍ଷକ ଏବଂ ଉପଦେଶଗର୍ଭକ ହୋଇଅଛି। ତେଣୁ ମୁଁ ଏ ପୁସ୍ତକପାଠରେ ପରିତୃପ୍ତ ହୋଇଅଛି
+My manners must have been in fault, but not intentionally, I assure you, I never meant to deceive you, but my spirits often led me wrong||ମୋହର ଶିଷ୍ଟାଚାରରେ ବ୍ୟତିକ୍ରମ ଘଟିଥିବ, କିନ୍ତୁ ଆପଣଙ୍କୁ ମୁଁ ନିଶ୍ଚୟ କରି କହୁଅଛି, ଇଚ୍ଛାପୂର୍ବକ କରି ନାହିଁ  ଆପଣଙ୍କୁ ପ୍ରତାରିତ କରିବାର ଅଭିପ୍ରାୟ ମୋର ନ ଥିଲା। କିନ୍ତୁ ମୋହର ଉଗ୍ର ପ୍ରକୃତି ମୋତେ ବେଳେ ବେଳେ ବିପଥକୁ ଘେନିଯାଏ
+I was obliged to confess one thing which for a time, and unjustly offended him|| ମୋତେ ଗୋଟିଏ କଥା ଅଗତ୍ୟା ସ୍ୱୀକାର କରିବାକୁ ହୋଇଥିଲା। ସେଥିଲାଗି ସେ କିୟତ୍କାଳ ଅକାରଣ ବିରକ୍ତ ହୋଇଥିଲେ
+I could not allow myself to conceal that your brother had been in town three months past winter that I had known it, and purposely kept it from him||ହେବାର କଥା, ବିଗତ ଶୀତକାଳରେ ଆପଣଙ୍କର ଭ୍ରାତା ଯେ ତିନି ମାସ ସହରରେ ଥିଲେ, ଏକଥା ମୁଁ ନିଜେ କୌଣସି ପ୍ରକାରେ ଗୋପନ କରି ରଖିପାରି ନାହିଁ। ମୁଁ ଏହା ଜାଣିଥିଲି; ମାତ୍ର ଇଚ୍ଛା କରି ତାଙ୍କୁ ଜଣାଇ ଦେଇ ନାହିଁ
+He was angry but he has heartily forgiven me now||ସେ ମୋ ଉପରେ କୁପିତ ହୋଇଥିବେ; କିନ୍ତୁ ଏବେ ମୋତେ ଆନ୍ତରିକ କ୍ଷମା ପ୍ରଦାନ କରିଅଛନ୍ତି
+Akbar was the real founder of the Mogul Empire, and is regarded as the greatest of all the musalman sovereigns of India||ଆକବରହିଁ ମୋଗଲ ସାମ୍ରାଜ୍ୟର ପ୍ରକୃତ ସ୍ଥାପୟିତା ଥିଲେ ଏବଂ ସମସ୍ତ ମୁସଲମାନ ରାଜାଙ୍କ ମଧ୍ୟରେ ଶ୍ରେଷ୍ଠ ବୋଲି ପରିଚିତ ଅଟନ୍ତି
+Literary education he had but little, but he was naturally endowed with a genius of the very highest order His physicalstrength and power of endurance were equally wonderful||ସାହିତ୍ୟକ ଅନୁଶୀଳନ ଅଳ୍ପ ଥିଲେହେଁ ସେ ସ୍ୱଭାବତଃ ଅସାଧାରଣ ପ୍ରତିଭାସମ୍ପନ୍ନ ଥିଲେ। ତାଙ୍କ ଦୈହିକ ବଳ ଯେପରି ଅସାଧାରଣ ଥିଲା, ସହିଷ୍ଣୁତା ମଧ୍ୟ ସେହିପରି ବିସ୍ମୟଜନକ ଥିଲା
+Though a great warrior and captain, he had no passion for war and was always averse to unnecessary bloodshed||ମହାଯୋଦ୍ଧା ଏବଂ ଲୋକନାୟକ ଥିଲେ ମଧ୍ୟ ଯୁଦ୍ଧରେ ତାଙ୍କର ଆସକ୍ତି ନ ଥିଲା , ବରଂ ସେ ଅକାରଣ ରକ୍ତପାତର ସର୍ବଦା ବିରୋଧୀ ଥିଲେ
+His tender heart led him to discourage capital punishment and the use of animal food||ତାଙ୍କର ଦୟାର୍ଦ୍ର ହୃଦୟ ତାହାଙ୍କୁ ପ୍ରାଣଦଣ୍ଡାଜ୍ଞା ପ୍ରଦାନ ଏବଂ ଜୀବମାଂସ ଭକ୍ଷଣରୁ ନିବୃତ୍ତ କରିଥିଲା
+He was affectionate to his friends and merciful to his enemies||ସେ ମିତ୍ରମାନଙ୍କ ପ୍ରତି ସ୍ନେହପ୍ରବଣ ଏବଂ ଶତ୍ରୁମାନଙ୍କ ପ୍ରତି ସଦୟ ଥିଲେ
+Like his great contemporary, Queen Elizabeth of England,he loved his subjects and desired their love in return||ତାଙ୍କର ପ୍ରଧାନ ସମସାମୟିକ ଇଂଲଣ୍ଡେଶ୍ୱରୀ ଏଲିଜାବେଥ୍‌ଙ୍କ ତୁଲ୍ୟ ସେ ପ୍ରଜାମାନଙ୍କୁ ସ୍ନେହ କରୁଥିଲେ ଏବଂ ବିନିମୟରେ ସେମାନଙ୍କ ଅନୁରାଗ କାମନ କରୁଥିଲେ
+Like Elizabeth too, he had an eye for merit and he gathered round him the ablest intellect of the time||ଏଲିଜାବେଥଙ୍କ ପରି ତାଙ୍କର ମଧ୍ୟ ଗୁଣପ୍ରତି ବିଶେଷ ଦୃଷ୍ଟି ଥିଲା , ତେଣୁ ସେ ତତ୍କାଳୀନ ପ୍ରତିଭାସମ୍ପନ୍ନ ମନୀଷୀମାନଙ୍କୁ ଏକତ୍ର କରିଥିଲେ
+Tudar mall the financier, Mansingha the general, Birbal the wit, Tansen the musician,Faizi the scholar and his brother Abul Fazel the historian adorned the court of this great emperor ||ରାଜସ୍ୱସଚିବ ତୋଡରମଲ୍ଲ, ସେନାପତି ମାନସିଂହ, କର୍ମସଚିବ ବୀରବଲ, ସଙ୍ଗୀତବିଶାରଦ ତାନସେନ୍‌, ସୁପଣ୍ଡିତ ଫାୟାଜି ଏବଂ ତଦୀୟ ଭ୍ରାତା ଐତିହାସିକ ଆବୁଲ ଫାଜଲ୍‌ ଏହି ବିଖ୍ୟାତ ସମ୍ରାଟଙ୍କର ରାଜସଭାକୁ ଅଳକୃତ କରିଥିଲେ
+He encouraged the Urdu and Hindi poets and had numerous Sanskrit works translated into Persian ||ସେ ଉର୍ଦ୍ଦୂ ଓ ହିନ୍ଦୀ ଭାଷାର କବିମାନଙ୍କୁ ଉତ୍ସାହ ପ୍ରଦାନ କରିଥିଲେ ଏବଂ ବହୁସଂଖ୍ୟକ ସଂସ୍କୃତ ଗ୍ରନ୍ଥ ପାରସୀଭାଷାରେ ଅନୁବାଦିତ କରିଥିଲେ
+It is true that a sense of duty may at times render it necessary for you to do that which is displeasing to your companions||ଏହା ସତ୍ୟ ଯେ, ସମୟ ସମୟରେ କର୍ତ୍ତବ୍ୟଜ୍ଞାନର ଅନୁରୋଧରେ ସଙ୍ଗୀମାନଙ୍କର ଅପ୍ରୀତିକର କାର୍ଯ୍ୟସାଧନ ତୁମ୍ଭ ପକ୍ଷରେ ଅତ୍ୟାବଶ୍ୟକ ହୋଇପଡ଼େ
+If it is seen that you have a kind spirit, that you are above selfishness, that you are willing to make sacrifices of your own personal convenience to promote the happiness of your associates, you will never be in want of friends||କିନ୍ତୁ ଯଦି ଦେଖାଯାଏ ଯେ ତୁମ୍ଭର ହୃଦୟ ଦୟାପ୍ରବଣ ସ୍ୱାର୍ଥପରତାରହିତ ଏବଂ ସହଚରମାନଙ୍କର ସୁଖବୃଦ୍ଧି ନିମନ୍ତେ ତୁମ୍ଭେ ଆପଣାର ବ୍ୟକ୍ତିଗତ ସୁବିଧା ବିସର୍ଜନ କରିବାକୁ ଇଚ୍ଛୁକ, ତାହାହେଲେ ତୁମ୍ଭର ବନ୍ଧୁ ଅଭାବ କେବେ ଘଟିବ ନାହିଁ
+You must not regard it as your misfortune, but your fault, when others do not love you||କେହି ଯଦି ତୁମ୍ଭଙ୍କୁ ଭଲ ନ ପାନ୍ତି, ତାହାହେଲେ ମନେ କରିବ ନାହିଁ ଯେ, ଏହା ତୁମ୍ଭର ଦୁର୍ଭାଗ୍ୟ, ବରଂ ତାହା ତୁମ୍ଭର ଦୋଷ
+It is not beauty, it is not wealth, that will give you friends|| ସୌନ୍ଦର୍ଯ୍ୟ କହ ବା ଐଶ୍ୱର୍ଯ୍ୟ କହ, କେହି ତୁମ୍ଭଙ୍କୁ ବନ୍ଧୁ ଆଣି ଦେଇ ପାରିବ ନାହିଁ
+Your heart must glow with kindness if you would attract by whom you are surrounded||ଯେଉଁମାନଙ୍କଦ୍ୱାରା ତୁମ୍ଭେ ସର୍ବଦା ପରିବୃତ, ଯଦି ସେମାନଙ୍କର ସ୍ନେହ ଏବଂ ସମ୍ମାନ ଆକର୍ଷଣ କରିବ, ତାହାହେଲେ ତୁମ୍ଭର ହୃଦୟ ଅବଶ୍ୟ ଦୟା ପ୍ରଭାରେ ଉଦ୍ଭାସିତ ହେବା ଉଚିତ
+The peasant has but one thing to fall back upon, in order to meet all his wants, namely his land and his annual crops || ସମସ୍ତ ଅଭାବ ଦୂର କରିବା ଲାଗି କୃଷକର ଏକମାତ୍ର ସମ୍ୱଳ ତାହାର ଭୂମି ଏବଂ ବର୍ଷକର ଶସ୍ୟ
+His dearly cherished hope is that his harvest may be good and his greatest fear is lest his produce be decreased or his rent increased || ତାହାର ହୃଦୟରେ ଏହି ଆଶା ପୋଷିତ ଥାଏ ଯେ, କିପରି ଉତ୍ତମ ଶସ୍ୟ ସଂଗ୍ରହ ହୋଇପାରିବ ଏବଂ ତାହାର ଏହି ଆଶଙ୍କା ଥାଏ ଯେ, କୌଣସି ଉତ୍ପନ୍ନ ଶସ୍ୟସମ୍ଭାର ହ୍ରାସପ୍ରାପ୍ତ ହୋଇଯିବ କିମ୍ୱା ଭୂମିର କର ବୃଦ୍ଧିପ୍ରାପ୍ତ ହେବ
+He does any thing and every thing to secure a good harvest || ଭଲ ଫସଲ ପାଇବା ପାଇଁ ସେ ସର୍ବପ୍ରକାର ଯତ୍ନ କରିଥାଏ 
+He ploughs his lands over and over, sows with care, weeds the plants repeatedly with almost parental affections and when the corn is nearly ripe, often passes entire night in the fields always watching and sleepless lest trespassing cattle injure his crops || ସେ ଉପର୍ଯ୍ୟୁପରି ଭୂମିକର୍ଷଣ କରି ସଯତ୍ନରେ ବୀଜବପନ କରେ ଏବଂ ଜନକୋଚିତ ସ୍ନେହସହକାରେ ଅନିଷ୍ଟକାରୀ ଘାସମାନ ବାରମ୍ୱାର ବାଛି ପକାଏ , ଆଉ ମଧ୍ୟ ଶସ୍ୟ ପାଚି ଆସିଲେ କାଳେ ଗୋମେଷାଦି ପଶୁ କ୍ଷେତ୍ର ମଧ୍ୟରେ ପ୍ରବେଶ କରି ଶସ୍ୟ ନଷ୍ଟ କରିବେ, ଏଥିପାଇଁ ପ୍ରାୟଶଃ କ୍ଷେତ୍ରରେ ସମସ୍ତ ରାତ୍ରି ଉନ୍ନିଦ୍ର ଯାପନ କରି ରକ୍ଷା କରିଥାଏ।
+Of the deeply religious nature of the Greeks along with their beautiful and sunny effulgences of art you have striking proof, if you look for it||ଅନୁସନ୍ଧାନ କଲେ ତୁମ୍ଭେମାନେ ଗ୍ରୀକ୍‌ମାନଙ୍କ ଶିଳ୍ପନୈପୁଣ୍ୟର ସୁନ୍ଦର ଓ ଅତ୍ୟୁଜ୍ଜ୍ୱଳ ଦୃଷ୍ଟାନ୍ତ ସହିତ ସେମାନଙ୍କର ପ୍ରଗାଢ ଧର୍ମଭାବର ସୁସ୍ପଷ୍ଟ ପ୍ରମାଣ ପାଇପାରିବ
+In the tragedies of Sophocles there is a most deep-toned recognition of the eternal justice of Heaven, and the unfailing punishment of crime against the laws of God||ସଫୋକ୍ଳିସ୍‌ଙ୍କର ବିୟୋଗାନ୍ତ ନାଟକାବଳୀରେ ଈଶ୍ୱରଙ୍କ ଅନନ୍ତ ସୁବିଚାରର ଏବଂ ତଦୀୟ ବିଧିଲଙ୍ଘନରେ ଅନିବାର୍ଯ୍ୟ ଶାସ୍ତିର ଭୁରି ଭୁରି ଗଭୀରତମ ନିଦର୍ଶନ ରହିଅଛି
+I believe you will find in all histories of nations, this has been at the origin and the foundation of them all || ମୋହର ବିଶ୍ୱାସ, ତୁମ୍ଭେମାନେ ସମସ୍ତ ଜାତିର ଇତିହାସରେ ଦେଖି ପାରିବ ଯେ, ଏହାହିଁ ସମସ୍ତଙ୍କ ଉନ୍ନତିର ମୂଳଭିତ୍ତି
+and that no nation which does not contemplate this wonderful universe with an awe-stricken and reverential belief that there was a great unknown omnipotent, and all-wise and all-just being , Superintending all men in it and all interests in it, no nation ever come to very much, nor did any man either who forget that|| ଆଉ ଯେଉଁ ଜାତି ଭକ୍ତି ଏବଂ ସମ୍ଭ୍ରମସହକାରେ ବିଚାର କରି ଦେଖି ନାହିଁ ଯେ, ଏହି ବିଚିତ୍ର ବିଶ୍ୱର ଯାବତୀୟ ମନୁଷ୍ୟ ଓ ସ୍ୱାର୍ଥସମ୍ୱନ୍ଧାଦି ଏକ ବିରାଟ ଅଜ୍ଞେୟ, ସର୍ବଶକ୍ତିମାନ, ସର୍ବଜ୍ଞ ଏବଂ ସର୍ବବିବେକୀ ପୁରୁଷଙ୍କଦ୍ୱାରା ନିୟନ୍ତ୍ରିତ, ସେପରି କୌଣସି ଜାତି କିମ୍ବା କେହି ମନୁଷ୍ୟ କେବେହେଁ ଅଧିକ ଦୂର ଅଗ୍ରସର ହୋଇ ପାରି ନାହିଁ। 
+If a man did forget that, he forgot the most important part of his mission in this world||ଯେଉଁ ମନୁଷ୍ୟ ଏହି ତଥ୍ୟ ବିସ୍ମୃତ ହୋଇଅଛି ସେ ନିଜର ପୃଥିବୀକୁ ଆସିବାର ମୁଖ୍ୟ ଉଦ୍ଦେଶ୍ୟ ଅବଶ୍ୟ ବିସ୍ମୃତ ହୋଇଅଛି
+Sir Isac Newton, the great philosopher was so distinguished for his cool and even temper that he remained calm and undisturbed under the greatest provocation || ବିଖ୍ୟାତ ଦାର୍ଶନିକ ପଣ୍ଡିତ ସାର ଆଇଜାକ୍‌ ନିଉଟନ୍‌ ତାଙ୍କର ସ୍ଥିର ଏବଂ ପ୍ରଶାନ୍ତ ସ୍ୱଭାବ ନିମନ୍ତେ ଏପରି ପ୍ରସିଦ୍ଧି ଲାଭ କରିଥିଲେ ଯେ, ଯତ୍‌ପରୋନାସ୍ତି ଉତ୍ତେଜନାର କାରଣ ଉପସ୍ଥିତ ହେଲେ ମଧ୍ୟ, ଧୀର ଏବଂ ଅବିଚଳିତ ରହୁଥିଲେ
+As a remarkable instance of this the following story is told :- Sir Isac Newton had a favourite little dog which he called Diamond || ଏହାର ପ୍ରକୃଷ୍ଟ ଉଦାହରଣ ସ୍ୱରୂପ ନିମ୍ନଲିଖିତ ଗଳ୍ପଟି ଉଲ୍ଲିଖିତ ଅଛି :- ସାର ଆଇଜାକ୍‌ ନିଉଟନଙ୍କର ଗୋଟିଏ ସାନ କୁକୁର ଅତି ପ୍ରିୟ ଥିଲା। ତାହାକୁ ସେ  ହୀରା ବୋଲି ଡାକୁଥିଲେ
+Being one evening called  out of his study into the next room, he left the dog behind || ଦିନେ ସନ୍ଧ୍ୟା ସମୟରେ ଆହୂତ ହେବାରୁ କୁକୁରଟିକୁ ଏକା ଛାଡ଼ି ପାଠାଗାରର ସନ୍ନିହିତ କକ୍ଷକୁ ଗମନ କରିଥିଲେ
+The philosopher after a minute’s absence returned  but had the mortification to find that Diamond had overturned a lighted candle among some papers, the nearly finished labour of many years, but which was now reduced to ashes|| ମୁହୂର୍ତ୍ତକ ଅନୁପସ୍ଥିତି ଉତ୍ତାରେ ଦାର୍ଶନିକ ପାଠାଗାରକୁ ପ୍ରତ୍ୟାଗମନ କଲେ ଏବଂ ଦେଖି ଅତ୍ୟନ୍ତ ବିଷାଦ ଅନୁଭବ କରୁଥିଲେ ଯେ, ହୀରା ତାଙ୍କର ବହୁ ବର୍ଷର ସମାପ୍ତପ୍ରାୟ ପରିଶ୍ରମର ଫଳସ୍ୱରୂପ କେତେଗୁଡ଼ିଏ କାଗଜ ଉପରେ ଗୋଟିଏ ଜ୍ୱଳନ୍ତ ବତି ଓଲଟାଇ ଦେଇ ସେ ସମସ୍ତ ଭସ୍ମୀଭୂତ କରି ପକାଇ ଅଛି
+Being far advanced in years Newton could not hope ever to reproduce the results of his life-long labour and might well be angry with the little creature, that had caused such a loss || ବୟସାଧିକ୍ୟବଶତଃ ନିଉଟନ୍‌ତାଙ୍କର ସେହି ସମଗ୍ର ଜୀବନବ୍ୟାପୀ ପରିଶ୍ରମର ଫଳକୁ ପୁନଃ ସମ୍ପାଦନ କରିପାରିବେ ବୋଲି ଆଶା କରି ନ ଥିଲେ; ସୁତରାଂ ଯେଉଁ କ୍ଷୁଦ୍ରଜୀବଟି  ତାଙ୍କର ଏପରି କ୍ଷତିସାଧନ କରିଅଛି, ତାହା ପ୍ରତି ତାଙ୍କର କୁପିତ ହେବାର ଯଥେଷ୍ଟ କାରଣ ଥିଲା
+Instead of getting into a rage, how ever and punisihing the dog he restrained his anger and said in quiet tone, O Diamond, Diamond, little do you know the mischief you have done || କିନ୍ତୁ ସେ କ୍ରୋଧପରବଶ ହୋଇ କୁକୁରଟିକୁ ଶାସ୍ତି ଦେବା ପରିବର୍ତ୍ତରେ ଆପଣାର କ୍ରୋଧସମ୍ବରଣ କରିଥିଲେ ଏବଂ ମୃଦୁସ୍ୱରରେ କହିଲେ- ହୀରା ରେ, ତୁ ଆଜି ଯେଉଁ ଅନିଷ୍ଟ କରିଅଛୁ, ତାହା ତୁ ଲେଶମାତ୍ର ଜାଣୁନାହିଁ
+mid-day || ମଧ୍ୟାହ୍ନକାଳ
+The cruel sun, like a huge furnace was sending forth hot flames all around || ପ୍ରଚଣ୍ଡ ସୂର୍ଯ୍ୟ ପ୍ରକାଣ୍ଡ ଅଗ୍ନିକୁଣ୍ଡ ପ୍ରାୟ ଉଷ୍ଣକିରଣ ଜାଳ ଚତୁର୍ଦ୍ଦିଗରେ ବିକିରଣ କରୁଥିଲା
+There was hardly any breeze, the broad leaves of the tall palmyra hung quite motionless || ସମୀରଣ ସଞ୍ଚାରହୀନ ଏବଂ ତୁଙ୍ଗ ତାଳବୃକ୍ଷର ବିଶାଳ ପତ୍ରାବଳୀ ନିଷ୍ପନ୍ଦଭାବରେ ଲମ୍ୱମାନ ଥିଲା
+the cows were resting in the shade of trees and were chewing the cud and the birds were enjoying their mid-day siesta || ଧେନୁଗଣ ବୃକ୍ଷଚ୍ଛାୟାରେ ବିଶ୍ରାମ କରି ରୋମନ୍ଥନ କରୁଥିଲେ ଏବଂ ପକ୍ଷୀମାନେ ମାଧ୍ୟାହ୍ନିକ ନିଦ୍ରାସୁଖ ଉପଭୋଗ କରୁଥିଲେ
+At such a time, when all nature seemed to be in a state of collapse, a solitary husbandman was seen ploughing a field on the eastern side of the village of Kanchanpur || ସମଗ୍ର ପ୍ରକୃତି ଏତେବେଳେ ନିଶ୍ଚେଷ୍ଟବତ୍‌ ପ୍ରତୀୟମାନ ହେଉଥିଲା, ଏମନ୍ତ ସମୟରେ କାଞ୍ଚନପୁର ଗ୍ରାମର ପୂର୍ବପାର୍ଶ୍ୱରେ ଜଣେ କୃଷକ ଏକାକୀ ଭୂମିକର୍ଷଣ କରୁଥିବାର ଦେଖାଗଲା
+In the previous evening there had been a shower accompanied with thunder storm and Manik Samant was taking advantage of that circumstance ||  ପୂର୍ବଦିନ ସନ୍ଧ୍ୟା ସମୟରେ ଝଟିକା ଓ ବ୍ରଜପାତ ସହିତ ଅସରାଏ ବର୍ଷା ହୋଇ ଯାଇଥିବାରୁ ମାଣିକ ସାମନ୍ତ ଏହି ଅବସ୍ଥାରେ ଆଶୁଧାନ୍ୟର ଜମି ପ୍ରସ୍ତୁତ କରିବା ପାଇଁ ସୁବିଧା ପାଇଥିଲା
+to prepare the soil for the early crop of Asudhan, so called from the fact of that sort of paddy ripening in less time than is taken by the autumn or the winter paddy || ହୈମନ୍ତିକ ଧାନ୍ୟ ବା ଶୀତ ଦିନରେ ଯେଉଁ ଧାନ କଟା ହୁଏ, ତାହା ଅପେକ୍ଷା ଏହା ଅଳ୍ପ ଦିନରେ ପାଚି ଯାଉଥିବାରୁ ଏହା ଏପରି ନାମରେ ଅଭିହିତ ହୋଇଅଛି।  
+Sweta walked many a mile in darkness, still he saw no human habitations||  ଶ୍ୱେତ ଅନ୍ଧକାରରେ ବହୁଦୂର ପଥ ପଦବ୍ରଜରେ ଅତିକ୍ରମ କଲା, ତଥାପି ମନୁଷ୍ୟବସତି ଆଦୌ ଦିଶିଲା ନାହିଁ
+At last the genial light of Sukra somewhat illumined his path, and he saw at distance what seemed a large city|| ଅବଶେଷରେ ଶତ୍ରୁତାରର ସ୍ନିଗ୍‌ଧ ଜ୍ୟୋତିରେ ତାହାର ପଥ କ୍ୟଞ୍ଚିତ୍ ଆଲୋକିତ ହେବାରୁ ସେ ଦୂରରେ ଗୋଟିଏ ବଡ ସହର ପରି କଣ ଦେଖିଥିଲା
+He was congratulating himself on his journey’s end on his being able to obtain fire for benefit of his poor wife lying cold in the forest with the new born babe, when on a sudden an elephant, gorgeously caparisoned shot across his path, and gently taking him up by his trunk placed him on the rich houdah on its back|| ଭ୍ରମଣପଥ ଶେଷହେବାରୁ ଅରଣ୍ୟ ମଧ୍ୟରେ ନବଜାତ ଶିଶୁସହ ଶୀତରେ ପଡ଼ିଥିବା ଦୁଃଖିନୀ ପତ୍ନୀର ହିତଲାଗି ଅଗ୍ନି ସଂଗ୍ରହ କରି ପାରିବ ବୋଲି ଯେତେବେଳେ ସେ ମନେ ମନେ ଆପଣାକୁ ପ୍ରଶଂସା କରୁଥିଲା, ସେତେବେଳେ ବିଚିତ୍ର ବେଶଭୂଷାରେ ମଣ୍ଡିତ ଗୋଟିଏ ହସ୍ତୀ ହଠାତ୍ ତାହାର ଗତିପଥ ରୁଦ୍ଧ କରି ଧୀର ଭାବରେ ଶୁଣ୍ଢରେ ତାହାକୁ ଗ୍ରହଣପୂର୍ବକ ସ୍ୱପୃଷ୍ଠସ୍ଥିତ ବହୁମୂଲ୍ୟ ହାଉଦା ଉପରେ ବସାଇଲା 
+It then walked rapidly towards the city|| ଏବଂ ପରେ ପରେ ନଗରାଭିମୁଖରେ ଦ୍ରୂତଗତିରେ ପ୍ରସ୍ଥାନ କରିବାକୁ ଲାଗିଲା
+Sweta was quite taken aback|| ଶ୍ୱେତ ବିସ୍ମୟରେ ଏକାବେଳକେ ହତବୁଦ୍ଧି ହୋଇ ପଡ଼ିଥିଲା 
+He did not understand the meaning of the elephant’s action, and wondered what was in store for him|| ସେ ହସ୍ତୀର ଏପରି ଆଚରଣର ଅର୍ଥ ଆଦୌ ବୁଝି ନ ପାରି, ଅଦୃଷ୍ଟରେ ଆଉ କଣ ଅଛି ଭାବି ବିସ୍ମିତ ହୋଇଥିଲା
+We have learnt from the various religious books of Utkal of the 16th, the 17th and even of the 18th century, that many crypto Budhists were then residing in various parts of the country||ଷୋଡ଼ଶ, ସପ୍ତଦଶ ଏବଂ ଅଷ୍ଟାଦଶ ଶତାବ୍ଦୀରେ ମଧ୍ୟ ଉତ୍କଳର ବିବିଧ ଧର୍ମଗ୍ରନ୍ଥରୁ ଆମ୍ଭେମାନେ ଅବଗତ ହୋଇଅଛୁ ଯେ, ଅନେକ ବୌଦ୍ଧ ଯତି ସେତେବେଳେ ଏ ଦେଶର ବିଭିନ୍ନ ଅଞ୍ଚଳରେ ବାସ କରୁଥିଲେ
+In the hills and the forests of the Gadjats, they cherished the loving memory of their religion and made no secret of it amongst themselves, though in society they passed for devout Vaisnavas||ଗଡ଼ଜାତର ଶୈଳ ଏବଂ ଅରଣ୍ୟମାନଙ୍କରେ ସେମାନେ ନିଜ ଧର୍ମର ସ୍ମୃତି ସସ୍ନେହରେ ପୋଷଣ କରିଥିଲେ ଏବଂ ସମ୍ପ୍ରଦାୟ ମଧ୍ୟରେ ଭକ୍ତ ବୈଷ୍ଣବ ବୋଲି ଚଳିଯାଉଥିଲେହେ ଆପଣା ଆପଣା ମଧ୍ୟରେ ସ୍ୱଧର୍ମର ରହସ୍ୟ ପ୍ରକାଶ କରୁଥିଲେ
+The Buddhist pilgrims off Tibet and other far-off places who came on visit to India did, however,see through their veils and acknowledged them to be their coreligionists||ତିଦ୍ଦତ ଏବଂ ଅନ୍ୟାନ୍ୟ ଦୂରଦେଶରୁ ଯେଉଁ ବୌଦ୍ଧଯାତ୍ରୀମାନେ ଭାରତ ଭ୍ରମଣ ଉଦ୍ଦେଶ୍ୟରେ ଆଗମନ କରୁଥିଲେ, ସେମାନେ ସେପରି ପ୍ରଚ୍ଛନ୍ନ ଅବସ୍ଥାରେ ମଧ୍ୟ ଏମାନଙ୍କୁ ଚିହ୍ନିପାରି ଆପଣାର ସମାନଧର୍ମା ବୋଲି ସ୍ୱୀକାର କରିଥିଲେ
+Example is far more than precept|| ଆଦର୍ଶ ଉପଦେଶ ଅପେକ୍ଷା ମହତ୍ତର
+It is instruction in action|| ଏହା କ୍ରିୟାଗତ ଶିକ୍ଷା ଏବଂ ଏହା ବିନା ବାକ୍ୟବ୍ୟୟରେ ଶିକ୍ଷା ଦିଏ
+It is teaching without words, often exemplifying more than tongue can teach||ଅନେକ ସମୟରେ ଏହା ଜିହ୍ୱା ଅପେକ୍ଷା ଅଧିକ ଫଳପ୍ରଦ ହୋଇପାରେ
+In the face of bad example the best of precepts are of but little avail|| ମନ୍ଦ ଆଦର୍ଶ ସମ୍ମୁଖରେ ସତ୍‌ଉପଦେଶ ଲେଶ ମାତ୍ର ଫଳପ୍ରଦ ନୁହେଁ
+The example is followed not precept||ଆଦର୍ଶ ଅନୁସୃତ ହୁଏ, କିନ୍ତୁ ଉପଦେଶ ନୁହେଁ
+Indeed precept at variance with practice is worse than useless, in as much as it only serves to teach that most cowardly of vices- hypocrisy||ବସ୍ତୁତଃ ଅଭ୍ୟାସବିରୋଧୀ ଉପଦେଶ ଏକାନ୍ତ ନିରର୍ଥକ। ଯେହେତୁ ଏହା କେବଳ ନିତାନ୍ତ କାପୁରୁଷୋଚିତ ପାପ କପଟାଚାରର ଶିକ୍ଷା ଦେଇଥାଏ

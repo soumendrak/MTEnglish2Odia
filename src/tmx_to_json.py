@@ -3,8 +3,21 @@ Author: Soumendra Kumar Sahoo
 Usage: 
 >>> python tmx_to_json.py <xml file> <output file>
 """
+import json
+import re
 import sys
 import xmltodict
+
+cleanr = re.compile('<.*?>')
+
+def remove_html_tags(text):
+  cleantext = re.sub(cleanr, '', text)
+  return cleantext
+
+def check_odia_text_percentage_threshold(en_sentence, or_sentence):
+    # check letter count mismatch
+    # 
+    return True
 
 def read_xml_file(filename):
     with open(filename, 'r+', encoding='utf-8') as fh:
@@ -12,14 +25,14 @@ def read_xml_file(filename):
     return xml_file
 
 def process_file(xml_file):
-    # TODO: Check for duplicate sentences
-    final_file = []
+    final_file = set()
     file_dict = xmltodict.parse(xml_file)
     for each_par in file_dict.get('tmx').get('body').get('tu'):
-        en_sentence = each_par.get('tuv')[0]['seg']
-        or_sentence = each_par.get('tuv')[1]['seg']
-        write_sentence = en_sentence + '||' + or_sentence
-        final_file.append(write_sentence)
+        en_sentence = remove_html_tags(each_par.get('tuv')[0]['seg']).strip()
+        or_sentence = remove_html_tags(each_par.get('tuv')[1]['seg']).strip()
+        if check_odia_text_percentage_threshold(en_sentence, or_sentence):
+            write_sentence = en_sentence + '||' + or_sentence
+            final_file.add(write_sentence)  # keep only unique pairs
     final_file = '\n'.join(final_file)
     return final_file
 

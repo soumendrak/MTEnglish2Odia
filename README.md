@@ -11,8 +11,30 @@ The approach is to start building a parallel corpus between English and Odia lan
 
 For more details visit the website of this repository : [MTEnglish2Odia](https://soumendrak.github.io/MTEnglish2Odia/)
 
-Child repositories:
-- [English-Odia Parallel corpora](https://github.com/OdiaWikimedia/English-Odia)
+# How can I contribute to this repository?
+### What can I contribute?
+- You can send English-Odia word/phrase/sentence pairs on the below format in a new file, under your name and types of data. For e.g. if your name is Satyabrata, you want to upload generic phrases:    
+
+
+| Key        | Example       |
+| ------------- |:-------------|
+| Filename      | `satyabrata.txt` |
+| File upload path      | `data/Individual_files/satyabrata.txt`      |
+| File text format | `Why are you so lazy?||ଆପଣ ଏତେ ଅଳସୁଆ କାହିଁକି `      |
+
+> Please make sure you have correct permissions to upload this data in GPL license.
+- Tutorial on how to fork a repository and send a PR can be found in [this video](https://www.youtube.com/watch?v=_NrSWLQsDL4) or [this video](https://www.youtube.com/watch?v=rgbCcBNZcdQ) or this Github doc tutorial for [fork](https://help.github.com/en/articles/fork-a-repo) and this one for [pull request](https://help.github.com/en/articles/creating-a-pull-request)
+- Your Pull Request will be reviewed first.
+- Please follow up if any comments or modifications are needed on your Pull Request.
+- In case of any confusion please contact on proud_odia@outlook.com. You will get a response within a day or two.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=_NrSWLQsDL4
+" target="_blank"><img src="http://img.youtube.com/vi/_NrSWLQsDL4/0.jpg" 
+alt="Fork and Pull Request-1" width="240" height="180" border="10" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=rgbCcBNZcdQ
+" target="_blank"><img src="http://img.youtube.com/vi/rgbCcBNZcdQ/0.jpg" 
+alt="Fork and Pull Request-2" width="240" height="180" border="10" /></a>
 
 ## License
 GPL v3.0

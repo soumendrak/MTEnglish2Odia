@@ -1,0 +1,149 @@
+Give your application an accessibility workout||ଆପଣଙ୍କ ଅଭିଗମକୁ ଗୋଟିଏ ଅଭିଗମ୍ଯତା ତାଲିମ ଦିଅନ୍ତୁ
+Accerciser Accessibility Explorer||Accerciser ଅଭିଗମ୍ଯତା ଅନ୍ବେଷକ
+The default plugin layout for the bottom panel||ତଳ ଫଳକ ପାଇଁ ପୂର୍ବନିର୍ଦ୍ଧାରିତ ପ୍ଲଗ-ଇନ ବିନ୍ଯାସ
+The default plugin layout for the top panel||ଉପର ଫଳକ ପାଇଁ ପୂର୍ବନିର୍ଦ୍ଧାରିତ ପ୍ଲଗ-ଇନ ବିନ୍ଯାସ
+A list of plugins that are disabled by default||ପ୍ଲଗ-ଇନ ମାନଙ୍କର ଗୋଟିଏ ତାଲିକା ଯେଉଁ ମାନଙ୍କୁ ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଭାବରେ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି
+Highlight duration||ଆଲୋକିତ କରିବା ଅବଧି
+The duration of the highlight box when selecting accessible nodes||ଅଭିଗମ୍ୟ ଶାଖାଗୁଡ଼ିକୁ ବାଛିବା ସମୟରେ ଆଲୋକିତ ବାକ୍ସର ଅବଧି
+Highlight border color||ଧାର ରଙ୍ଗକୁ ଆଲୋକିତ କରନ୍ତୁ
+The color and opacity of the highlight border.||ଆଲୋକିତ ଧାରର ରଙ୍ଗ ଏବଂ opacity।
+Highlight fill color||ଆଲୋକିତ ପୁରଣ ରଙ୍ଗ
+The color and opacity of the highlight fill.||ଆଲୋକିତ ପୁରଣର ରଙ୍ଗ ଏବଂ opacity।
+API Browser||API ବ୍ରାଉଜର
+Browse the various methods of the current accessible||ବର୍ତ୍ତମାନ ଅଭିଗମ୍ଯର ବିଭିନ୍ନ ପଦ୍ଧତି ମାନଙ୍କୁ ଖୋଜନ୍ତୁ
+Hide private attributes||ବ୍ଯକ୍ତିଗତ ଗୁଣଧର୍ମ ମାନଙ୍କୁ ଲୁଚାଇ ରଖନ୍ତୁ
+Method||ପଦ୍ଧତି
+Property||ଗୁଣଧର୍ମ
+Value||ମୂଲ୍ଯ
+IPython Console||IPython କୋନଶୋଲ
+Interactive console for manipulating currently selected accessible||ବର୍ତ୍ତମାନ ଚୟିତ ଅଭିଗମ୍ଯକୁ କୌଶଳର ସହିତ ତୁଳାଇବା ପାଇଁ ପାରସ୍ପରିକ କ୍ରିୟାକ୍ଷମ କୋନଶୋଲ
+Event monitor||ଘଟଣା ପ୍ରଦର୍ଶିକା
+_Monitor Events||ଘଟଣା ମାନଙ୍କ ଉପରେ ଦୃଷ୍ଟି ରଖନ୍ତୁ (_M)
+C_lear Selection||ଚୟନକୁ ବାତିଲ କରନ୍ତୁ (_l)
+Everything||ସବୁକିଛି
+Selected application||ଚୟିତ ପ୍ରୟୋଗ
+Selected accessible||ଚୟିତ ଅଭିଗମ୍ଯ
+Source||ଉତ୍ସ
+Event Monitor||ଘଟଣା ପ୍ରଦର୍ଶିକା
+Shows events as they occur from selected types and sources||ଚୟିତ ପ୍ରକାର ଏବଂ ଉତ୍ସ ମାନଙ୍କରୁ ଘଟିଥିବା ପରି ଘଟଣା ମାନଙ୍କୁ ପ୍ରଦର୍ଶନ କରନ୍ତୁ
+Highlight last event entry||ଅନ୍ତିମ ଘଟଣା ପ୍ରବିଷ୍ଟି ପ୍ରତି ବିଶିଷ୍ଟତା ପ୍ରଦାନ କରନ୍ତୁ
+Start/stop event recording||ଘଟଣା ଅନୁଲିପିକରଣକୁ ଆରମ୍ଭକରନ୍ତୁ/ବିରାମ କରନ୍ତୁ
+Clear event log||ଘଟଣା ଲଗକୁ ସଫାକରନ୍ତୁ
+Child count||Child count
+(no description)||(କୌଣସି ବର୍ଣ୍ଣନା ନାହିଁ)
+Description||ବର୍ଣ୍ଣନା
+States||ଅବସ୍ଥିତି
+Show||ଦେଖନ୍ତୁ
+Relations||ସମ୍ପର୍କ
+Attributes||ଗୁଣ
+_Accessible||ଅଭିଗମ୍ଯ (_A)
+Perform action||କାର୍ଯ୍ଯ ସମ୍ପାଦନ କରନ୍ତୁ
+Acti_on||କାର୍ଯ୍ଯ (_o)
+ID||ପରିଚୟ
+Toolkit||ଟୁଲ-କିଟ
+Version||ସଂସ୍କରଣ
+Ap_plication||ପ୍ରୟୋଗ (_p)
+Col_lection||ସଂଗ୍ରହ (_l)
+0, 0||0, 0
+Relative position||ଆପେକ୍ଷିକ ଅବସ୍ଥାନ
+Size||ଆକାର
+WIDGET||ୱିଜେଟ
+Layer||ସ୍ତର
+MDI-Z-order||MDI-Z-କ୍ରମ
+Alpha||ଆଲଫା
+Absolute position||ସୁନିଶ୍ଚିତ ଅବସ୍ଥାନ
+Co_mponent||ଯନ୍ତ୍ରାଂଶ (_m)
+Des_ktop||ଡେସ୍କଟପ (_k)
+Locale:||ଲୋକେଲ:
+_Document||ଦଲିଲ (_D)
+Hyperlink||ହାଇପର-ଲିଙ୍କ
+H_ypertext||ହାଇପର-ଟେକ୍ସ୍ଟ (_y)
+Position||ଅବସ୍ଥାନ
+Description||ବର୍ଣ୍ଣନା
+Locale||ଲୋକେଲ
+_Image||ପ୍ରତିଛବି (_I)
+Lo_gin Helper||ଲଗଇନ ସହାୟକ (_g)
+Select All||ସବୁକିଛି ଚୟନ କରନ୍ତୁ
+_Selection||ଚୟନ (_S)
+St_reamable Content||ଧାରାବାହିକ ଯୋଗ୍ଯ ବିଷୟବସ୍ତୁ (_r)
+Caption:||ଅନୁଶୀର୍ଷକ:
+Summary:||ସାରାଂଶ:
+Selected columns||ଚୟିତ ସ୍ତମ୍ଭ ଗୁଡିକ
+Selected rows||ଚୟିତ ଧାଡି ଗୁଡିକ
+Columns||ସ୍ତମ୍ଭ
+Rows||ଧାଡି
+Table Information||ସାରଣୀ ସୂଚନା
+name (x,y)||ନାମ (x,y)
+Header:||ଶୀର୍ଷକ:
+Extents:||ପରିସୀମା:
+Row||ଧାଡି
+Column||ସ୍ତମ୍ଭ
+Selected Cell||ଚୟିତ କୋଷ
+_Table||ସାରଣୀ (_T)
+Text||ପାଠ୍ଯ
+Offset||ଅଫ-ସେଟ
+Include defaults||ପୂର୍ବନିର୍ଦ୍ଧାରିତ ମାନଙ୍କୁ ଅନ୍ତର୍ଭୂକ୍ତ କରନ୍ତୁ
+Start: 0||ଆରମ୍ଭ: 0
+End: 0||ସମାପ୍ତ: 0
+Te_xt||ପାଠ୍ଯ (_x)
+Current value||ବର୍ତ୍ତମାନ ମୂଲ୍ଯ
+Minimum increment||ସର୍ବନିମ୍ନ ବୃଦ୍ଧି
+Maximum value||ସର୍ବାଧିକ ମୂଲ୍ଯ
+Minimum value||ସର୍ବନିମ୍ନ ମୂଲ୍ଯ
+Val_ue||ମୂଲ୍ଯ (_u)
+unknown||ଅଜଣା
+Interface Viewer||ଅନ୍ତରାପୃଷ୍ଠ ପ୍ରଦର୍ଶକ
+Allows viewing of various interface properties||ବିଭିନ୍ନ ଅନ୍ତରାପୃଷ୍ଠ ଗୁଣଧର୍ମ ମାନଙ୍କର ପ୍ରଦର୍ଶନକୁ ସ୍ବୀକାର କରିଥାଏ
+(not implemented)||(ନିଷ୍ପାଦନ କରାଯାଇ ନାହିଁ)
+Name||ନାମ
+URI||ୟୁ.ଆର.ଆଇ.
+Start||ଆରମ୍ଭ
+End||ସମାପ୍ତ
+Too many selectable children||ଅତ୍ଯଧିକ ବଛାଯୋଗ୍ୟ ପିଲା
+(Editable)||(ସମ୍ପାଦନ ଯୋଗ୍ଯ)
+Quick Select||ଶିଘ୍ର ବାଛିବା
+Plugin with various methods of selecting accessibles quickly.||ବର୍ତ୍ତମାନ ଅଭିଗମ୍ଯର ବିଭିନ୍ନ ପଦ୍ଧତି ମାନଙ୍କୁ ଖୋଜନ୍ତୁ
+Inspect last focused accessible||ଶେଷରେ ଫୋକସ କରାଯାଇଥିବା ଅଭିଗମ୍ଯକୁ ଯାଞ୍ଚ କରନ୍ତୁ
+Inspect accessible under mouse||ମାଉସ ସୂଚକ ତଳେ ଥିବା ଅଭିଗମ୍ଯକୁ ଯାଞ୍ଚ କରନ୍ତୁ
+Native||ସ୍ଥାନୀୟ
+Dogtail||ଗଡ-ଟେଲ
+LDTP||LDTP
+Script Type||ସ୍କ୍ରିପ୍ଟ ପ୍ରକାର
+Script Recorder||ସ୍କ୍ରିପ୍ଟ ଅନୁଲିପିକାର
+Creates dogtail style scripts||ଡଗ-ଟେଲ ଶୈଳୀର ସ୍କ୍ରିପ୍ଚ ମାନ ସୃଷ୍ଟି କରିଥାଏ
+The current script will be lost.||ବର୍ତ୍ତମାନ ସ୍କ୍ରିପ୍ଟଟି ହଜିଯିବ।
+Confirm clear||ସଫାକରିବାକୁ ନିଷ୍ଚିତ କରନ୍ତୁ
+Sche_ma:||ବିବରମିକା (_m):
+V_alidate||ବିଧିମାନ୍ୟ କରନ୍ତୁ (_a)
+Idle||ଅଚଳ
+No description||କୌଣସି ବର୍ଣ୍ଣନା ନାହିଁ
+AT-SPI Validator||AT-SPI ମାନ୍ୟତା ପ୍ରଦାନକାରୀ
+Validates application accessibility||ପ୍ରୟୋଗ ଅଭିଗମ୍ୟତାକୁଗବିଧିମାନ୍ୟ କରନ୍ତୁ
+Level||ସ୍ତର
+Role||ଭୂମିକା
+Saving||ସଂରକ୍ଷଣ କରୁଅଛି
+Validating||ବିଧିମାନ୍ୟ କରୁଅଛି
+EXCEPT||EXCEPT
+ERROR||ERROR
+WARN||WARN
+INFO||INFO
+DEBUG||DEBUG
+Basic||ମୌଳିକ
+Tests fundamental GUI application accessibility||ମୌଳିକ GUI ପ୍ରୟୋଗ ଅଭିଗମ୍ୟତାକୁ ପରୀକ୍ଷା କରନ୍ତୁ
+actionable %s is not focusable or selectable||କାର୍ଯ୍ୟକ୍ଷମ %s କୁ ଲକ୍ଷ୍ୟ କରାଯାଇପାରିବ ନାହିଁ କିମ୍ବା ବଛାଯାଇପାରିବ ନାହିଁ
+interactive %s is not actionable||ପାରସ୍ପରିକ କ୍ରିୟା %s ଟି କାର୍ଯ୍ୟକ୍ଷମ ନୁହଁ
+more than one focused widget||ଗୋଟିଏରୁ ଅଧିକ ଲକ୍ଷ୍ୟ ୱିଜେଟ
+%s has no text interface||%s ରେ ପାଠ୍ୟ ଅନ୍ତରାପୃଷ୍ଠ ନାହିଁ
+%s index in parent does not match child index||ଉପର ସ୍ତରର %s ଅନୁକ୍ରମଣିକା ତଳ ସ୍ତରର ଅନୁକ୍ରମଣିକା ସହିତ ମେଳ ଖାଉ ନାହିଁ
+Missing reciprocal for %s relation||%s ସମ୍ପର୍କ ପାଇଁ ଅନୁପସ୍ଥିତ ପାରସ୍ପରିକ ସମ୍ପର୍କ
+%s missing name or label||%s ଅନୁପସ୍ଥିତ ନାମ ଏବଂ ନାମପଟି
+focusable %s has table interface, no selection interface||ଲକ୍ଷ୍ୟଯୋଗ୍ୟ %s ରେ ସାରଣୀ ଅନ୍ତରାପୃଷ୍ଠ ଅଛି, କୌଣସି ଅନ୍ତରାପୃଷ୍ଠ ଚୟନ ନାହିଁbutton has focused state without focusable state
+%s has %s state without %s state||%s ରେ %s ଅବସ୍ଥା ବିନା %s ଅବସ୍ଥା ଅଛି
+%s does not belong to a set||%s କୌଣସି ଶ୍ରେଣୀ ଅନ୍ତର୍ଗତ ନୁହଁ
+%(rolename)s index %(num)d does not match row and column||%(rolename)s ଅନୁକ୍ରମଣିକା %(num)d ଧାଡ଼ି ଏବଂ ସ୍ତମ୍ଭ ସହିତ ମେଳ ଖାଉନାହିଁparent indexrow and column index
+%(rolename)s parent index %(num1)d does not match row and column index %(num2)d||%(rolename)s ଉପର ସ୍ତର ଅନୁକ୍ରମଣିକା %(num1)d ଧାଡ଼ି ଏବଂ ସ୍ତମ୍ଭ ଅନୁକ୍ରମଣିକା %(num2)d ସହିତ ମେଳ ଖାଉନାହିଁ
+%s has no name or description||%s ରେ କୌଣସି ନାମ କିମ୍ବା ବର୍ଣ୍ଣନା ନାହିଁ
+_Preferences...||ପସନ୍ଦଗୁଡ଼ିକ (_P)...
+_Contents||ସୂଚୀପତ୍ର (_C)
+Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?||Accerciser ଆପଣଙ୍କ ଡେସ୍କଟପରେ ଥିବା ପ୍ରୟୋଗ ମାନଙ୍କୁ ଦେଖିପାରିଲା ନାହିଁ। ଏହି ସମସ୍ଯାକୁ ସମାଧାନ କରିବା ପାଇଁ ଆପଣ ଡେସ୍କଟପ ଅଭିଗମ୍ଯତାକୁ ସକ୍ରିୟ କରିବା ଉଚିତ। ଆପଣ ବର୍ତ୍ତମାନ ଏହାକୁ ସକ୍ରିୟ କରିବା ପାଇଁ ଚାହୁଁଛନ୍ତି କି?
+Note: Changes only take effect after logout.||ଟିପ୍ପଣୀ: ପରିବର୍ତ୍ତନ ଗୁଡିକ କେବଳ ଲଗଆଉଟ କରିସାରିବା ପରେ ପ୍ରଭାବିତ ହେବେ।
