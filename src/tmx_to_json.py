@@ -32,6 +32,7 @@ def process_file(xml_file):
     file_dict = xmltodict.parse(xml_file)
     for each_par in file_dict.get('tmx').get('body').get('tu'):
         en_sentence = remove_html_tags(each_par.get('tuv')[0]['seg']).strip()
+        en_sentence = en_sentence.replace('\n', '')
         or_sentence = remove_html_tags(each_par.get('tuv')[1]['seg']).strip()
         if check_odia_text(or_sentence):
             write_sentence = en_sentence + '||' + or_sentence
