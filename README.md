@@ -4,7 +4,7 @@
 # MTEnglish2Odia
 ## *We are at quality corpus collecting phase now. All source code written only to clean the data*.
 
-Number of En-Or parallel reviewed pairs: **11,805**
+Approx. Number of En-Or parallel reviewed pairs: **11,000**
 
 ## Machine Translation from English to Odia language
 This is a healthy start to building Automated machine translation for `English` to `Odia` language.
