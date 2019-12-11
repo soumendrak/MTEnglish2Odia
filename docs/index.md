@@ -1,4 +1,5 @@
-[Home page](https://soumendrak.github.io/MTEnglish2Odia/) | [MT_Flow_Pipleine](https://soumendrak.github.io/MTEnglish2Odia/MT_Flow_Pipleine)
+[Home page](https://soumendrak.github.io/MTEnglish2Odia/) | [MT_Flow_Pipleine](https://soumendrak.github.io/MTEnglish2Odia/MT_Flow_Pipleine) |
+[Wishlist](https://soumendrak.github.io/MTEnglish2Odia/possible_projects)
 
 Machine translation from [English](https://en.wikipedia.org/wiki/English_language) to [Odia](https://en.wikipedia.org/wiki/Odia_language) language
 
@@ -24,10 +25,11 @@ Month | Year | Milestone | Status
  [February](#february2019) | 2019 | Do same as January, concentrate more on the state-of-the-art practices | Completed
  Mar-Dec    | 2019 | Parallel corpora generation | 
  [September](#september2019) | 2019 | Data ingestion pipeline | Initial draft prepared |
- [October](#october2019) | 2019 | Read existing papers on MT and write the summary | In-Progress
+ [October](#october2019) | 2019 | Read existing papers on MT and write the summary | Delegated
+ Nov-Dec | 2019 | Parallel corpora generation and data cleaning | In-progress
 
 
-*The parallel corpora generation data has been moved to [Odia Wikimedia](https://github.com/OdiaWikimedia/English-Odia). There will be **no further work** unless we have achieved at least 10k (3.8k/10k achieved) parallel corpus.*
+*The parallel corpora generation data has been moved to [Odia Wikimedia](https://github.com/OdiaWikimedia/English-Odia). There will be **no further work** unless we have achieved at least 10k (12k/10k achieved) parallel corpus.*
 
 ### <a name="december2018"></a> Detailed works completed in December 2018
 - Found corpus worth around [27,000 English-Odia tab separated translation pairs](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879)

@@ -1,4 +1,7 @@
-[Home page](https://soumendrak.github.io/MTEnglish2Odia/) | [MT_Flow_Pipleine](https://soumendrak.github.io/MTEnglish2Odia/MT_Flow_Pipleine)
+[Home page](https://soumendrak.github.io/MTEnglish2Odia/) | [MT_Flow_Pipleine](https://soumendrak.github.io/MTEnglish2Odia/MT_Flow_Pipleine) |
+[Wishlist](https://soumendrak.github.io/MTEnglish2Odia/possible_projects)
+
+
 # Machine Translation Flow Pipeline
 ### Update log
 - Date | Version | Author | Change details  
