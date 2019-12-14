@@ -5,7 +5,7 @@ from data_utils import load_tokenizers, load_vocab
 from model_utils import load_model
 from translate_utils import (
     translate_sentence,
-    display_attention,
+    # display_attention,
     tokenize_src,
     detokenize_trg
 )
