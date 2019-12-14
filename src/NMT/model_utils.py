@@ -99,7 +99,8 @@ class SelfAttentionLayer(nn.Module):
     def __init__(self, hid_dim, n_heads, dropout, device):
         super().__init__()
 
-        assert hid_dim % n_heads == 0
+        if hid_dim % n_heads != 0:
+            raise AssertionError('hid_dim % n_head != 0')
 
         self.hid_dim = hid_dim
         self.n_heads = n_heads
@@ -430,10 +431,10 @@ if __name__ == "__main__":
     from data_utils import load_vocab
 
     # load vocab
-    SRC_vocab, TRG_vocab = load_vocab(
+    _SRC_vocab, _TRG_vocab = load_vocab(
         'models/SRC_vocab.pkl',
         'models/TRG_vocab.pkl'
     )
 
     # load model
-    model = load_model('models/model.pt', SRC_vocab, TRG_vocab)
+    _model = load_model('models/model.pt', _SRC_vocab, _TRG_vocab)

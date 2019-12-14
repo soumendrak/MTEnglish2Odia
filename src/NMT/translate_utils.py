@@ -27,7 +27,7 @@ def translate_sentence(
 
     trg_indexes = [trg_vocab.stoi['<sos>']]
 
-    for i in range(max_len):
+    for _ in range(max_len):
 
         trg_tensor = torch.LongTensor(trg_indexes).unsqueeze(0).to(device)
 
@@ -61,16 +61,17 @@ def display_attention(
         n_cols=2,
         font_path='fonts/OR51_Ananta.ttf'
 ):
-    assert n_rows * n_cols == n_heads
+    if n_rows * n_cols != n_heads:
+        raise AssertionError('n_rows * n_cols != n_heads')
 
     fig = plt.figure(figsize=(15, 25))
 
     for i in range(1, n_heads + 1):
         ax = fig.add_subplot(n_rows, n_cols, i)
 
-        _attention = attention.squeeze(0)[i - 1].cpu().detach().numpy()
+        attention_np = attention.squeeze(0)[i - 1].cpu().detach().numpy()
 
-        cax = ax.matshow(_attention, cmap='Oranges')
+        _ = ax.matshow(attention_np, cmap='Oranges')
 
         ax.tick_params(labelsize=12)
         ax.set_xticklabels([''] + ['<sos>'] + sentence + ['<eos>'],
@@ -100,38 +101,38 @@ if __name__ == "__main__":
     from model_utils import load_model
 
     # load tokenizers
-    sp_bpe_src, sp_bpe_trg = load_tokenizers(
+    _sp_bpe_src, _sp_bpe_trg = load_tokenizers(
         'models/bpe_en.model',
         'models/bpe_od.model'
     )
 
     # load vocab
-    SRC_vocab, TRG_vocab = load_vocab(
+    _SRC_vocab, _TRG_vocab = load_vocab(
         'models/SRC_vocab.pkl',
         'models/TRG_vocab.pkl'
     )
 
     # load model
-    model = load_model('models/model.pt', SRC_vocab, TRG_vocab)
+    _model = load_model('models/model.pt', _SRC_vocab, _TRG_vocab)
 
     # sample sentence
-    sentence = 'music'
+    _sentence = 'music'
 
     # tokenize
-    sentence = tokenize_src(sentence, sp_bpe_src)
+    _sentence = tokenize_src(_sentence, _sp_bpe_src)
 
     # translate
-    translation, attention = \
+    _translation, _attention = \
         translate_sentence(
-            sentence,
-            SRC_vocab,
-            TRG_vocab,
-            model,
-            model.device
+            _sentence,
+            _SRC_vocab,
+            _TRG_vocab,
+            _model,
+            _model.device
         )
 
     # detokenize
-    print(detokenize_trg(translation, sp_bpe_trg))
+    print(detokenize_trg(_translation, _sp_bpe_trg))
 
     # display attention
-    display_attention(sentence, translation, attention)
+    display_attention(_sentence, _translation, _attention)

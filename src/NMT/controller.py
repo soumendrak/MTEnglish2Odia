@@ -10,6 +10,7 @@ from translate_utils import (
     detokenize_trg
 )
 
+import os
 from datetime import datetime
 
 # create app
@@ -26,7 +27,7 @@ def index():
         sentence = tokenize_src(form.src_text.data, sp_bpe_src)
 
         # translate
-        translation, attention = \
+        translation, _ = \
             translate_sentence(
                 sentence,
                 SRC_vocab,
@@ -49,8 +50,8 @@ def index():
         result = f'Odia Translation: {result}'
 
         if responses_path is not None:
-            with open(responses_path, 'a', encoding='utf-8') as f:
-                f.write(
+            with open(responses_path, 'a', encoding='utf-8') as _f:
+                _f.write(
                     f'\n\tNEW REQUEST 🤩 @'
                     f'{datetime.now().strftime("%m/%d/%Y %H:%M:%S")}\n'
                     f'\tEnglish Text: {form.src_text.data}\n'
@@ -67,6 +68,10 @@ if __name__ == '__main__':
 
     # responses dir
     responses_path = 'responses/logs.txt'
+
+    # create responses dir
+    os.makedirs('responses', exist_ok=True)
+
     # set device
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -94,4 +99,4 @@ if __name__ == '__main__':
             )
 
     # run app
-    app.run(host='0.0.0.0', port=1234, debug=False)
+    app.run(host='127.0.0.1', port=31137, debug=False)

@@ -26,16 +26,16 @@ def load_vocab(src_vocab_path, trg_vocab_path):
 
 if __name__ == "__main__":
     # load tokenizers
-    sp_bpe_src, sp_bpe_trg = load_tokenizers(
+    _sp_bpe_src, _sp_bpe_trg = load_tokenizers(
         'models/bpe_en.model',
         'models/bpe_od.model'
     )
 
     # load vocab
-    SRC_vocab, TRG_vocab = load_vocab(
+    _SRC_vocab, _TRG_vocab = load_vocab(
         'models/SRC_vocab.pkl',
         'models/TRG_vocab.pkl'
     )
 
-    print(f'src vocab size: {len(SRC_vocab)}')
-    print(f'trg vocab size: {len(TRG_vocab)}')
+    print(f'src vocab size: {len(_SRC_vocab)}')
+    print(f'trg vocab size: {len(_TRG_vocab)}')
