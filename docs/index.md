@@ -26,7 +26,7 @@ Month | Year | Milestone | Status
  Mar-Dec    | 2019 | Parallel corpora generation | 
  [September](#september2019) | 2019 | Data ingestion pipeline | Initial draft prepared |
  [October](#october2019) | 2019 | Read existing papers on MT and write the summary | Delegated
- Nov-Dec | 2019 | Parallel corpora generation and data cleaning | In-progress
+ [Nov-Dec](#novdec2019) | 2019 | Parallel corpora generation and data cleaning | In-progress
 
 
 *The parallel corpora generation data has been moved to [Odia Wikimedia](https://github.com/OdiaWikimedia/English-Odia). There will be **no further work** unless we have achieved at least 10k (12k/10k achieved) parallel corpus.*
@@ -86,6 +86,8 @@ Month | Year | Milestone | Status
   4. Long sentences
   5. Word Alignment
   6. Beam Search
+### <a name="novdec2019"></a> New pairs addition
+Bible pairs from OdiEnCorp1.0 has been added to the consolidated corpus.
 
 ## Impediments
 - [x] Get at least 10,000 parallel open corpus for Odia language to begin with.

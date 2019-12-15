@@ -4,7 +4,7 @@
 # MTEnglish2Odia
 ## *We are at quality corpus collecting phase now. All source code written only to clean the data*.
 
-Approx. Number of En-Or parallel reviewed pairs: **12,000**
+Approx. Number of En-Or parallel reviewed pairs: **42,000**
 
 ## Machine Translation from English to Odia language
 This is a healthy start to building Automated machine translation for `English` to `Odia` language.
@@ -17,7 +17,9 @@ For more details visit the website of this repository : [MTEnglish2Odia](https:/
 
 # How can I contribute to this repository?
 ### What can I contribute?
-- You can send English-Odia word/phrase/sentence pairs on the below format in a new file, under your name and types of data. For e.g. if your name is Satyabrata, you want to upload generic phrases:    
+- You can send English-Odia word/phrase/sentence pairs on the below format in a new file, under your name and types of data.
+- Please put the file under [Individual_files](https://github.com/soumendrak/MTEnglish2Odia/tree/master/data/input/Individual_files)  
+- For e.g. if your name is Satyabrata, you want to upload generic phrases:    
 
 
 | Key        | Example       |
