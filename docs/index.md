@@ -127,10 +127,11 @@ These are few places where relevant data may be present, however getting the dat
 * [Gyan Nidhi-TDIL](https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=281&lang=en) : Million pages’ multilingual parallel text corpus in English and 11  Indian  languages  (Assamese,  Bengali,  Gujarati,  Hindi, Kannada,   Marathi,   Malayalam,   Oriya,   Punjabi,   Tamil   & Telugu)  based  on  Unicode  encoding.  The  Gyan  Nidhi  corpus contains  the  text  in  the  form  of  books. In  these  books  there were  number of diagrams,  figures,  charts  and  other  special symbols. These are removed from the text by using automated and  manual  tools.  The  text  in  gyan  nidhi  is  in  the  form of paragraphs, that are converted into short sentences. 
 
 ## Key Contributors
-- Anjan Kumar Panda
-- Dr. Arun Malik
-- Soumendra Kumar Sahoo  
-- Subhashish Panigrahi
+- [Anjan Kumar Panda](https://twitter.com/ak_panda)
+- [Dr. Arun Malik](https://www.linkedin.com/in/arun-malik-6a80a77/)
+- [Soumendra Kumar Sahoo](https://www.linkedin.com/in/soumendrakumarsahoo/) 
+- [Subhadarshi Panda](https://github.com/subhadarship)
+- [Subhashish Panigrahi](https://twitter.com/subhapa)
 
 *"In my dream of the 21st century for the State, I would have young men and women who put the interest of the State before them. They will have pride in themselves, confidence in themselves. They will not be at anybody’s mercy, except their own selves. By their brains, intelligence and capacity, they will recapture the history of Kalinga." - [Biju Pattnaik](https://en.wikipedia.org/wiki/Biju_Patnaik)*
 
