@@ -1,9 +1,8 @@
 """
 Author: Soumendra Kumar Sahoo
-Usage: 
+Usage:
 >>> python tmx_to_json.py <.xml file> <.txt output file>
 """
-import json
 import re
 import sys
 import xmltodict
@@ -12,20 +11,25 @@ from character_mapping import MATRA
 
 cleaner = re.compile('<.*?>')
 
+
 def remove_html_tags(text):
-  cleantext = re.sub(cleaner, '', text)
-  return cleantext
+    """
+    removes HTML tags from the inout text
+    """
+    cleantext = re.sub(cleaner, '', text)
+    return cleantext
+
 
 def check_odia_text(text):
-    if any(matra in text for matra in MATRA):
-        return True
-    else:
-        return False
+    """ Odia language detector """
+    return True if any(matra in text for matra in MATRA) else False
+
 
 def read_xml_file(filename):
     with open(filename, 'r+', encoding='utf-8') as fh:
         xml_file = fh.read()
     return xml_file
+
 
 def process_file(xml_file):
     final_file = set()
@@ -40,15 +44,18 @@ def process_file(xml_file):
     final_file = '\n'.join(final_file)
     return final_file
 
+
 def write_final_file(final_file, filename=None):
     with open(filename or 'output_file.txt', 'w+', encoding='utf-8') as wh:
         wh.write(final_file)
     print('Written')
 
+
 def main():
     xml_file = read_xml_file(filename=sys.argv[1])
     final_file = process_file(xml_file)
     write_final_file(final_file, sys.argv[2])
+
 
 if __name__ == '__main__':
     main()
