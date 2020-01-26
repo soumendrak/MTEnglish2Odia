@@ -1,0 +1,118 @@
+
+starting app.. [01/26/2020 08:34:54]
+
+	NEW REQUEST 🤩 @01/26/2020 08:35:28
+	English Text: who are you
+	Odia Translation: ଆପଣଙ୍କ ସହିତ କରନ୍ତି
+
+	NEW REQUEST 🤩 @01/26/2020 08:35:46
+	English Text: how are you
+	Odia Translation: ଆପଣଙ୍କ ପାଇଁ ବୁଝୁନା
+
+	NEW REQUEST 🤩 @01/26/2020 08:35:57
+	English Text: wish you a very happy new year
+	Odia Translation: ଆପଣଙ୍କୁ ନବବର୍ଷର ଅଭିନନ୍ଦନ
+
+	NEW REQUEST 🤩 @01/26/2020 08:37:05
+	English Text: happy republic day
+	Odia Translation: ଆପଣଙ୍କୁ ନୌ ଚଳାଚଳ
+
+	NEW REQUEST 🤩 @01/26/2020 08:42:02
+	English Text: Good morning
+	Odia Translation: ବାହାର କରନ୍ତୁ
+
+	NEW REQUEST 🤩 @01/26/2020 08:42:17
+	English Text: Good night
+	Odia Translation: ପ୍ୟାତ୍ସା
+
+	NEW REQUEST 🤩 @01/26/2020 08:42:25
+	English Text: who are you
+	Odia Translation: ଆପଣଙ୍କ ସହିତ କରନ୍ତି
+
+	NEW REQUEST 🤩 @01/26/2020 08:43:14
+	English Text: when will we meet 
+	Odia Translation: ଆମେ ଗୋଟିଏ
+
+	NEW REQUEST 🤩 @01/26/2020 08:43:21
+	English Text: we are good
+	Odia Translation: ଆମେ ସମସ୍ତେ
+
+	NEW REQUEST 🤩 @01/26/2020 08:43:25
+	English Text: we are good
+	Odia Translation: ଆମେ ସମସ୍ତେ
+
+	NEW REQUEST 🤩 @01/26/2020 08:43:52
+	English Text: Is this you
+	Odia Translation: ଆପଣ ଡ୍ରାନ୍ତି ମୁଁ ଆପଣଙ୍କୁ
+
+	NEW REQUEST 🤩 @01/26/2020 08:44:00
+	English Text: go
+	Odia Translation: ଗମନାଗମନ
+
+	NEW REQUEST 🤩 @01/26/2020 08:44:28
+	English Text: went
+	Odia Translation: ଯତ୍ରୁଆ
+
+	NEW REQUEST 🤩 @01/26/2020 08:44:33
+	English Text: gone
+	Odia Translation: ଧାଡି
+
+	NEW REQUEST 🤩 @01/26/2020 08:44:41
+	English Text: queue
+	Odia Translation: ନିଜର ଜୀବନ ରୁ ଚାଲିଥିବା ଘଟଣା
+
+	NEW REQUEST 🤩 @01/26/2020 08:54:34
+	English Text: I remember talking to Eliza in 1990s .. this is better
+	Odia Translation: ମୁମ୍ବପାଣିପାତ
+
+	NEW REQUEST 🤩 @01/26/2020 08:54:44
+	English Text: ha ha ha
+	Odia Translation: ହିଲାମା
+
+	NEW REQUEST 🤩 @01/26/2020 08:55:01
+	English Text: Convey the congratulations to Subhadarshi for this milestone 
+	Odia Translation: ସମ୍ବଲପୁର କାର୍ଯ୍ୟାଳୟ ସମ୍ବଲପୁର
+
+	NEW REQUEST 🤩 @01/26/2020 08:55:40
+	English Text: marriage
+	Odia Translation: ବିବାହ ଉତ୍ଆରି କରନ୍ତୁ
+
+	NEW REQUEST 🤩 @01/26/2020 08:55:46
+	English Text: marriages
+	Odia Translation: ଚରିତ୍ର ଚିତ୍ରଣ
+
+	NEW REQUEST 🤩 @01/26/2020 08:55:50
+	English Text: wedding
+	Odia Translation: ବିବାହ ଉତ୍ଶବ ପାଇଁ ପ୍ରସ୍ତୁତ
+
+	NEW REQUEST 🤩 @01/26/2020 08:55:57
+	English Text: weddings
+	Odia Translation: ବିବାହ ଉତ୍ଶବ ପାଇଁ ପ୍ରସ୍ତୁତ
+
+	NEW REQUEST 🤩 @01/26/2020 08:56:03
+	English Text: cousin
+	Odia Translation: ଗଭୀର
+
+	NEW REQUEST 🤩 @01/26/2020 08:56:05
+	English Text: cousins
+	Odia Translation: ପେଶାଗତ
+
+	NEW REQUEST 🤩 @01/26/2020 08:56:15
+	English Text: brother
+	Odia Translation: ଭାଇଙ୍କ ଜୀବନ
+
+	NEW REQUEST 🤩 @01/26/2020 08:56:24
+	English Text: sister
+	Odia Translation: କିମ୍ବଦନ୍ତୀ
+
+	NEW REQUEST 🤩 @01/26/2020 08:56:31
+	English Text: sisters
+	Odia Translation: Geତ୍ଵ
+
+	NEW REQUEST 🤩 @01/26/2020 08:56:42
+	English Text: brothers and sisters
+	Odia Translation: ପ୍ରଥମ ମହିଳା ବିବରଣୀ
+
+	NEW REQUEST 🤩 @01/26/2020 08:56:50
+	English Text: alone
+	Odia Translation: ଭିତର ଧାଡି
