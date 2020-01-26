@@ -116,3 +116,29 @@ starting app.. [01/26/2020 08:34:54]
 	NEW REQUEST 🤩 @01/26/2020 08:56:50
 	English Text: alone
 	Odia Translation: ଭିତର ଧାଡି
+
+starting app.. [01/26/2020 09:38:33]
+
+	NEW REQUEST 🤩 @01/26/2020 09:38:55
+	English Text: alone
+	Odia Translation: ଭିତର ଧାଡି
+
+	NEW REQUEST 🤩 @01/26/2020 09:38:59
+	English Text: who
+	Odia Translation: କି
+
+	NEW REQUEST 🤩 @01/26/2020 09:39:03
+	English Text: why
+	Odia Translation: ଅଭ୍ୟନ୍ତର
+
+	NEW REQUEST 🤩 @01/26/2020 09:39:06
+	English Text: whom
+	Odia Translation: ଆର୍ଟ
+
+	NEW REQUEST 🤩 @01/26/2020 09:39:09
+	English Text: whose
+	Odia Translation: ବଣଭ
+
+	NEW REQUEST 🤩 @01/26/2020 09:39:15
+	English Text: when
+	Odia Translation: ବ୍ୟକ୍ତିଗତ

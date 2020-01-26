@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 .vscode/*
 todo.txt
+src/NMT/responses/logs.txt

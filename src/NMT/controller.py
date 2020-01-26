@@ -1,6 +1,6 @@
 from form_model import InputForm
 from flask import Flask, render_template, request
-import torch
+# import torch
 from data_utils import load_tokenizers, load_vocab
 from model_utils import load_model
 from translate_utils import (
@@ -73,7 +73,7 @@ if __name__ == '__main__':
     os.makedirs('responses', exist_ok=True)
 
     # set device
-    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    # device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
     # load tokenizers
     sp_bpe_src, sp_bpe_trg = load_tokenizers(
