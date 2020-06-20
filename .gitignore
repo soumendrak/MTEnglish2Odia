@@ -105,3 +105,6 @@ venv.bak/
 .vscode/*
 todo.txt
 src/NMT/responses/logs.txt
+
+# IDE
+.idea/

@@ -16,6 +16,7 @@ The approach is to start building a parallel corpus between English and Odia lan
 For more details visit the website of this repository : [MTEnglish2Odia](https://soumendrak.github.io/MTEnglish2Odia/)
 
 # How can I contribute to this repository?
+- [Click here](https://www.dataschool.io/how-to-contribute-on-github/) to read a general guide on how to contribute to a Github open source project for beginners.
 ### What can I contribute?
 - You can send English-Odia word/phrase/sentence pairs on the below format in a new file, under your name and types of data.
 - Please put the file under [Individual_files](https://github.com/soumendrak/MTEnglish2Odia/tree/master/data/input/Individual_files)  
