@@ -24,6 +24,19 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "soumendrak",
+      "name": "Soumendra kumar sahoo",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/10120538?v=4",
+      "profile": "https://www.linkedin.com/in/soumendrakumarsahoo/",
+      "contributions": [
+        "ideas",
+        "design",
+        "doc",
+        "code",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
