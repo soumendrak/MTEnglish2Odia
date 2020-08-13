@@ -1,6 +1,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b3a25275798c4c129dc863b7e619f41c)](https://www.codacy.com/app/soumendrak/MTEnglish2Odia?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=soumendrak/MTEnglish2Odia&amp;utm_campaign=Badge_Grade)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsoumendrak%2FMTEnglish2Odia.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsoumendrak%2FMTEnglish2Odia?ref=badge_shield)
 
@@ -65,6 +65,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/subhadarship"><img src="https://avatars2.githubusercontent.com/u/35211168?v=4" width="100px;" alt=""/><br /><sub><b>subhadarship</b></sub></a><br /><a href="https://github.com/soumendrak/MTEnglish2Odia/commits?author=subhadarship" title="Code">💻</a> <a href="#design-subhadarship" title="Design">🎨</a> <a href="#ideas-subhadarship" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/kamakshyaP"><img src="https://avatars0.githubusercontent.com/u/21032122?v=4" width="100px;" alt=""/><br /><sub><b>kamakshyaP</b></sub></a><br /><a href="#content-kamakshyaP" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/soumendrakumarsahoo/"><img src="https://avatars3.githubusercontent.com/u/10120538?v=4" width="100px;" alt=""/><br /><sub><b>Soumendra kumar sahoo</b></sub></a><br /><a href="#ideas-soumendrak" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-soumendrak" title="Design">🎨</a> <a href="https://github.com/soumendrak/MTEnglish2Odia/commits?author=soumendrak" title="Documentation">📖</a> <a href="https://github.com/soumendrak/MTEnglish2Odia/commits?author=soumendrak" title="Code">💻</a> <a href="#content-soumendrak" title="Content">🖋</a></td>
   </tr>
 </table>
 
