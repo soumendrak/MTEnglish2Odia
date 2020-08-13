@@ -1,4 +1,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b3a25275798c4c129dc863b7e619f41c)](https://www.codacy.com/app/soumendrak/MTEnglish2Odia?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=soumendrak/MTEnglish2Odia&amp;utm_campaign=Badge_Grade)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsoumendrak%2FMTEnglish2Odia.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsoumendrak%2FMTEnglish2Odia?ref=badge_shield)
 
 # MTEnglish2Odia
@@ -50,3 +53,22 @@ GPL v3.0
 ଇଂରାଜୀରୁ ଓଡ଼ିଆ ଭାଷାକୁ ମେସିନ ଟ୍ରାନ୍ସଲେସନଦ୍ୱାରା ଅନୁବାଦ କରିବାକୁ ଏହି ପ୍ରକଳ୍ପଟି ତିଆରି ହୋଇଛି । ଏହା ମୁଖ୍ୟତଃ ଓଡ଼ିଆ ଉଇକିପିଡ଼ିଆରେ ଗୁଣାତ୍ମକ ପୃଷ୍ଠାଗୁଡ଼ିକର ସଂଖ୍ୟା ବୃଦ୍ଧି କରିବାକୁ ଗଠନ କରାଯାଇଛି । ବର୍ତ୍ତମାନର ଯୋଜନା ହିସାବରେ ପ୍ରଥମେ ଇଂରାଜୀ-ଓଡ଼ିଆ ଅନୁବାଦର ପାରାଲେଲ ତଥ୍ୟ ସଂଗ୍ରହ ହେବ । ଯଥେଷ୍ଟ ପରିମାଣର ତଥ୍ୟ ସଂଗ୍ରହ ପରେ ଏହାକୁ ପ୍ରଥମେ ଷ୍ଟାଟିଷ୍ଟିକାଲ ମେସିନ ଟ୍ରାନ୍ସଲେସନ ଏବଂ ପରେ ନ୍ୟୂରାଲ ମେସିନ ଟ୍ରାନ୍ସଲେସନ ଦ୍ୱାରା ଉପଯୋଗ କରାଯାଇ ଅନୁବାଦର ଶୁଦ୍ଧତ୍ତା ହିସାବ କରାଯିବ । ଚଳନୀୟ ଶୁଦ୍ଧତା ହାସଲ ପରେ ଏହାକୁ ସର୍ବସାଧାରଣଙ୍କ ନିମନ୍ତେ ଉତ୍ସର୍ଗୀକୃତ କରାଯିବ ।
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsoumendrak%2FMTEnglish2Odia.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsoumendrak%2FMTEnglish2Odia?ref=badge_large)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/subhadarship"><img src="https://avatars2.githubusercontent.com/u/35211168?v=4" width="100px;" alt=""/><br /><sub><b>subhadarship</b></sub></a><br /><a href="https://github.com/soumendrak/MTEnglish2Odia/commits?author=subhadarship" title="Code">💻</a> <a href="#design-subhadarship" title="Design">🎨</a> <a href="#ideas-subhadarship" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
