@@ -28,6 +28,8 @@ Month | Year | Milestone | Status
  [October](#october2019) | 2019 | Read existing papers on MT and write the summary | Delegated
  [Nov-Dec](#novdec2019) | 2019 | Parallel corpora generation and data cleaning | In-progress
 
+**Further progress you can see over: https://github.com/OdiaNLP**
+
 
 *The parallel corpora generation data has been moved to [Odia Wikimedia](https://github.com/OdiaWikimedia/English-Odia). There will be **no further work** unless we have achieved at least 10k (12k/10k achieved) parallel corpus.*
 
