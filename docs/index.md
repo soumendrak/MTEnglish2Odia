@@ -91,6 +91,11 @@ Month | Year | Milestone | Status
 ### <a name="novdec2019"></a> New pairs addition
 Bible pairs from OdiEnCorp1.0 has been added to the consolidated corpus.
 
+### <a name="may2020"></a> NMT deployment
+- [Microsoft Azure ML pricing](https://azure.microsoft.com/en-us/pricing/details/machine-learning/) (for basic version)
+  - It does not have GPU support 
+  - Create and publish custom modules in Azure ML designer is not there
+
 ## Impediments
 - [x] Get at least 10,000 parallel open corpus for Odia language to begin with.
 - [ ] Verification of the existing corpus badly needed.
