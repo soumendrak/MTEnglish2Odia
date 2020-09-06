@@ -4,8 +4,10 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsoumendrak%2FMTEnglish2Odia.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsoumendrak%2FMTEnglish2Odia?ref=badge_shield)
 
-# MTEnglish2Odia
-## *We are at quality corpus collecting phase now. All source code written only to clean the data*.
+# Project moved
+This project has been moved under OdiaNLP GitHub organization. For more details please visit: https://odianlp.github.io/
+
+## MTEnglish2Odia
 
 Approx. Number of En-Or parallel reviewed pairs: **42,000**
 

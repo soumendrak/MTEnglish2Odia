@@ -1,6 +1,9 @@
 [Home page](https://soumendrak.github.io/MTEnglish2Odia/) | [MT_Flow_Pipleine](https://soumendrak.github.io/MTEnglish2Odia/MT_Flow_Pipleine) |
 [Wishlist](https://soumendrak.github.io/MTEnglish2Odia/possible_projects)
 
+# Project Moved
+This project has been moved under OdiaNLP GitHub organization. For more details please visit: https://odianlp.github.io/
+
 Machine translation from [English](https://en.wikipedia.org/wiki/English_language) to [Odia](https://en.wikipedia.org/wiki/Odia_language) language
 
 ## Analysis so far:
